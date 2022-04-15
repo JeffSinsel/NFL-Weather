@@ -1,0 +1,2814 @@
+,year,week,total_score,temperature,home_team,home_score,away_team,away_score,wind,wind_dir,weather
+0,2019,1,13,65,Bears,3,Packers,10,7,ESE,Mostly cloudy throughout the day
+1,2019,2,34,86,Panthers,14,Buccaneers,20,1,SE,Partly cloudy throughout the day
+2,2019,3,27,73,Jaguars,20,Titans,7,7,NE,Light rain starting in the afternoon
+3,2019,4,61,60,Packers,27,Eagles,34,2,S,Clear throughout the day
+4,2019,5,59,55,Seahawks,30,Rams,29,5,S,Possible drizzle in the evening
+5,2019,6,49,54,Patriots,35,Giants,14,9,NNE,"Light rain until afternoon, starting again overnight"
+6,2019,7,36,72,Broncos,6,Chiefs,30,5,NNW,Partly cloudy throughout the day
+7,2019,8,28,70,Vikings,19,Washington,9,,SSE,Partly cloudy throughout the day
+8,2019,9,53,70,Cardinals,25,49ers,28,2,E,Clear throughout the day
+9,2019,10,50,57,Raiders,26,Chargers,24,7,WNW,Foggy in the morning
+10,2019,11,28,37,Browns,21,Steelers,7,6,WSW,Snow in the morning
+11,2019,12,37,74,Texans,20,Colts,17,9,SE,Mostly cloudy throughout the day
+12,2019,13,44,70,Lions,20,Bears,24,8,NNW,Overcast throughout the day
+13,2019,14,55,40,Bears,31,Cowboys,24,8,S,Clear throughout the day
+14,2019,15,63,33,Ravens,42,Jets,21,3,SE,Clear throughout the day
+15,2019,16,43,73,Buccaneers,20,Texans,23,12,E,Light rain in the evening and overnight
+16,2019,17,19,39,Bills,6,Jets,13,8,SE,Rain starting in the afternoon
+17,2018,1,30,81,Eagles,18,Falcons,12,2,NW,Humid and mostly cloudy throughout the day
+18,2018,2,57,75,Bengals,34,Ravens,23,,NNW,Partly cloudy until afternoon
+19,2018,3,38,78,Browns,21,Jets,17,3,SSE,Foggy in the morning and humid throughout the day
+20,2018,4,69,83,Rams,38,Vikings,31,3,WSW,Partly cloudy until afternoon
+21,2018,5,62,66,Patriots,38,Colts,24,3,SW,Mostly cloudy throughout the day
+22,2018,6,47,70,Giants,13,Eagles,34,1,S,Rain starting in the afternoon
+23,2018,7,55,70,Cardinals,10,Broncos,45,1,WNW,Clear throughout the day
+24,2018,8,65,65,Texans,42,Dolphins,23,6,NNW,Rain in the morning
+25,2018,9,37,80,49ers,34,Raiders,3,3,NNW,Partly cloudy throughout the day
+26,2018,10,73,40,Steelers,52,Panthers,21,1,NE,Mostly cloudy throughout the day
+27,2018,11,51,54,Seahawks,27,Packers,24,3,S,Mostly cloudy throughout the day
+28,2018,12,39,70,Lions,16,Bears,23,9,E,Mostly cloudy throughout the day
+29,2018,13,23,73,Cowboys,13,Saints,10,7,SSE,Partly cloudy overnight
+30,2018,14,39,44,Titans,30,Jaguars,9,4,SW,Mostly cloudy throughout the day
+31,2018,15,57,37,Chiefs,28,Chargers,29,8,NNW,Overcast throughout the day
+32,2018,16,41,50,Titans,25,Washington,16,7,S,Mostly cloudy in the morning
+33,2018,17,59,28,Bills,42,Dolphins,17,7,WSW,Mostly cloudy until evening
+34,2017,1,69,62,Patriots,27,Chiefs,42,1,WSW,Partly cloudy throughout the day
+35,2017,2,22,67,Bengals,9,Texans,13,,SE,Mostly cloudy throughout the day
+36,2017,3,80,65,49ers,39,Rams,41,5,W,Partly cloudy overnight
+37,2017,4,49,64,Packers,35,Bears,14,4,SW,Partly cloudy starting in the evening
+38,2017,5,33,77,Buccaneers,14,Patriots,19,4,ENE,Partly cloudy in the morning
+39,2017,6,51,73,Panthers,23,Eagles,28,5,ENE,Light rain overnight
+40,2017,7,61,61,Raiders,31,Chiefs,30,4,SW,Light rain overnight
+41,2017,8,40,48,Ravens,40,Dolphins,0,,W,Partly cloudy until afternoon
+42,2017,9,55,64,Jets,34,Bills,21,2,S,Mostly cloudy in the morning
+43,2017,10,38,70,Cardinals,16,Seahawks,22,1,WSW,Clear throughout the day
+44,2017,11,57,37,Steelers,40,Titans,17,2,W,Mostly cloudy throughout the day
+45,2017,12,53,70,Lions,23,Vikings,30,7,SW,Partly cloudy throughout the day
+46,2017,13,52,58,Cowboys,38,Washington,14,,NNE,Clear throughout the day
+47,2017,14,37,70,Falcons,20,Saints,17,1,WNW,Mostly cloudy throughout the day
+48,2017,15,38,70,Colts,13,Broncos,25,,SSE,Mostly cloudy in the morning
+49,2017,16,39,61,Ravens,23,Colts,16,5,SSW,Rain and breezy in the evening
+50,2017,17,52,9,Steelers,28,Browns,24,,WSW,Mostly cloudy until evening
+51,2016,1,41,82,Broncos,21,Panthers,20,2,SSE,"Partly cloudy starting in the afternoon, continuing until evening"
+52,2016,2,68,54,Bills,31,Jets,37,2,NE,Clear throughout the day
+53,2016,3,27,68,Patriots,27,Texans,0,3,S,Clear throughout the day
+54,2016,4,29,59,Bengals,22,Dolphins,7,,NNW,Light rain starting in the afternoon
+55,2016,5,54,72,49ers,21,Cardinals,33,7,NW,Partly cloudy overnight
+56,2016,6,34,69,Chargers,21,Broncos,13,6,WNW,Mostly cloudy in the morning
+57,2016,7,36,47,Packers,26,Bears,10,3,NNW,Mostly cloudy throughout the day
+58,2016,8,58,66,Titans,36,Jaguars,22,4,NNW,Partly cloudy until afternoon
+59,2016,9,71,75,Buccaneers,28,Falcons,43,2,NNE,Partly cloudy in the morning
+60,2016,10,35,52,Ravens,28,Browns,7,1,SW,Partly cloudy in the afternoon
+61,2016,11,43,57,Panthers,23,Saints,20,2,S,Clear throughout the day
+62,2016,12,29,70,Lions,16,Vikings,13,7,WSW,Light rain in the morning
+63,2016,13,32,70,Vikings,15,Cowboys,17,5,NW,Mostly cloudy throughout the day
+64,2016,14,34,23,Chiefs,21,Raiders,13,4,NW,Clear throughout the day
+65,2016,15,27,35,Seahawks,24,Rams,3,3,NNE,Mostly cloudy throughout the day
+66,2016,16,43,41,Eagles,24,Giants,19,8,NW,Partly cloudy throughout the day
+67,2016,17,51,38,Steelers,27,Browns,24,1,SW,Mostly cloudy throughout the day
+68,2015,1,49,64,Patriots,28,Steelers,21,9,NE,"Rain until afternoon, starting again in the evening"
+69,2015,2,55,80,Chiefs,24,Broncos,31,8,SSW,Rain starting in the evening
+70,2015,3,53,66,Giants,32,Washington,21,2,ENE,Clear throughout the day
+71,2015,4,43,54,Steelers,20,Ravens,23,7,NE,Mostly cloudy throughout the day
+72,2015,5,47,76,Texans,20,Colts,27,2,SE,Partly cloudy throughout the day
+73,2015,6,52,70,Saints,31,Falcons,21,2,SSE,Dry throughout the day
+74,2015,7,23,66,49ers,3,Seahawks,20,3,NW,Partly cloudy in the morning
+75,2015,8,43,53,Patriots,36,Dolphins,7,9,WSW,Rain in the morning
+76,2015,9,41,65,Bengals,31,Browns,10,5,S,Light rain overnight
+77,2015,10,39,56,Jets,17,Bills,22,9,WSW,Light rain until afternoon
+78,2015,11,32,71,Jaguars,19,Titans,13,2,NW,Light rain in the morning and evening
+79,2015,12,59,70,Lions,45,Eagles,14,15,SSW,Drizzle in the morning
+80,2015,13,50,70,Lions,23,Packers,27,11,WSW,Mostly cloudy throughout the day
+81,2015,14,43,70,Cardinals,23,Vikings,20,1,NE,Partly cloudy throughout the day
+82,2015,15,54,70,Rams,31,Buccaneers,23,6,WNW,Mostly cloudy throughout the day
+83,2015,16,43,46,Raiders,23,Chargers,20,8,WNW,Light rain until afternoon
+84,2015,17,39,30,Bills,22,Jets,17,1,WSW,Light snow (under 1 in
+85,2014,1,52,70,Seahawks,36,Packers,16,,NW,"Clear, with a low around 52 "
+86,2014,2,32,80,Ravens,26,Steelers,6,,N,"Mostly cloudy, with a low around 59 "
+87,2014,3,70,70,Falcons,56,Buccaneers,14,,ESE,"Partly cloudy, with a low around 64 "
+88,2014,4,59,63,Washington,14,Giants,45,,NNE,Areas of fog after 5am 
+89,2014,5,52,63,Packers,42,Vikings,10,,SSE,Low around 56
+90,2014,6,61,77,Texans,28,Colts,33,,SE,A 20 percent chance of showers 
+91,2014,7,52,63,Patriots,27,Jets,25,,S,Patchy fog before 2am 
+92,2014,8,56,61,Broncos,35,Chargers,21,,SW,"Partly cloudy, with a low around 51 "
+93,2014,9,38,53,Panthers,10,Saints,28,,NNE,"Mostly clear, with a low around 41 "
+94,2014,10,27,43,Bengals,3,Browns,24,,N,A slight chance of showers before 3am 
+95,2014,11,31,71,Dolphins,22,Bills,9,,N,"Mostly clear, with a low around 65 "
+96,2014,12,44,55,Raiders,24,Chiefs,20,,ENE,"Rain, "
+97,2014,13,51,70,Lions,34,Bears,17,9,WNW,A chance of snow showers 
+98,2014,14,69,34,Bears,28,Cowboys,41,6,SE,Mostly cloudy throughout the day
+99,2014,15,18,70,Rams,6,Cardinals,12,1,SSE,Partly cloudy until afternoon
+100,2014,16,34,54,Jaguars,21,Titans,13,3,W,Partly cloudy throughout the day
+101,2014,17,37,41,Titans,10,Colts,27,5,NW,Light rain in the morning and afternoon
+102,2013,1,76,81,Broncos,49,Ravens,27,3,WNW,Isolated showers and thunderstorms before 11pm 
+103,2013,2,23,72,Patriots,13,Jets,10,,SW,Showers and possibly a thunderstorm 
+104,2013,3,42,64,Eagles,16,Chiefs,26,,SW,"Clear, with a low around 56 "
+105,2013,4,46,70,Rams,11,49ers,35,,ESE,"Mostly clear, with a low around 59 "
+106,2013,5,61,63,Browns,37,Bills,24,,S,A chance of showers and thunderstorms 
+107,2013,6,48,63,Bears,27,Giants,21,,E,"Partly cloudy, with a low around 58 "
+108,2013,7,56,70,Cardinals,22,Seahawks,34,,SSW,"Clear, with a low around 54 "
+109,2013,8,44,65,Buccaneers,13,Panthers,31,,NNE,"Partly cloudy, with a low around 59 "
+110,2013,9,42,78,Dolphins,22,Bengals,20,,ESE,"Partly cloudy, with a low around 74 "
+111,2013,10,61,70,Vikings,34,Washington,27,,N,"Partly cloudy, with a low around 25 "
+112,2013,11,57,40,Titans,27,Colts,30,,S,"Partly cloudy, with a low around 35 "
+113,2013,12,30,70,Falcons,13,Saints,17,,E,A 20 percent chance of light rain 
+114,2013,13,50,70,Lions,40,Packers,10,6,S,A chance of snow 
+115,2013,14,47,70,Jaguars,27,Texans,20,,SSE,Areas of dense fog after 2am 
+116,2013,15,47,39,Broncos,20,Chargers,27,,NNW,"Mostly clear, with a low around 23 "
+117,2013,16,19,36,Bills,19,Dolphins,0,,SSW,A chance of showers 
+118,2013,17,41,70,Falcons,20,Panthers,21,,WNW,"Mostly sunny, with a high near 53 "
+119,2012,1,41,74,Giants,17,Cowboys,24,,N,Patchy fog after 2am 
+120,2012,2,33,54,Packers,23,Bears,10,,WSW,"Increasing clouds, with a low around 46 "
+121,2012,3,43,67,Panthers,7,Giants,36,,N,"Partly cloudy, with a low around 57 "
+122,2012,4,39,67,Ravens,23,Browns,16,,N,"Showers likely, mainly before 2am "
+123,2012,5,20,70,Rams,17,Cardinals,3,,NNW,"A 50 percent chance of showers and thunderstorms, mainly after 2am "
+124,2012,6,49,61,Titans,26,Steelers,23,4,SW,"Showers and thunderstorms likely, mainly after 1am "
+125,2012,7,19,73,49ers,13,Seahawks,6,,SSE,"Clear, with a low around 55 "
+126,2012,8,53,70,Vikings,17,Buccaneers,36,,W,"Cloudy, then gradually becoming partly cloudy, with a low around 31 "
+127,2012,9,44,61,Chargers,31,Chiefs,13,,WNW,A chance of drizzle after 11pm 
+128,2012,10,37,47,Jaguars,10,Colts,27,,N,"Clear, with a low around 45 "
+129,2012,11,33,36,Bills,19,Dolphins,14,,N,"Partly cloudy, with a low around 27 "
+130,2012,12,65,70,Lions,31,Texans,34,,SSW,"Mostly sunny, with a high near 61 "
+131,2012,13,36,70,Falcons,23,Saints,13,,N,Patchy fog after 1am 
+132,2012,14,39,57,Raiders,13,Broncos,26,,N,"Partly cloudy, with a low around 48 "
+133,2012,15,47,40,Eagles,13,Bengals,34,,SSW,"Clear, with a low around 32 "
+134,2012,16,49,70,Lions,18,Falcons,31,,WSW,"Partly cloudy, with a low around 25 "
+135,2012,17,39,70,Falcons,17,Buccaneers,22,,NW,"Sunny, with a high near 46 "
+136,2011,1,76,63,Packers,42,Saints,34,,,
+137,2011,2,51,70,Lions,48,Chiefs,3,,,
+138,2011,3,26,75,Panthers,16,Jaguars,10,,,
+139,2011,4,43,59,Bengals,23,Bills,20,,,
+140,2011,5,55,78,Steelers,38,Titans,17,,,
+141,2011,6,51,67,Giants,27,Bills,24,,,
+142,2011,7,33,79,Dolphins,15,Broncos,18,,,
+143,2011,8,37,45,Giants,20,Dolphins,17,,,
+144,2011,9,38,61,Bills,11,Jets,27,,,
+145,2011,10,41,67,Chargers,17,Raiders,24,,,
+146,2011,11,30,48,Broncos,17,Jets,13,,,
+147,2011,12,42,70,Lions,15,Packers,27,,,
+148,2011,13,45,39,Seahawks,31,Eagles,14,,,
+149,2011,14,17,30,Steelers,14,Browns,3,,,
+150,2011,15,55,70,Falcons,41,Jaguars,14,,,
+151,2011,16,35,70,Colts,19,Texans,16,,,
+152,2011,17,36,77,Dolphins,19,Jets,17,,,
+153,2010,1,23,70,Saints,14,Vikings,9,,,
+154,2010,2,25,73,Bengals,15,Ravens,10,,,
+155,2010,3,68,67,Patriots,38,Bills,30,,,
+156,2010,4,52,48,Bills,14,Jets,38,,,
+157,2010,5,45,78,Bengals,21,Buccaneers,24,,,
+158,2010,6,38,60,Steelers,28,Browns,10,,,
+159,2010,7,62,64,Chiefs,42,Jaguars,20,,,
+160,2010,8,9,55,Jets,0,Packers,9,,,
+161,2010,9,48,70,Falcons,27,Buccaneers,21,,,
+162,2010,10,47,70,Falcons,26,Ravens,21,,,
+163,2010,11,16,80,Dolphins,0,Bears,16,,,
+164,2010,12,69,70,Lions,24,Patriots,45,,,
+165,2010,13,58,37,Eagles,34,Texans,24,,,
+166,2010,14,58,41,Titans,28,Colts,30,,,
+167,2010,15,41,59,Chargers,34,49ers,7,,,
+168,2010,16,30,27,Steelers,27,Panthers,3,,,
+169,2010,17,45,46,Patriots,38,Dolphins,7,,,
+170,2009,1,23,67,Steelers,13,Titans,10,,,
+171,2009,2,65,76,Titans,31,Texans,34,,,
+172,2009,3,33,70,Lions,19,Washington,14,,,
+173,2009,4,72,52,Bears,48,Lions,24,,,
+174,2009,5,9,45,Bills,3,Browns,6,,,
+175,2009,6,45,48,Bengals,17,Texans,28,,,
+176,2009,7,34,54,Browns,3,Packers,31,,,
+177,2009,8,41,48,Bills,10,Texans,31,,,
+178,2009,9,48,70,Falcons,31,Washington,17,,,
+179,2009,10,16,60,49ers,10,Bears,6,,,
+180,2009,11,41,61,Panthers,17,Dolphins,24,,,
+181,2009,12,46,70,Lions,12,Packers,34,,,
+182,2009,13,32,42,Bills,13,Jets,19,,,
+183,2009,14,19,16,Browns,13,Steelers,6,,,
+184,2009,15,66,60,Jaguars,31,Colts,35,,,
+185,2009,16,59,34,Titans,17,Chargers,42,,,
+186,2009,17,37,14,Bills,30,Colts,7,,,
+187,2019,1,57,85,Panthers,27,Rams,30,3,E,Clear throughout the day
+188,2019,2,40,81,Ravens,23,Cardinals,17,3,NNW,Mostly cloudy throughout the day
+189,2019,3,38,79,Bills,21,Bengals,17,9,WSW,Partly cloudy throughout the day
+190,2019,4,34,70,Falcons,10,Titans,24,4,SE,Foggy in the morning
+191,2019,5,61,74,Panthers,34,Jaguars,27,1,E,Overcast throughout the day
+192,2019,6,33,83,Dolphins,16,Washington,17,9,ESE,Humid and 
+193,2019,7,52,59,Bills,31,Dolphins,21,3,WSW,Partly cloudy throughout the day
+194,2019,8,47,70,Falcons,20,Seahawks,27,6,WNW,Possible drizzle in the morning
+195,2019,9,29,47,Jaguars,3,Texans,26,7,SSW,Mostly cloudy throughout the day
+196,2019,10,62,56,Bengals,13,Ravens,49,5,SSW,Clear throughout the day
+197,2019,11,32,52,Panthers,3,Falcons,29,1,NNE,Partly cloudy throughout the day
+198,2019,12,23,37,Bills,20,Broncos,3,7,WSW,Partly cloudy throughout the day
+199,2019,13,41,47,Cowboys,15,Bills,26,6,ENE,"Rain until morning, starting again in the evening"
+200,2019,14,60,70,Falcons,40,Panthers,20,9,E,Partly cloudy throughout the day
+201,2019,15,54,53,Panthers,24,Seahawks,30,4,SW,Clear throughout the day
+202,2019,16,41,32,Patriots,24,Bills,17,3,S,Mostly cloudy throughout the day
+203,2019,17,50,78,Buccaneers,22,Falcons,28,1,S,Humid and 
+204,2018,1,50,62,Ravens,47,Bills,3,11,ENE,Rain until evening and breezy starting in the evening
+205,2018,2,55,70,Falcons,31,Panthers,24,5,NW,Mostly cloudy until evening
+206,2018,3,80,70,Falcons,37,Saints,43,3,SE,"Partly cloudy starting in the afternoon, continuing until evening"
+207,2018,4,43,86,Jaguars,31,Jets,12,1,ENE,Humid and 
+208,2018,5,25,65,Bills,13,Titans,12,3,ENE,Mostly cloudy throughout the day
+209,2018,6,63,70,Falcons,34,Buccaneers,29,3,ESE,Partly cloudy until afternoon
+210,2018,7,39,64,Chargers,20,Titans,19,7,E,Partly cloudy starting in the afternoon
+211,2018,8,42,48,Jaguars,18,Eagles,24,13,NE,Partly cloudy until evening
+212,2018,9,50,43,Bills,9,Bears,41,8,ESE,Mostly cloudy throughout the day
+213,2018,10,65,38,Bengals,14,Saints,51,3,SSE,Partly cloudy throughout the day
+214,2018,11,45,46,Ravens,24,Bengals,21,4,SSE,Mostly cloudy throughout the day
+215,2018,12,54,63,Cowboys,31,Washington,23,6,SSE,Mostly cloudy starting in the afternoon
+216,2018,13,42,70,Falcons,16,Ravens,26,4,SW,Mostly cloudy until afternoon
+217,2018,14,50,25,Bills,23,Jets,27,6,WSW,Mostly cloudy throughout the day
+218,2018,15,33,54,Broncos,16,Browns,17,2,NW,Partly cloudy until afternoon
+219,2018,16,32,64,Chargers,10,Ravens,22,4,WSW,Partly cloudy in the morning
+220,2018,17,31,25,Packers,0,Lions,31,11,SSW,Mostly cloudy until afternoon
+221,2017,1,33,61,Bills,21,Jets,12,6,NNE,Partly cloudy in the afternoon
+222,2017,2,34,78,Ravens,24,Browns,10,1,ENE,Mostly cloudy until afternoon
+223,2017,3,51,70,Jaguars,44,Ravens,7,7,SSE,Rain overnight
+224,2017,4,20,62,Dolphins,0,Saints,20,9,SSW,Light rain in the morning and afternoon
+225,2017,5,31,68,Browns,14,Jets,17,5,W,Heavy rain starting in the evening
+226,2017,6,51,68,Ravens,24,Bears,27,4,SSW,Rain overnight
+227,2017,7,57,73,Bills,30,Buccaneers,27,3,SSW,Mostly cloudy starting in the afternoon
+228,2017,8,49,54,Browns,16,Vikings,33,5,NNE,Partly cloudy in the morning
+229,2017,9,34,82,Texans,14,Colts,20,4,SW,Humid and 
+230,2017,10,39,39,Bears,16,Packers,23,,NNW,Mostly cloudy throughout the day
+231,2017,11,50,80,Dolphins,20,Buccaneers,30,4,W,Clear throughout the day
+232,2017,12,34,67,Cowboys,6,Chargers,28,1,S,Clear throughout the day
+233,2017,13,23,70,Falcons,9,Vikings,14,1,NNE,Foggy in the morning
+234,2017,14,20,26,Bills,13,Colts,7,4,W,Snow (1–4 in
+235,2017,15,30,70,Lions,20,Bears,10,5,NE,Foggy starting in the evening
+236,2017,16,16,9,Packers,0,Vikings,16,1,SW,Mostly cloudy until afternoon
+237,2017,17,46,70,Lions,35,Packers,11,5,NNW,Partly cloudy in the morning
+238,2016,1,55,70,Falcons,24,Buccaneers,31,2,NNW,"Light rain starting in the afternoon, continuing until evening"
+239,2016,2,73,85,Panthers,46,49ers,27,3,SE,Light rain in the morning and overnight
+240,2016,3,51,62,Bills,33,Cardinals,18,1,NE,Partly cloudy starting in the evening
+241,2016,4,57,58,Jaguars,30,Colts,27,6,NNW,Partly cloudy until afternoon
+242,2016,5,46,57,Browns,13,Patriots,33,9,NW,Partly cloudy throughout the day
+243,2016,6,61,72,Bills,45,49ers,16,9,SW,"Light rain until afternoon, starting again in the evening"
+244,2016,7,27,54,Rams,10,Giants,17,1,ENE,Partly cloudy in the morning
+245,2016,8,54,52,Bengals,27,Washington,27,3,ESE,Foggy until afternoon
+246,2016,9,38,70,Vikings,16,Lions,22,5,S,Partly cloudy overnight
+247,2016,10,45,71,Jaguars,21,Texans,24,6,N,Mostly cloudy throughout the day
+248,2016,11,33,35,Browns,9,Steelers,24,16,WNW,Drizzle in the morning
+249,2016,12,57,69,Cowboys,31,Washington,26,5,S,Partly cloudy starting in the evening
+250,2016,13,57,70,Falcons,28,Chiefs,29,5,ENE,Rain throughout the day
+251,2016,14,47,24,Bills,20,Steelers,27,6,S,Snow (3–6 in
+252,2016,15,47,34,Jets,13,Dolphins,34,3,SW,Snow (3–6 in
+253,2016,16,65,35,Bills,31,Dolphins,34,7,W,Light rain in the morning
+254,2016,17,37,38,Bengals,27,Ravens,10,1,E,Light rain overnight
+255,2015,1,54,68,Bears,23,Packers,31,4,WNW,Partly cloudy in the morning
+256,2015,2,41,88,Panthers,24,Texans,17,2,N,Mostly cloudy throughout the day
+257,2015,3,67,89,Cowboys,28,Falcons,39,4,ENE,Partly cloudy starting in the evening
+258,2015,4,41,62,Dolphins,14,Jets,27,6,SSE,Mostly cloudy starting in the evening
+259,2015,5,35,80,Chiefs,17,Bears,18,11,SSW,Clear throughout the day
+260,2015,6,54,48,Jets,34,Washington,20,1,NW,"Partly cloudy starting in the afternoon, continuing until evening"
+261,2015,7,65,51,Jaguars,34,Bills,31,3,SSE,Partly cloudy starting in the evening
+262,2015,8,55,57,Chiefs,45,Lions,10,3,S,Foggy until afternoon
+263,2015,9,66,53,Panthers,37,Packers,29,7,ENE,Light rain in the morning and overnight
+264,2015,10,34,57,Packers,16,Lions,18,6,SW,Partly cloudy overnight
+265,2015,11,31,70,Lions,18,Raiders,13,1,W,Partly cloudy overnight
+266,2015,12,47,68,Cowboys,14,Panthers,33,11,SE,Humid and 
+267,2015,13,43,52,Giants,20,Jets,23,5,SSW,Partly cloudy starting in the evening
+268,2015,14,43,69,Eagles,23,Bills,20,1,SW,Mostly cloudy throughout the day
+269,2015,15,35,50,Cowboys,16,Jets,19,7,SSE,Partly cloudy overnight
+270,2015,16,62,50,Eagles,24,Washington,38,5,ENE,Mostly cloudy throughout the day
+271,2015,17,30,78,Dolphins,20,Patriots,10,4,NE,Rain in the morning and afternoon
+272,2014,1,71,70,Falcons,37,Saints,34,6,W,Showers and thunderstorms likely 
+273,2014,2,39,61,Bills,29,Dolphins,10,,W,"Mostly clear, with a low around 40 "
+274,2014,3,32,72,Bills,10,Chargers,22,,SW,Scattered showers 
+275,2014,4,55,78,Bears,17,Packers,38,,E,"Mostly sunny, with a high near 69 "
+276,2014,5,37,81,Cowboys,20,Texans,17,,N,"Mostly sunny, with a high near 84 "
+277,2014,6,59,59,Bills,22,Patriots,37,3,N,"A chance of sprinkles between 1am and 4am, then a chance of showers after 4am "
+278,2014,7,33,45,Bills,17,Vikings,16,,WSW,"Mostly cloudy, with a low around 36 "
+279,2014,8,43,58,Falcons,21,Lions,22,,,"Cloudy, with a high near 61"
+280,2014,9,56,46,Bengals,33,Jaguars,23,,SSE,"Sunny, with a high near 47 "
+281,2014,10,30,41,Bills,13,Chiefs,17,,SSW,"Mostly sunny, with a high near 42 "
+282,2014,11,34,32,Bears,21,Vikings,13,,SSW,Scattered flurries 
+283,2014,12,50,70,Falcons,24,Browns,26,,ENE,Showers and possibly a thunderstorm 
+284,2014,13,43,57,Cowboys,10,Eagles,33,,N,"Mostly clear, with a low around 40 "
+285,2014,14,63,42,Bengals,21,Steelers,42,3,NE,Mostly cloudy starting in the afternoon
+286,2014,15,47,70,Falcons,20,Steelers,27,8,WNW,Clear throughout the day
+287,2014,16,51,35,Washington,27,Eagles,24,1,W,Mostly cloudy throughout the day
+288,2014,17,26,37,Chiefs,19,Chargers,7,5,SW,Partly cloudy starting in the evening
+289,2013,1,44,65,Bills,21,Patriots,23,,N,"Mostly clear, with a low around 41 "
+290,2013,2,55,70,Falcons,31,Rams,24,,N,"Mostly sunny, with a high near 82 "
+291,2013,3,64,67,Bengals,34,Packers,30,,NE,"Clear, with a low around 47 "
+292,2013,4,43,74,Bills,23,Ravens,20,,SW,"Partly cloudy, with a low around 54 "
+293,2013,5,44,61,Bears,18,Saints,26,,WSW,"Mostly sunny, with a high near 63 "
+294,2013,6,51,68,Bills,24,Bengals,27,,SSW,Scattered sprinkles 
+295,2013,7,54,70,Falcons,31,Buccaneers,23,,N,"Sunny, with a high near 67 "
+296,2013,8,61,70,Lions,31,Cowboys,30,,WSW,"Mostly sunny, with a high near 51 "
+297,2013,9,36,38,Bills,13,Chiefs,23,,NNW,"Partly sunny, with a high near 33 "
+298,2013,10,43,70,Falcons,10,Seahawks,33,,N,"Mostly sunny, with a high near 68 "
+299,2013,11,51,85,Texans,23,Raiders,28,,SSW,A 30 percent chance of showers 
+300,2013,12,38,33,Browns,11,Steelers,27,,WNW,Snow and 
+301,2013,13,55,52,Cowboys,31,Raiders,24,,N,"Partly cloudy, with a low around 33 "
+302,2013,14,70,28,Bengals,42,Colts,28,,E,"A chance of freezing rain and sleet before 5pm, then a chance of rain, freezing rain, and sleet "
+303,2013,15,53,70,Falcons,27,Washington,26,,NW,"Mostly sunny, with a high near 44 "
+304,2013,16,56,53,Bengals,42,Vikings,14,,SSW,"Mostly cloudy, with a steady temperature around 44 "
+305,2013,17,51,59,Bengals,34,Ravens,17,,SW,"Mostly cloudy, with a high near 44 "
+306,2012,1,40,83,Texans,30,Dolphins,10,,N,"Sunny, with a high near 91 "
+307,2012,2,52,68,Bills,35,Chiefs,17,,SW,"Sunny, with a high near 66 "
+308,2012,3,29,58,Bears,23,Rams,6,,W,"Sunny, with a high near 60 "
+309,2012,4,58,70,Falcons,30,Panthers,28,,ESE,A 50 percent chance of showers and thunderstorms 
+310,2012,5,30,51,Bengals,13,Dolphins,17,,WSW,"Partly sunny, with a high near 54 "
+311,2012,6,43,70,Falcons,23,Raiders,20,,S,"Mostly cloudy, with a high near 75 "
+312,2012,7,69,55,Bills,34,Titans,35,,WSW,"Mostly sunny, with a high near 55 "
+313,2012,8,45,47,Bears,23,Panthers,22,18,NNE,Cloudy and 
+314,2012,9,54,48,Bengals,23,Broncos,31,,NNW,"Partly sunny, with a high near 49 "
+315,2012,10,44,67,Bengals,31,Giants,13,,S,"Mostly sunny, with a high near 72 "
+316,2012,11,42,70,Falcons,23,Cardinals,19,,NNE,"Mostly sunny, with a high near 64 "
+317,2012,12,69,75,Cowboys,31,Washington,38,,SSE,A 20 percent chance of rain 
+318,2012,13,52,51,Bills,34,Jaguars,18,,SSW,High near 50
+319,2012,14,27,37,Bills,12,Rams,15,,E,"Rain likely, mainly after 5pm "
+320,2012,15,34,70,Falcons,34,Giants,0,,SE,High near 60
+321,2012,16,65,64,Cowboys,31,Saints,34,,SW,"Mostly sunny, with a high near 68 "
+322,2012,17,37,27,Bills,28,Jets,9,,WNW,"Scattered snow showers, mainly after 5pm "
+323,2011,1,30,90,Jaguars,16,Titans,14,,,
+324,2011,2,73,66,Bills,38,Raiders,35,,,
+325,2011,3,73,70,Saints,40,Texans,33,,,
+326,2011,4,44,55,Browns,13,Titans,31,,,
+327,2011,5,45,76,Texans,20,Raiders,25,,,
+328,2011,6,44,77,Bengals,27,Colts,17,,,
+329,2011,7,48,70,Jets,27,Chargers,21,,,
+330,2011,8,38,69,Texans,24,Jaguars,14,,,
+331,2011,9,42,77,Texans,30,Browns,12,,,
+332,2011,10,51,81,Cowboys,44,Bills,7,,,
+333,2011,11,48,70,Vikings,21,Raiders,27,,,
+334,2011,12,39,59,Cowboys,20,Dolphins,19,,,
+335,2011,13,53,56,Washington,19,Jets,34,,,
+336,2011,14,61,40,Washington,27,Patriots,34,,,
+337,2011,15,46,67,Buccaneers,15,Cowboys,31,,,
+338,2011,16,54,31,Bills,40,Broncos,14,,,
+339,2011,17,70,54,Patriots,49,Bills,21,,,
+340,2010,1,25,64,Bills,10,Dolphins,15,,,
+341,2010,2,27,84,Panthers,7,Buccaneers,20,,,
+342,2010,3,51,70,Saints,24,Falcons,27,,,
+343,2010,4,23,70,Rams,20,Seahawks,3,,,
+344,2010,5,30,66,Browns,10,Falcons,20,,,
+345,2010,6,37,79,Buccaneers,6,Saints,31,,,
+346,2010,7,71,72,Ravens,37,Bills,34,,,
+347,2010,8,40,54,49ers,24,Broncos,16,,,
+348,2010,9,37,50,Panthers,3,Saints,34,,,
+349,2010,10,55,70,Jaguars,31,Texans,24,,,
+350,2010,11,34,70,Vikings,3,Packers,31,,,
+351,2010,12,57,39,Cowboys,27,Saints,30,,,
+352,2010,13,23,35,Titans,6,Jaguars,17,,,
+353,2010,14,30,41,Steelers,23,Bengals,7,,,
+354,2010,15,31,65,Dolphins,14,Bills,17,,,
+355,2010,16,53,70,Cardinals,27,Cowboys,26,,,
+356,2010,17,36,70,Saints,13,Buccaneers,23,,,
+357,2009,1,72,70,Saints,45,Lions,27,,,
+358,2009,2,48,70,Falcons,28,Panthers,20,,,
+359,2009,3,53,70,Rams,17,Packers,36,,,
+360,2009,4,43,56,Browns,20,Bengals,23,,,
+361,2009,5,46,39,Chiefs,20,Cowboys,26,,,
+362,2009,6,26,43,Packers,26,Lions,0,,,
+363,2009,7,44,59,Chiefs,7,Chargers,37,,,
+364,2009,8,36,48,Bears,30,Browns,6,,,
+365,2009,9,62,62,Bears,21,Cardinals,41,,,
+366,2009,10,58,66,Titans,41,Bills,17,,,
+367,2009,11,13,61,Cowboys,7,Washington,6,,,
+368,2009,12,31,61,Cowboys,24,Raiders,7,,,
+369,2009,13,41,70,Falcons,7,Eagles,34,,,
+370,2009,14,49,70,Falcons,23,Saints,26,,,
+371,2009,15,41,70,Saints,17,Cowboys,24,,,
+372,2009,16,34,70,Falcons,31,Bills,3,,,
+373,2009,17,40,18,Browns,23,Jaguars,17,,,
+374,2019,1,59,79,Eagles,32,Washington,27,4,W,Partly cloudy throughout the day
+375,2019,2,52,82,Washington,21,Cowboys,31,3,NW,Mostly cloudy throughout the day
+376,2019,3,51,86,Eagles,24,Lions,27,5,SSW,Partly cloudy throughout the day
+377,2019,4,27,78,Giants,24,Washington,3,6,N,Partly cloudy throughout the day
+378,2019,5,40,70,Washington,7,Patriots,33,6,SSW,Overcast throughout the day
+379,2019,6,58,70,Vikings,38,Eagles,20,9,W,Possible flurries in the morning
+380,2019,7,44,72,Bengals,17,Jaguars,27,1,NW,Mostly cloudy throughout the day
+381,2019,8,50,59,Titans,27,Buccaneers,23,1,W,Mostly cloudy throughout the day
+382,2019,9,36,51,Eagles,22,Bears,14,7,WNW,Clear throughout the day
+383,2019,10,35,48,Browns,19,Bills,16,5,W,Mostly cloudy throughout the day
+384,2019,11,62,70,Lions,27,Cowboys,35,3,ESE,Clear throughout the day
+385,2019,12,33,44,Bears,19,Giants,14,8,SW,Partly cloudy throughout the day
+386,2019,13,44,70,Falcons,18,Saints,26,5,NW,Foggy in the evening and overnight
+387,2019,14,73,76,Buccaneers,38,Colts,35,8,ESE,Clear throughout the day
+388,2019,15,64,51,Washington,27,Eagles,37,11,NNW,Clear throughout the day
+389,2019,16,65,58,49ers,34,Rams,31,5,S,Possible light rain overnight
+390,2019,17,52,65,Panthers,10,Saints,42,7,S,Light rain throughout the day
+391,2018,1,35,58,Giants,15,Jaguars,20,4,NE,Light rain overnight
+392,2018,2,30,73,Washington,9,Colts,21,5,ENE,Mostly cloudy throughout the day
+393,2018,3,48,63,Washington,31,Packers,17,4,ENE,Light rain in the morning and afternoon
+394,2018,4,45,66,Patriots,38,Dolphins,7,3,W,Clear throughout the day
+395,2018,5,58,82,Steelers,41,Falcons,17,6,SSW,Mostly cloudy in the morning
+396,2018,6,40,54,Washington,23,Panthers,17,,SE,Mostly cloudy throughout the day
+397,2018,7,49,80,Buccaneers,26,Browns,23,5,SW,Partly cloudy throughout the day
+398,2018,8,53,60,Chiefs,30,Broncos,23,8,NW,Partly cloudy in the morning
+399,2018,9,70,60,Panthers,42,Buccaneers,28,4,E,Light rain overnight
+400,2018,10,44,38,Browns,28,Falcons,16,2,SSW,Mostly cloudy until afternoon
+401,2018,11,39,70,Lions,20,Panthers,19,,N,Light snow (< 1 in
+402,2018,12,48,70,Saints,31,Falcons,17,2,ESE,Mostly cloudy until afternoon
+403,2018,13,41,80,Buccaneers,24,Panthers,17,15,SSW,Breezy and 
+404,2018,14,56,32,Washington,16,Giants,40,4,NE,Mostly cloudy starting in the afternoon
+405,2018,15,51,50,Jets,22,Texans,29,8,NE,Mostly cloudy throughout the day
+406,2018,16,55,70,Colts,28,Giants,27,8,NW,Mostly cloudy until evening
+407,2018,17,23,45,Texans,20,Jaguars,3,6,NNW,Rain in the afternoon
+408,2017,1,47,69,Washington,17,Eagles,30,3,NNE,Partly cloudy in the afternoon
+409,2017,2,36,88,Buccaneers,29,Bears,7,4,NNE,Partly cloudy in the morning
+410,2017,3,59,70,Colts,31,Browns,28,2,ESE,Clear throughout the day
+411,2017,4,71,84,Texans,57,Titans,14,,E,Partly cloudy overnight
+412,2017,5,51,70,Lions,24,Panthers,27,4,SSW,Light rain overnight
+413,2017,6,50,85,Texans,33,Browns,17,2,N,"Light rain starting in the afternoon, continuing until evening"
+414,2017,7,43,73,Steelers,29,Bengals,14,1,SSW,Mostly cloudy starting in the afternoon
+415,2017,8,45,62,Jets,20,Falcons,25,2,ENE,Heavy rain starting in the afternoon and breezy starting in the evening
+416,2017,9,30,77,Jaguars,23,Bengals,7,4,NE,Foggy in the morning
+417,2017,10,62,70,Lions,38,Browns,24,1,SSW,Mostly cloudy throughout the day
+418,2017,11,26,38,Browns,7,Jaguars,19,8,WNW,Mixed precipitation in the morning and afternoon
+419,2017,12,30,32,Washington,20,Giants,10,,SSE,Clear throughout the day
+420,2017,13,37,59,Titans,24,Texans,13,2,ESE,Partly cloudy starting in the afternoon
+421,2017,14,45,53,Buccaneers,21,Lions,24,4,N,Partly cloudy in the morning
+422,2017,15,43,50,Chiefs,30,Chargers,13,2,S,Mostly cloudy overnight
+423,2017,16,43,35,Bengals,26,Lions,17,2,SSE,Mixed precipitation in the evening and breezy starting in the evening
+424,2017,17,35,70,Colts,22,Texans,13,3,NNW,Foggy in the morning
+425,2016,1,41,77,Titans,16,Vikings,25,3,NE,Partly cloudy in the morning
+426,2016,2,50,84,Washington,23,Cowboys,27,5,S,Rain starting in the evening
+427,2016,3,27,89,Titans,10,Raiders,17,3,NW,Clear throughout the day
+428,2016,4,47,82,Texans,27,Titans,20,4,NE,"Partly cloudy starting in the afternoon, continuing until evening"
+429,2016,5,47,70,Lions,24,Eagles,23,6,NNW,Partly cloudy in the afternoon
+430,2016,6,47,69,Washington,27,Eagles,20,5,SSW,Partly cloudy overnight
+431,2016,7,48,69,Chiefs,27,Saints,21,6,WSW,Clear throughout the day
+432,2016,8,44,70,Colts,14,Chiefs,30,5,NW,Mostly cloudy throughout the day
+433,2016,9,51,57,Giants,28,Eagles,23,8,NNW,Partly cloudy in the afternoon
+434,2016,10,48,70,Saints,23,Broncos,25,4,N,Partly cloudy in the morning
+435,2016,11,44,53,Cowboys,27,Ravens,17,7,S,Clear throughout the day
+436,2016,12,35,70,Colts,7,Steelers,28,4,W,Overcast throughout the day
+437,2016,13,41,70,Saints,13,Lions,28,1,WNW,"Rain until evening, starting again overnight"
+438,2016,14,23,48,Titans,13,Broncos,10,11,S,Rain starting in the evening
+439,2016,15,57,9,Bears,27,Packers,30,7,WNW,Snow (under 1 in
+440,2016,16,55,70,Saints,31,Buccaneers,24,4,SE,Foggy overnight
+441,2016,17,41,49,Titans,24,Texans,17,2,NE,Light rain in the morning
+442,2015,1,47,83,Texans,20,Chiefs,27,8,E,Clear throughout the day
+443,2015,2,61,69,Steelers,43,49ers,18,2,NW,Partly cloudy overnight
+444,2015,3,68,77,Titans,33,Colts,35,4,SE,Mostly cloudy throughout the day
+445,2015,4,29,70,Colts,16,Jaguars,13,8,NE,Partly cloudy until evening
+446,2015,5,51,72,Bengals,27,Seahawks,24,7,SSW,Mostly cloudy in the morning
+447,2015,6,38,42,Steelers,25,Cardinals,13,8,W,Partly cloudy until evening
+448,2015,7,61,70,Washington,31,Buccaneers,30,8,NW,Light rain in the morning
+449,2015,8,43,70,Falcons,20,Buccaneers,23,2,NNE,Rain in the morning and evening
+450,2015,9,37,54,Patriots,27,Washington,10,8,W,Clear throughout the day
+451,2015,10,16,77,Buccaneers,10,Cowboys,6,9,E,Mostly cloudy throughout the day
+452,2015,11,45,70,Falcons,21,Colts,24,8,NW,Mostly cloudy in the morning
+453,2015,12,30,35,Packers,13,Bears,17,1,N,Rain throughout the day
+454,2015,13,30,70,Rams,3,Cardinals,27,4,SW,Mostly cloudy throughout the day
+455,2015,14,34,62,Browns,24,49ers,10,8,SSE,Partly cloudy in the morning
+456,2015,15,55,36,Vikings,38,Bears,17,3,SSW,Mostly cloudy throughout the day
+457,2015,16,46,56,Jets,26,Patriots,20,7,SW,Light rain starting in the evening
+458,2015,17,37,70,Falcons,17,Saints,20,8,WNW,Partly cloudy starting in the afternoon
+459,2014,1,43,77,Bears,20,Bills,23,,ESE,"Sunny, with a high near 75 "
+460,2014,2,34,68,Bengals,24,Falcons,10,,N,"Mostly clear, with a low around 48 "
+461,2014,3,40,79,Bengals,33,Titans,7,,W,"Mostly cloudy, with a low around 47 "
+462,2014,4,58,70,Colts,41,Titans,17,,N,"Mostly sunny, with a high near 84 "
+463,2014,5,31,70,Lions,14,Bills,17,,SW,"Partly sunny, with a high near 53 "
+464,2014,6,74,62,Bengals,37,Panthers,37,6,S,A slight chance of showers after 5pm 
+465,2014,7,41,55,Bears,14,Dolphins,27,,SW,"Mostly sunny, with a high near 56 "
+466,2014,9,39,0,Browns,22,Buccaneers,17,,W,"Mostly sunny, with a high near 46 "
+467,2014,10,36,70,Lions,20,Dolphins,16,,SW,"Mostly cloudy, with a high near 47 "
+468,2014,11,30,34,Browns,7,Texans,23,,SSW,"Cloudy, with a high near 37 "
+469,2014,12,34,53,Bears,21,Buccaneers,13,,S,High near 54
+470,2014,13,22,58,49ers,3,Seahawks,19,,N,"Mostly clear, with a low around 46 "
+471,2014,14,49,38,Browns,24,Colts,25,11,NE,Mostly cloudy throughout the day
+472,2014,15,34,34,Bills,21,Packers,13,9,W,Foggy starting in the evening
+473,2014,16,73,58,49ers,35,Chargers,38,1,SW,Overcast throughout the day
+474,2014,17,61,80,Dolphins,24,Jets,37,7,SE,Partly cloudy throughout the day
+475,2013,1,45,77,Bears,24,Bengals,21,,NE,"Partly sunny, with a high near 73 "
+476,2013,2,47,66,Bills,24,Panthers,23,,SW,"Showers likely, mainly before 1am "
+477,2013,3,38,79,Cowboys,31,Rams,7,,ENE,"Sunny, with a high near 83 "
+478,2013,4,23,0,Browns,17,Bengals,6,,S,A chance of showers 
+479,2013,5,19,74,Bengals,13,Patriots,6,,S,Showers and possibly a thunderstorm 
+480,2013,6,48,67,Browns,17,Lions,31,8,N,A slight chance of showers 
+481,2013,7,51,70,Lions,24,Bengals,27,,SW,"Partly sunny, with a high near 56 "
+482,2013,8,40,61,Chiefs,23,Browns,17,,SSW,"Sunny, with a high near 63 "
+483,2013,9,54,49,Washington,30,Chargers,24,,N,"Sunny, with a high near 55 "
+484,2013,10,40,47,Bears,19,Lions,21,,WNW,"Sunny, with a high near 47 "
+485,2013,11,40,67,Eagles,24,Washington,16,7,SSW,A slight chance of showers 
+486,2013,12,45,70,Lions,21,Buccaneers,24,,WNW,Scattered flurries 
+487,2013,13,42,37,Ravens,22,Steelers,20,,N,"Mostly clear, with a low around 28 "
+488,2013,14,33,83,Buccaneers,27,Bills,6,,SE,"Mostly sunny, with a high near 83 "
+489,2013,15,69,22,Browns,31,Bears,38,,W,Snow likely 
+490,2013,16,30,25,Chiefs,7,Colts,23,,NW,Overcast with 
+491,2013,17,26,53,Titans,16,Texans,10,,N,"Partly sunny, with a high near 53 "
+492,2012,1,62,70,Bears,41,Colts,21,11,N,Isolated showers 
+493,2012,2,61,76,Bengals,34,Browns,27,,NW,"Sunny, with a high near 78 "
+494,2012,3,38,51,Browns,14,Bills,24,,SSW,A chance of showers 
+495,2012,4,80,61,Bills,28,Patriots,52,,NNE,A chance of showers 
+496,2012,5,57,70,Colts,30,Packers,27,,W,"Mostly sunny, with a high near 53 "
+497,2012,6,58,75,Browns,34,Bengals,24,,SSW,Fair and 
+498,2012,7,30,70,Colts,17,Browns,13,,ESE,"Sunny, with a high near 69 "
+499,2012,8,13,45,Browns,7,Chargers,6,,NNE,Mist and 
+500,2012,9,40,41,Browns,15,Ravens,25,,NNW,"Cloudy, with a high near 42 "
+501,2012,10,40,79,Dolphins,3,Titans,37,,E,A 10 percent chance of showers 
+502,2012,11,43,63,Cowboys,23,Browns,20,,SSE,"Mostly cloudy, with a high near 68 "
+503,2012,12,68,41,Jets,19,Patriots,49,,N,"Mostly clear, with a low around 39 "
+504,2012,13,40,61,Bears,17,Seahawks,23,,W,Widespread dense fog after 3pm 
+505,2012,14,39,54,Bengals,19,Cowboys,20,,S,"Showers likely, with thunderstorms also possible after 4pm "
+506,2012,15,34,43,Bears,13,Packers,21,,W,"Cloudy, with a high near 48 "
+507,2012,16,62,24,Packers,55,Titans,7,,NW,"Mostly sunny, with a high near 24 "
+508,2012,17,40,28,Bengals,23,Ravens,17,,SW,"Mostly sunny, with a high near 28 "
+509,2011,1,48,80,Chiefs,7,Bills,41,,,
+510,2011,2,39,79,Titans,26,Ravens,13,,,
+511,2011,3,65,81,Bills,34,Patriots,31,,,
+512,2011,4,27,79,Texans,17,Steelers,10,,,
+513,2011,5,52,70,Colts,24,Chiefs,28,,,
+514,2011,6,30,64,Steelers,17,Jaguars,13,,,
+515,2011,7,48,69,Titans,7,Texans,41,,,
+516,2011,8,37,59,Titans,27,Colts,10,,,
+517,2011,9,34,63,Chiefs,3,Dolphins,31,,,
+518,2011,10,33,59,Panthers,3,Titans,30,,,
+519,2011,11,43,75,Dolphins,35,Bills,8,,,
+520,2011,12,22,36,Ravens,16,49ers,6,,,
+521,2011,13,13,41,Bears,3,Chiefs,10,,,
+522,2011,14,47,40,Jets,37,Chiefs,10,,,
+523,2011,15,33,70,Rams,13,Bengals,20,,,
+524,2011,16,51,32,Patriots,27,Dolphins,24,,,
+525,2011,17,45,66,Texans,22,Titans,23,,,
+526,2010,1,58,88,Texans,34,Colts,24,,,
+527,2010,2,41,58,Packers,34,Bills,7,,,
+528,2010,3,34,70,Vikings,24,Lions,10,,,
+529,2010,4,30,70,Saints,16,Panthers,14,,,
+530,2010,5,44,79,Texans,10,Giants,34,,,
+531,2010,6,43,54,Packers,20,Dolphins,23,,,
+532,2010,7,56,76,Titans,37,Eagles,19,,,
+533,2010,8,52,63,Cowboys,17,Jaguars,35,,,
+534,2010,9,41,70,Bills,19,Bears,22,,,
+535,2010,10,40,42,Bears,27,Vikings,13,,,
+536,2010,11,35,65,Titans,16,Washington,19,,,
+537,2010,12,36,38,Jets,26,Bengals,10,,,
+538,2010,13,16,26,Chiefs,10,Broncos,6,,,
+539,2010,14,41,47,Panthers,10,Falcons,31,,,
+540,2010,15,69,33,Giants,31,Eagles,38,,,
+541,2010,16,37,21,Bills,3,Patriots,34,,,
+542,2010,17,41,70,Falcons,31,Panthers,10,,,
+543,2009,1,26,70,Falcons,19,Dolphins,7,,,
+544,2009,2,40,70,Lions,13,Vikings,27,,,
+545,2009,3,51,70,Vikings,27,49ers,24,,,
+546,2009,4,51,70,Colts,34,Seahawks,17,,,
+547,2009,5,48,70,Rams,10,Vikings,38,,,
+548,2009,6,64,70,Vikings,33,Ravens,31,,,
+549,2009,7,48,70,Rams,6,Colts,42,,,
+550,2009,8,55,72,Cowboys,38,Seahawks,17,,,
+551,2009,9,24,66,Bengals,17,Ravens,7,,,
+552,2009,10,51,70,Rams,23,Saints,28,,,
+553,2009,11,75,70,Lions,38,Browns,37,,,
+554,2009,12,32,52,Broncos,26,Giants,6,,,
+555,2009,13,26,33,Bears,17,Rams,9,,,
+556,2009,14,35,35,Bears,14,Packers,21,,,
+557,2009,15,27,29,Bills,10,Patriots,17,,,
+558,2009,16,27,41,Bengals,17,Chiefs,10,,,
+559,2009,17,60,70,Lions,23,Bears,37,,,
+560,2019,1,33,74,Jets,16,Bills,17,4,WNW,Partly cloudy throughout the day
+561,2019,2,36,92,Titans,17,Colts,19,1,ESE,Clear throughout the day
+562,2019,3,44,82,Patriots,30,Jets,14,8,SW,Partly cloudy throughout the day
+563,2019,4,40,86,Dolphins,10,Chargers,30,11,NE,Humid and partly cloudy throughout the day
+564,2019,5,21,76,Titans,7,Bills,14,3,SSW,Rain throughout the day
+565,2019,6,55,58,Chiefs,24,Texans,31,2,NNE,Clear throughout the day
+566,2019,7,72,70,Lions,30,Vikings,42,,NE,Partly cloudy throughout the day
+567,2019,8,40,70,Saints,31,Cardinals,9,3,NNE,Partly cloudy throughout the day
+568,2019,9,50,46,Steelers,26,Colts,24,5,W,Partly cloudy throughout the day
+569,2019,10,35,70,Saints,9,Falcons,26,3,NE,Clear throughout the day
+570,2019,11,46,70,Colts,33,Jaguars,13,2,WSW,Clear throughout the day
+571,2019,12,26,43,Bengals,10,Steelers,16,9,SW,Mostly cloudy throughout the day
+572,2019,13,48,70,Colts,17,Titans,31,1,WSW,Light rain throughout the day
+573,2019,14,43,37,Jets,22,Dolphins,21,6,S,Partly cloudy throughout the day
+574,2019,15,45,42,Titans,21,Texans,24,4,E,Possible light rain overnight
+575,2019,16,76,41,Washington,35,Giants,41,3,SW,Partly cloudy throughout the day
+576,2019,17,56,60,Bengals,33,Browns,23,8,SSW,Rain throughout the day
+577,2018,1,88,70,Saints,40,Buccaneers,48,1,WSW,Humid and 
+578,2018,2,37,81,Titans,20,Texans,17,7,NNE,Partly cloudy starting in the afternoon
+579,2018,3,36,61,Eagles,20,Colts,16,3,NE,Rain starting in the afternoon
+580,2018,4,49,80,Titans,26,Eagles,23,,N,Clear throughout the day
+581,2018,5,50,75,Jets,34,Broncos,16,4,WSW,Mostly cloudy until evening
+582,2018,6,76,57,Jets,42,Colts,34,5,WSW,Partly cloudy until evening
+583,2018,7,38,47,Eagles,17,Panthers,21,9,WNW,Mostly cloudy until afternoon
+584,2018,8,51,48,Steelers,33,Browns,18,7,SSW,Rain in the evening
+585,2018,9,58,53,Browns,21,Chiefs,37,5,ESE,Mostly cloudy throughout the day
+586,2018,10,43,30,Packers,31,Dolphins,12,8,SW,Mostly cloudy throughout the day
+587,2018,11,48,70,Colts,38,Titans,10,7,N,Mostly cloudy throughout the day
+588,2018,12,55,48,Bengals,20,Browns,35,,SSE,Light rain overnight
+589,2018,13,57,50,Giants,30,Bears,27,2,NE,Rain in the morning
+590,2018,14,42,69,Buccaneers,14,Saints,28,6,SW,Heavy rain until afternoon
+591,2018,15,41,40,Bears,24,Packers,17,5,W,Foggy in the morning
+592,2018,16,62,43,Eagles,32,Texans,30,5,W,Mostly cloudy throughout the day
+593,2018,17,41,31,Patriots,38,Jets,3,,SSE,Mostly cloudy until afternoon
+594,2017,1,42,73,Titans,16,Raiders,26,4,NE,Partly cloudy overnight
+595,2017,2,35,78,Steelers,26,Vikings,9,,S,Partly cloudy in the morning
+596,2017,3,51,87,Eagles,27,Giants,24,2,NE,Clear throughout the day
+597,2017,4,43,64,Jets,23,Jaguars,20,1,N,Partly cloudy in the morning
+598,2017,5,49,70,Colts,26,49ers,23,6,ESE,Light rain starting in the afternoon
+599,2017,6,33,70,Vikings,23,Packers,10,4,WNW,Mostly cloudy throughout the day
+600,2017,7,40,70,Vikings,24,Ravens,16,3,WSW,Partly cloudy overnight
+601,2017,8,20,63,Buccaneers,3,Panthers,17,9,NW,Partly cloudy until afternoon and breezy in the evening
+602,2017,9,40,70,Saints,30,Buccaneers,10,3,SSW,Partly cloudy until evening
+603,2017,10,37,70,Colts,17,Steelers,20,,NE,Mostly cloudy throughout the day
+604,2017,11,23,26,Packers,0,Ravens,23,6,WNW,Mostly cloudy throughout the day
+605,2017,12,26,58,Chiefs,10,Bills,16,3,SSW,"Partly cloudy starting in the afternoon, continuing until evening"
+606,2017,13,69,46,Jets,38,Chiefs,31,,E,Mostly cloudy throughout the day
+607,2017,14,41,47,Chiefs,26,Raiders,15,5,NW,Clear throughout the day
+608,2017,15,52,68,Jaguars,45,Texans,7,2,ESE,Mostly cloudy starting in the evening
+609,2017,16,42,22,Chiefs,29,Dolphins,13,5,NW,Foggy in the morning
+610,2017,17,33,70,Vikings,23,Bears,10,4,NW,Clear throughout the day
+611,2016,1,39,83,Eagles,29,Browns,10,9,NW,Light rain in the morning
+612,2016,2,40,71,Steelers,24,Bengals,16,3,SSE,Humid and 
+613,2016,3,56,67,Giants,27,Washington,29,4,NNW,Clear throughout the day
+614,2016,4,51,70,Washington,31,Browns,20,1,N,Light rain in the morning and overnight
+615,2016,5,52,70,Colts,29,Bears,23,,ESE,Clear throughout the day
+616,2016,6,54,79,Titans,28,Browns,26,7,S,Partly cloudy until evening
+617,2016,7,60,71,Titans,26,Colts,34,5,SW,Partly cloudy overnight
+618,2016,8,54,84,Buccaneers,24,Raiders,30,1,ENE,Partly cloudy starting in the afternoon
+619,2016,9,50,79,Dolphins,27,Jets,23,11,ENE,Partly cloudy throughout the day
+620,2016,10,15,55,Jets,6,Rams,9,4,W,Clear throughout the day
+621,2016,11,45,70,Lions,26,Jaguars,19,16,NW,Mostly cloudy throughout the day
+622,2016,12,48,38,Bears,21,Titans,27,5,S,Rain and breezy overnight
+623,2016,13,36,37,Patriots,26,Rams,10,7,NNW,Mostly cloudy until afternoon
+624,2016,14,27,75,Buccaneers,16,Saints,11,9,E,Light rain starting in the afternoon
+625,2016,15,41,37,Texans,21,Jaguars,20,11,N,Mostly cloudy throughout the day
+626,2016,16,44,40,Patriots,41,Jets,3,4,SW,Rain until afternoon
+627,2016,17,33,76,Buccaneers,17,Panthers,16,7,SSE,Partly cloudy throughout the day
+628,2015,1,41,76,Jets,31,Browns,10,7,WSW,Light rain in the morning
+629,2015,2,45,70,Saints,19,Buccaneers,26,2,N,Partly cloudy overnight
+630,2015,3,47,75,Browns,20,Raiders,27,1,SSE,Mostly cloudy throughout the day
+631,2015,4,34,60,Bills,10,Giants,24,4,E,Mostly cloudy until evening
+632,2015,5,44,70,Falcons,25,Washington,19,2,NNE,Partly cloudy throughout the day
+633,2015,6,26,62,Vikings,16,Chiefs,10,15,SSE,Clear throughout the day
+634,2015,7,17,61,Titans,7,Falcons,10,8,NNE,Light rain in the morning and afternoon
+635,2015,8,54,63,Browns,20,Cardinals,34,17,WSW,Partly cloudy throughout the day
+636,2015,9,62,70,Saints,28,Titans,34,14,NNE,Light rain in the morning
+637,2015,10,37,60,Titans,10,Panthers,27,3,ESE,Partly cloudy throughout the day
+638,2015,11,41,52,Texans,24,Jets,17,5,N,Clear throughout the day
+639,2015,12,30,55,Texans,24,Saints,6,8,NNW,Light rain in the morning
+640,2015,13,42,78,Buccaneers,23,Falcons,19,11,NE,Mostly cloudy throughout the day
+641,2015,14,35,70,Rams,21,Lions,14,15,SSE,Rain throughout the day
+642,2015,15,40,68,Jaguars,17,Falcons,23,7,ENE,Partly cloudy starting in the afternoon
+643,2015,16,40,72,Titans,6,Texans,34,1,SSW,Light rain in the morning and evening
+644,2015,17,40,33,Bengals,24,Ravens,16,5,NW,Mostly cloudy throughout the day
+645,2014,1,36,77,Chiefs,10,Titans,26,,E,"Sunny, with a high near 77 "
+646,2014,2,50,62,Browns,26,Saints,24,,NW,"Partly cloudy, with a low around 45 "
+647,2014,3,44,69,Browns,21,Ravens,23,,W,Cloudy and 
+648,2014,4,52,68,Raiders,14,Dolphins,38,,,"Partly cloudy, with a high near 74"
+649,2014,5,57,71,Titans,28,Browns,29,,S,"Partly sunny, with a high near 71 "
+650,2014,6,41,64,Browns,31,Steelers,10,,E,"Cloudy, with a low around 58 "
+651,2014,7,47,70,Lions,24,Saints,23,,WSW,"Mostly sunny, with a high near 51 "
+652,2014,8,51,67,Bengals,27,Ravens,24,,WSW,"Mostly clear, with a low around 50 "
+653,2014,9,45,64,Cowboys,17,Cardinals,28,,N,"Mostly sunny, with a high near 68 "
+654,2014,10,51,70,Saints,24,49ers,27,,NE,"Sunny, with a high near 68 "
+655,2014,11,73,27,Packers,53,Eagles,20,,SSW,"Mostly cloudy, with a high near 28 "
+656,2014,12,26,70,Colts,23,Jaguars,3,,SE,High near 56
+657,2014,13,36,57,Bills,26,Browns,10,,SSW,"Cloudy, with a high near 53 "
+658,2014,14,51,70,Lions,34,Buccaneers,17,5,E,Mostly cloudy throughout the day
+659,2014,15,30,45,Browns,0,Bengals,30,5,W,Overcast throughout the day
+660,2014,16,34,36,Bears,14,Lions,20,7,S,Mostly cloudy throughout the day
+661,2014,17,22,22,Vikings,13,Bears,9,4,N,Mostly cloudy throughout the day
+662,2013,1,33,72,Browns,10,Dolphins,23,,NNE,"Mostly clear, with a low around 58 "
+663,2013,2,61,62,Bears,31,Vikings,30,,N,High near 64
+664,2013,3,37,76,Titans,20,Chargers,17,,NNE,"Sunny, with a high near 76 "
+665,2013,4,72,70,Lions,40,Bears,32,3,SSW,A chance of showers 
+666,2013,5,54,70,Rams,34,Jaguars,20,,W,"Partly sunny, with a high near 60 "
+667,2013,6,31,70,Chiefs,24,Raiders,7,,E,"Sunny, with a high near 70 "
+668,2013,7,33,70,Chiefs,17,Texans,16,,SW,"Mostly sunny, with a high near 71 "
+669,2013,8,44,53,Patriots,27,Dolphins,17,,W,"Mostly clear, with a low around 31 "
+670,2013,9,44,62,Panthers,34,Falcons,10,,N,"Sunny, with a high near 62 "
+671,2013,10,40,46,Packers,13,Eagles,27,,WSW,"Mostly sunny, with a high near 46 "
+672,2013,11,64,59,Steelers,37,Lions,27,,S,"Showers and possibly a thunderstorm before 4pm, then scattered showers and thunderstorms after 4pm "
+673,2013,12,52,20,Packers,26,Vikings,26,,SW,"Partly sunny, with a high near 21 "
+674,2013,13,33,57,Panthers,27,Buccaneers,6,,SW,"Mostly sunny, with a high near 55 "
+675,2013,14,55,28,Washington,10,Chiefs,45,,NE,"Freezing rain and sleet, becoming all freezing rain after 4pm "
+676,2013,15,71,34,Titans,34,Cardinals,37,,W,"Partly sunny, with a high near 37 "
+677,2013,16,36,70,Rams,23,Buccaneers,13,,W,A chance of flurries 
+678,2013,17,40,70,Colts,30,Jaguars,10,19,WNW,"A chance of rain and snow, mainly after 4pm "
+679,2012,1,33,68,Browns,16,Eagles,17,,NNW,A chance of showers 
+680,2012,2,43,70,Colts,23,Vikings,20,,N,"Sunny, with a high near 77 "
+681,2012,3,26,88,Cowboys,16,Buccaneers,10,,N,"Sunny, with a high near 95 "
+682,2012,4,33,70,Lions,13,Vikings,20,11,E,A slight chance of showers 
+683,2012,5,15,53,Chiefs,6,Ravens,9,,N,"Sunny, with a high near 57 "
+684,2012,6,31,85,Dolphins,17,Rams,14,17,ENE,Scattered showers 
+685,2012,7,50,67,Giants,27,Washington,23,,NW,"Sunny, with a high near 67 "
+686,2012,8,52,70,Lions,28,Seahawks,24,,NNE,"Mostly cloudy, with a high near 49 "
+687,2012,9,48,39,Packers,31,Cardinals,17,,N,"Partly sunny, with a high near 42 "
+688,2012,10,58,70,Vikings,34,Lions,24,,W,A 20 percent chance of snow before 3pm 
+689,2012,11,44,70,Lions,20,Packers,24,,E,"Mostly sunny, with a high near 53 "
+690,2012,12,38,40,Bears,28,Vikings,10,,WNW,"Mostly sunny, with a high near 45 "
+691,2012,13,68,70,Lions,33,Colts,35,,WSW,"Cloudy, with a high near 57 "
+692,2012,14,37,44,Browns,30,Chiefs,7,,N,"Rain, mainly after 3pm "
+693,2012,15,59,58,Browns,21,Washington,38,9,S,A chance of showers 
+694,2012,16,33,36,Chiefs,13,Colts,20,,N,"Mostly sunny, with a high near 33 "
+695,2012,17,50,70,Lions,24,Bears,26,,WSW,A chance of flurries 
+696,2011,1,42,78,Bears,30,Falcons,12,,,
+697,2011,2,35,71,Jets,32,Jaguars,3,,,
+698,2011,3,33,77,Browns,17,Dolphins,16,,,
+699,2011,4,64,79,Cowboys,30,Lions,34,,,
+700,2011,5,50,79,Jaguars,20,Bengals,30,,,
+701,2011,6,33,69,Washington,13,Eagles,20,,,
+702,2011,7,39,70,Lions,16,Falcons,23,,,
+703,2011,8,45,59,Panthers,21,Vikings,24,,,
+704,2011,9,36,75,Cowboys,23,Seahawks,13,,,
+705,2011,10,46,78,Buccaneers,9,Texans,37,,,
+706,2011,11,24,50,Browns,14,Jaguars,10,,,
+707,2011,12,52,62,Jets,28,Bills,24,,,
+708,2011,13,40,58,Bills,17,Titans,23,,,
+709,2011,14,39,38,Bengals,19,Texans,20,,,
+710,2011,15,53,32,Bills,23,Dolphins,30,,,
+711,2011,16,34,45,Ravens,20,Browns,14,,,
+712,2011,17,32,72,Jaguars,19,Colts,13,,,
+713,2010,1,33,73,Bears,19,Lions,14,,,
+714,2010,2,24,70,Vikings,10,Dolphins,14,,,
+715,2010,3,41,77,Ravens,24,Browns,17,,,
+716,2010,4,54,52,Packers,28,Lions,26,,,
+717,2010,5,28,70,Colts,19,Chiefs,9,,,
+718,2010,6,37,70,Rams,20,Chargers,17,,,
+719,2010,7,71,70,Falcons,39,Bengals,32,,,
+720,2010,8,36,52,Bengals,14,Dolphins,22,,,
+721,2010,9,43,70,Lions,20,Jets,23,,,
+722,2010,10,47,75,Buccaneers,31,Panthers,16,,,
+723,2010,11,44,66,Chiefs,31,Cardinals,13,,,
+724,2010,12,20,62,Texans,20,Titans,0,,,
+725,2010,13,38,34,Giants,31,Washington,7,,,
+726,2010,14,10,70,Lions,7,Packers,3,,,
+727,2010,15,63,48,Cowboys,33,Washington,30,,,
+728,2010,16,42,70,Rams,25,49ers,17,,,
+729,2010,17,32,30,Chiefs,1,Raiders,31,,,
+730,2009,1,62,68,Ravens,38,Chiefs,24,,,
+731,2009,2,48,87,Jaguars,17,Cardinals,31,,,
+732,2009,3,36,64,Patriots,26,Falcons,10,,,
+733,2009,4,43,56,Chiefs,16,Giants,27,,,
+734,2009,5,51,61,Giants,44,Raiders,7,,,
+735,2009,6,75,70,Saints,48,Giants,27,,,
+736,2009,7,45,79,Texans,24,49ers,21,,,
+737,2009,8,27,70,Lions,10,Rams,17,,,
+738,2009,9,37,70,Colts,20,Texans,17,,,
+739,2009,10,48,0,Dolphins,25,Buccaneers,23,f,,
+740,2009,11,54,53,Packers,30,49ers,24,,,
+741,2009,12,37,70,Falcons,20,Buccaneers,17,,,
+742,2009,13,36,33,Bengals,23,Lions,13,,,
+743,2009,14,44,70,Colts,28,Broncos,16,,,
+744,2009,15,55,70,Lions,24,Cardinals,31,,,
+745,2009,16,32,32,Browns,23,Raiders,9,,,
+746,2009,17,30,44,Buccaneers,10,Falcons,20,,,
+747,2019,1,40,70,Vikings,28,Falcons,12,3,ENE,Light rain in the morning and afternoon
+748,2019,2,54,78,Steelers,26,Seahawks,28,1,NNW,Partly cloudy throughout the day
+749,2019,3,48,70,Vikings,34,Raiders,14,5,NNW,Partly cloudy throughout the day
+750,2019,4,55,70,Colts,24,Raiders,31,3,ESE,Light rain in the afternoon
+751,2019,5,49,68,Steelers,23,Ravens,26,3,WSW,Rain throughout the day
+752,2019,6,19,80,Jaguars,6,Saints,13,1,S,Partly cloudy throughout the day
+753,2019,7,66,54,Packers,42,Raiders,24,3,W,Mostly cloudy throughout the day
+754,2019,8,34,48,Rams,24,Bengals,10,3,WNW,Mostly cloudy throughout the day
+755,2019,9,44,83,Dolphins,26,Jets,18,5,N,Humid and 
+756,2019,10,33,40,Bears,20,Lions,13,1,N,Possible light snow overnight
+757,2019,11,57,60,Dolphins,20,Bills,37,7,NW,Mostly cloudy throughout the day
+758,2019,12,65,37,Browns,41,Dolphins,24,12,WSW,Mostly cloudy throughout the day
+759,2019,13,28,48,Bengals,22,Jets,6,14,WSW,"Light rain until morning, starting again in the evening"
+760,2019,14,94,70,Saints,46,49ers,48,,SSE,Clear throughout the day
+761,2019,15,56,46,Giants,36,Dolphins,20,15,WNW,Clear throughout the day
+762,2019,16,66,49,Titans,28,Saints,38,2,NE,Drizzle throughout the day
+763,2019,17,43,70,Lions,20,Packers,23,9,ESE,Rain throughout the day
+764,2018,1,47,62,Patriots,27,Texans,20,6,ENE,Mostly cloudy throughout the day
+765,2018,2,48,89,Buccaneers,27,Eagles,21,8,SW,Humid and 
+766,2018,3,33,70,Vikings,6,Bills,27,6,SSE,Mostly cloudy overnight
+767,2018,4,71,70,Colts,34,Texans,37,7,SSW,Partly cloudy in the morning
+768,2018,5,44,58,Chiefs,30,Jaguars,14,2,ENE,Rain until evening
+769,2018,6,44,70,Vikings,27,Cardinals,17,7,WNW,Foggy in the morning
+770,2018,7,54,46,Jets,17,Vikings,37,11,NNE,Mostly cloudy until afternoon
+771,2018,8,33,50,Giants,13,Washington,20,7,W,Light rain overnight
+772,2018,9,19,84,Dolphins,13,Jets,6,14,SE,Humid and 
+773,2018,10,55,70,Colts,29,Jaguars,26,1,S,Partly cloudy starting in the evening
+774,2018,11,41,70,Falcons,19,Cowboys,22,1,ESE,Partly cloudy overnight
+775,2018,12,57,52,Panthers,27,Seahawks,30,,S,Foggy in the morning
+776,2018,13,38,85,Dolphins,21,Bills,17,13,SSE,Humid and 
+777,2018,14,67,80,Dolphins,34,Patriots,33,12,SW,Humid and 
+778,2018,15,27,33,Bills,14,Lions,13,2,NNE,Mixed precipitation in the morning
+779,2018,16,24,71,Dolphins,7,Jaguars,17,4,NNE,Partly cloudy starting in the evening
+780,2018,17,47,70,Saints,14,Panthers,33,1,NNE,Foggy until afternoon
+781,2017,1,36,80,Texans,7,Jaguars,29,4,NE,Clear throughout the day
+782,2017,2,56,70,Saints,20,Patriots,36,3,NE,Drizzle in the evening
+783,2017,3,26,87,Jets,20,Dolphins,6,1,NE,Clear throughout the day
+784,2017,4,63,61,Patriots,30,Panthers,33,1,NNW,Clear throughout the day
+785,2017,5,26,89,Dolphins,16,Titans,10,6,SE,Light rain in the evening
+786,2017,6,90,70,Saints,52,Lions,38,2,SE,Rain throughout the day
+787,2017,7,59,85,Dolphins,31,Jets,28,9,ESE,Humid and 
+788,2017,8,43,63,Eagles,33,49ers,10,2,E,Heavy rain throughout the day and breezy overnight
+789,2017,9,68,56,Giants,17,Rams,51,1,ENE,Mostly cloudy throughout the day
+790,2017,10,37,75,Jaguars,20,Chargers,17,5,NE,Partly cloudy in the morning
+791,2017,11,52,59,Texans,31,Cardinals,21,5,NNE,Partly cloudy starting in the evening
+792,2017,12,36,70,Colts,16,Titans,20,3,W,"Partly cloudy starting in the afternoon, continuing until evening"
+793,2017,13,44,80,Dolphins,35,Broncos,9,5,ENE,Partly cloudy starting in the afternoon
+794,2017,14,54,46,Jaguars,30,Seahawks,24,2,NW,Clear throughout the day
+795,2017,15,37,34,Browns,10,Ravens,27,1,ESE,Foggy in the morning
+796,2017,16,53,34,Patriots,37,Bills,16,1,N,Rain overnight
+797,2017,17,32,11,Patriots,26,Jets,6,5,NW,"Partly cloudy starting in the afternoon, continuing until evening"
+798,2016,1,45,80,Jets,22,Bengals,23,9,NW,Rain in the morning
+799,2016,2,29,79,Giants,16,Saints,13,5,SSW,"Rain until evening, starting again overnight"
+800,2016,3,54,85,Dolphins,30,Browns,24,7,E,Rain throughout the day
+801,2016,4,44,61,Jets,17,Seahawks,27,,NNE,Mostly cloudy throughout the day
+802,2016,5,47,87,Dolphins,17,Titans,30,12,NE,Partly cloudy throughout the day
+803,2016,6,50,66,Giants,27,Ravens,23,6,SSW,Mostly cloudy throughout the day
+804,2016,7,31,61,Eagles,21,Vikings,10,1,W,Partly cloudy until evening
+805,2016,8,45,70,Saints,25,Seahawks,20,4,ENE,Mostly cloudy in the morning
+806,2016,9,33,60,Chiefs,19,Jaguars,14,6,SSE,Partly cloudy starting in the afternoon
+807,2016,10,39,54,Eagles,24,Falcons,15,6,W,Partly cloudy in the afternoon
+808,2016,11,41,70,Colts,24,Titans,17,7,WNW,Partly cloudy in the afternoon
+809,2016,12,49,38,Bills,28,Jaguars,21,6,W,Mostly cloudy throughout the day
+810,2016,13,30,75,Jaguars,10,Broncos,20,3,ESE,Partly cloudy starting in the afternoon
+811,2016,14,49,33,Eagles,22,Washington,27,2,S,Mixed precipitation in the afternoon and overnight
+812,2016,15,46,25,Bills,33,Browns,13,12,WNW,Snow (1–2 in
+813,2016,16,55,65,Jaguars,38,Titans,17,2,NNW,Foggy in the morning
+814,2016,17,44,70,Colts,24,Jaguars,20,3,SSE,Drizzle overnight
+815,2015,1,41,53,Bills,27,Colts,14,7,WSW,Light rain in the morning and afternoon
+816,2015,2,42,70,Vikings,26,Lions,16,12,S,Light rain in the evening
+817,2015,3,52,73,Ravens,24,Bengals,28,8,ENE,Partly cloudy throughout the day
+818,2015,4,60,75,Buccaneers,23,Panthers,37,7,WNW,Light rain until evening
+819,2015,5,69,83,Buccaneers,38,Jaguars,31,9,NW,Clear throughout the day
+820,2015,6,55,37,Bills,21,Bengals,34,2,WNW,Light snow in the morning and afternoon
+821,2015,7,48,70,Colts,21,Saints,27,7,NE,Partly cloudy throughout the day
+822,2015,8,33,70,Rams,27,49ers,6,4,SSW,Partly cloudy in the morning
+823,2015,9,50,47,Bills,33,Dolphins,17,6,WSW,Partly cloudy in the morning
+824,2015,10,50,70,Rams,13,Bears,37,8,SSW,Mostly cloudy starting in the afternoon
+825,2015,11,62,48,Eagles,17,Buccaneers,45,1,NW,Mostly cloudy throughout the day
+826,2015,12,38,45,Bengals,31,Rams,7,6,NE,Light rain in the morning
+827,2015,13,45,36,Vikings,7,Seahawks,38,3,W,Foggy overnight
+828,2015,14,41,80,Buccaneers,17,Saints,24,12,ESE,Mostly cloudy starting in the afternoon and humid throughout the day
+829,2015,15,26,70,Colts,10,Texans,16,13,S,Mostly cloudy throughout the day
+830,2015,16,30,34,Chiefs,17,Browns,13,12,NNE,Snow (6–9 in
+831,2015,17,40,34,Browns,12,Steelers,28,12,WNW,Light snow (under 1 in
+832,2014,1,40,70,Rams,6,Vikings,34,,ESE,"Sunny, with a high near 79 "
+833,2014,2,36,77,Titans,10,Cowboys,26,,NNE,"Mostly sunny, with a high near 78 "
+834,2014,3,26,70,Lions,19,Packers,7,,WNW,Showers and possibly a thunderstorm 
+835,2014,5,33,70,Colts,20,Ravens,13,,SSW,A 20 percent chance of showers 
+836,2014,6,30,74,Titans,16,Jaguars,14,7,SSW,Showers and thunderstorms likely 
+837,2014,7,55,53,Packers,38,Panthers,17,,SSW,"Mostly cloudy, with a high near 54 "
+838,2014,8,46,79,Titans,16,Texans,30,,E,"Sunny, with a high near 80 "
+839,2014,9,34,64,Chiefs,24,Jets,10,,S,Fair and 
+840,2014,10,33,57,Jets,20,Steelers,13,,SW,"Sunny, with a high near 60 "
+841,2014,11,44,21,Chiefs,24,Seahawks,20,,W,"Partly sunny, with a high near 25 "
+842,2014,12,45,46,Vikings,21,Packers,24,6,NW,Showers likely 
+843,2014,13,76,70,Colts,49,Washington,27,,SSW,A 50 percent chance of showers 
+844,2014,14,43,47,Titans,7,Giants,36,7,NE,Mostly cloudy throughout the day
+845,2014,15,27,70,Colts,17,Texans,10,4,S,Mostly cloudy throughout the day
+846,2014,16,72,78,Dolphins,37,Vikings,35,7,SE,Partly cloudy in the morning
+847,2014,17,26,49,Patriots,9,Bills,17,8,W,Mostly cloudy throughout the day
+848,2013,1,40,70,Saints,23,Falcons,17,9,E,Isolated showers and thunderstorms 
+849,2013,2,58,62,Packers,38,Washington,20,,N,A chance of sprinkles 
+850,2013,3,58,70,Vikings,27,Browns,31,,ESE,"Sunny, with a high near 73 "
+851,2013,4,38,73,Chiefs,31,Giants,7,,ENE,"Sunny, with a high near 75 "
+852,2013,5,49,87,Dolphins,23,Ravens,26,,SSE,A 20 percent chance of showers 
+853,2013,6,45,70,Vikings,10,Panthers,35,,SW,"Sunny, with a high near 60 "
+854,2013,7,44,87,Dolphins,21,Bills,23,,E,A 30 percent chance of showers and thunderstorms 
+855,2013,8,52,70,Saints,35,Bills,17,,SSE,"Partly sunny, with a high near 79 "
+856,2013,9,50,64,Cowboys,27,Vikings,23,,SE,"Partly sunny, with a high near 68 "
+857,2013,10,56,65,Titans,27,Jaguars,29,,NNW,"Sunny, with a high near 63 "
+858,2013,11,51,62,Bills,37,Jets,14,,S,Scattered showers 
+859,2013,12,79,28,Chiefs,38,Chargers,41,,N,"Mostly sunny, with a high near 32 "
+860,2013,13,60,44,Browns,28,Jaguars,32,8,SW,A slight chance of showers 
+861,2013,14,55,30,Ravens,29,Vikings,26,,N,"Snow and sleet before 4pm, then freezing rain "
+862,2013,15,28,70,Colts,25,Texans,3,,WSW,Scattered flurries 
+863,2013,16,37,70,Jets,24,Browns,13,11,S,Scattered showers 
+864,2013,17,27,41,Steelers,20,Browns,7,,NNW,High near 42
+865,2012,1,47,77,Titans,13,Patriots,34,,N,"Sunny, with a high near 80 "
+866,2012,2,62,70,Panthers,35,Saints,27,,ESE,Scattered showers and thunderstorms 
+867,2012,3,43,79,Dolphins,20,Jets,23,6,ENE,Thunderstorm in 
+868,2012,4,57,73,Chiefs,20,Chargers,37,,N,"Mostly cloudy, with a high near 77 "
+869,2012,5,37,70,Vikings,30,Titans,7,,SW,"Mostly sunny, with a high near 53 "
+870,2012,6,44,70,Jets,35,Colts,9,,SW,"Partly sunny, with a high near 72 "
+871,2012,7,63,81,Buccaneers,28,Saints,35,,ENE,"Sunny, with a high near 84 "
+872,2012,8,39,45,Packers,24,Jaguars,15,,NNE,"Sunny, with a high near 47 "
+873,2012,9,71,51,Titans,20,Bears,51,,N,"Mostly sunny, with a high near 58 "
+874,2012,10,68,64,Patriots,37,Bills,31,,SSW,"Mostly sunny, with a high near 63 "
+875,2012,11,34,60,Chiefs,6,Bengals,28,,S,"Mostly sunny, with a high near 63 "
+876,2012,12,44,45,Bengals,34,Raiders,10,,SW,"Partly sunny, with a high near 48 "
+877,2012,13,37,45,Packers,23,Vikings,14,,NW,Overcast with 
+878,2012,14,44,73,Buccaneers,21,Eagles,23,,N,"Mostly sunny, with a high near 77 "
+879,2012,15,58,70,Rams,22,Vikings,36,,NNW,"Mostly sunny, with a high near 55 "
+880,2012,16,34,72,Dolphins,24,Bills,10,,ESE,"Mostly sunny, with a high near 72 "
+881,2012,17,58,37,Titans,38,Jaguars,20,,N,"Mostly sunny, with a high near 39 "
+882,2011,1,47,88,Buccaneers,20,Lions,27,,,
+883,2011,2,46,70,Colts,19,Browns,27,,,
+884,2011,3,31,78,Titans,17,Broncos,14,,,
+885,2011,4,47,50,Eagles,23,49ers,24,,,
+886,2011,5,61,80,Giants,25,Seahawks,36,,,
+887,2011,6,44,70,Lions,19,49ers,25,,,
+888,2011,7,53,67,Panthers,33,Washington,20,,,
+889,2011,8,52,70,Rams,31,Saints,21,,,
+890,2011,9,30,58,Washington,11,49ers,19,,,
+891,2011,10,41,65,Bengals,17,Steelers,24,,,
+892,2011,11,55,64,Ravens,31,Bengals,24,,,
+893,2011,12,43,60,Bengals,23,Browns,20,,,
+894,2011,13,48,80,Dolphins,34,Raiders,14,,,
+895,2011,14,34,45,Ravens,24,Colts,10,,,
+896,2011,15,40,70,Colts,27,Titans,13,,,
+897,2011,16,40,47,Titans,23,Jaguars,17,,,
+898,2011,17,44,52,Eagles,34,Washington,10,,,
+899,2010,1,24,64,Steelers,15,Falcons,9,,,
+900,2010,2,47,88,Cowboys,20,Bears,27,,,
+901,2010,3,40,82,Texans,13,Cowboys,27,,,
+902,2010,4,43,52,Browns,23,Bengals,20,,,
+903,2010,5,29,69,Washington,16,Packers,13,,,
+904,2010,6,43,57,Patriots,23,Ravens,20,,,
+905,2010,7,47,70,Saints,17,Browns,30,,,
+906,2010,8,30,70,Rams,20,Panthers,10,,,
+907,2010,9,36,43,Ravens,26,Dolphins,10,,,
+908,2010,10,26,58,Bills,14,Lions,12,,,
+909,2010,11,50,65,Panthers,13,Ravens,37,,,
+910,2010,12,44,43,Giants,24,Jaguars,20,,,
+911,2010,13,44,70,Lions,20,Bears,24,,,
+912,2010,14,19,35,Bills,13,Browns,6,,,
+913,2010,15,36,28,Bengals,19,Browns,17,,,
+914,2010,16,30,24,Browns,10,Ravens,20,,,
+915,2010,17,20,41,Ravens,13,Bengals,7,,,
+916,2009,1,48,77,Panthers,10,Eagles,38,,,
+917,2009,2,23,70,Chiefs,10,Raiders,13,,,
+918,2009,3,41,66,Jets,24,Titans,17,,,
+919,2009,4,48,65,Patriots,27,Ravens,21,,,
+920,2009,5,47,62,Eagles,33,Buccaneers,14,,,
+921,2009,6,41,42,Steelers,27,Browns,14,,,
+922,2009,7,44,51,Steelers,27,Vikings,17,,,
+923,2009,8,64,44,Packers,26,Vikings,38,,,
+924,2009,9,44,65,Patriots,27,Dolphins,17,,,
+925,2009,10,37,70,Vikings,27,Lions,10,,,
+926,2009,11,51,55,Chiefs,27,Steelers,24,,,
+927,2009,12,45,48,Bills,31,Dolphins,14,,,
+928,2009,13,44,70,Colts,27,Titans,17,,,
+929,2009,14,26,42,Chiefs,10,Bills,16,,,
+930,2009,15,51,35,Titans,27,Dolphins,24,,,
+931,2009,16,58,17,Packers,48,Seahawks,10,,,
+932,2009,17,33,31,Panthers,23,Saints,10,,,
+933,2019,1,69,89,Dolphins,10,Ravens,59,7,SE,Humid and 
+934,2019,2,42,80,Giants,14,Bills,28,2,WNW,Partly cloudy throughout the day
+935,2019,3,61,69,Chiefs,33,Ravens,28,3,SW,Heavy rain until evening
+936,2019,4,26,89,Texans,10,Panthers,16,8,SSE,Humid and 
+937,2019,5,49,76,Bengals,23,Cardinals,26,6,WSW,Rain throughout the day
+938,2019,6,60,61,Browns,28,Seahawks,32,7,SSW,Clear throughout the day
+939,2019,7,47,70,Falcons,10,Rams,37,7,NW,Foggy in the morning
+940,2019,8,44,81,Jaguars,29,Jets,15,7,SW,Humid and 
+941,2019,9,49,55,Chiefs,26,Vikings,23,9,SW,Clear throughout the day
+942,2019,10,61,47,Jets,34,Giants,27,5,SW,Mostly cloudy throughout the day
+943,2019,11,48,42,Ravens,41,Texans,7,8,ENE,Overcast throughout the day
+944,2019,12,57,70,Falcons,22,Buccaneers,35,5,NW,Partly cloudy throughout the day
+945,2019,13,50,60,Panthers,21,Washington,29,7,SW,Rain in the morning
+946,2019,14,27,70,Vikings,20,Lions,7,5,NW,Foggy overnight
+947,2019,15,26,25,Chiefs,23,Broncos,3,8,ENE,Possible light snow in the morning and afternoon
+948,2019,16,26,37,Jets,16,Steelers,10,5,WSW,Clear throughout the day
+949,2019,17,52,39,Chiefs,31,Chargers,21,12,WSW,Overcast throughout the day
+950,2018,1,40,70,Vikings,24,49ers,16,9,SSE,Partly cloudy starting in the afternoon
+951,2018,2,79,79,Steelers,37,Chiefs,42,7,ESE,Mostly cloudy starting in the afternoon
+952,2018,3,48,88,Dolphins,28,Raiders,20,6,ESE,Humid and 
+953,2018,4,22,48,Packers,22,Bills,0,4,ENE,Mostly cloudy throughout the day
+954,2018,5,54,70,Lions,31,Packers,23,7,NE,Overcast throughout the day
+955,2018,6,49,51,Bengals,21,Steelers,28,2,ESE,Overcast throughout the day
+956,2018,7,53,88,Dolphins,21,Lions,32,5,NNW,Humid throughout the day and partly cloudy starting in the afternoon
+957,2018,8,42,70,Lions,14,Seahawks,28,9,SSE,"Rain starting in the afternoon, continuing until evening"
+958,2018,9,39,52,Ravens,16,Steelers,23,3,E,Mostly cloudy starting in the evening
+959,2018,10,56,35,Bears,34,Lions,22,7,SSW,Mostly cloudy throughout the day
+960,2018,11,73,41,Giants,38,Buccaneers,35,,ESE,Mostly cloudy throughout the day
+961,2018,12,45,39,Bills,24,Jaguars,21,7,W,Mostly cloudy throughout the day
+962,2018,13,34,63,Bengals,10,Broncos,24,9,S,Partly cloudy starting in the evening
+963,2018,14,51,26,Chiefs,27,Ravens,24,,S,Mostly cloudy starting in the afternoon
+964,2018,15,32,43,Ravens,20,Buccaneers,12,7,N,Light rain in the afternoon
+965,2018,16,82,41,Jets,38,Packers,44,6,WNW,Partly cloudy throughout the day
+966,2018,17,71,35,Giants,35,Cowboys,36,,E,Mostly cloudy throughout the day
+967,2017,1,58,70,Lions,35,Cardinals,23,4,E,"Partly cloudy starting in the afternoon, continuing until evening"
+968,2017,2,47,65,Chiefs,27,Eagles,20,3,NNE,Rain in the morning and overnight
+969,2017,3,42,84,Bills,26,Broncos,16,4,NNE,Clear throughout the day
+970,2017,4,21,70,Vikings,7,Lions,14,7,SSE,Rain starting in the afternoon
+971,2017,5,36,63,Bengals,20,Bills,16,2,ESE,Rain starting in the afternoon
+972,2017,6,37,70,Falcons,17,Dolphins,20,3,SW,Light rain starting in the afternoon
+973,2017,7,33,52,Rams,33,Cardinals,0,4,WNW,"Partly cloudy starting in the afternoon, continuing until evening"
+974,2017,8,32,70,Saints,20,Bears,12,5,N,Clear throughout the day
+975,2017,9,37,58,Panthers,20,Falcons,17,,SSE,Mostly cloudy throughout the day
+976,2017,10,57,37,Bills,10,Saints,47,,SSW,Mostly cloudy throughout the day
+977,2017,11,31,70,Vikings,24,Rams,7,3,SW,Partly cloudy in the afternoon
+978,2017,12,46,46,Bengals,30,Browns,16,2,WSW,"Partly cloudy starting in the afternoon, continuing until evening"
+979,2017,13,64,51,Ravens,44,Lions,20,1,WSW,Mostly cloudy in the morning
+980,2017,14,42,57,Texans,16,49ers,26,,SE,Clear throughout the day
+981,2017,15,55,48,Panthers,31,Packers,24,1,WSW,Mostly cloudy throughout the day
+982,2017,16,23,21,Bears,20,Browns,3,,NW,Snow (1–2 in
+983,2017,17,28,15,Giants,18,Washington,10,6,NW,"Partly cloudy starting in the afternoon, continuing until evening"
+984,2016,1,69,70,Saints,34,Raiders,35,3,E,Light rain in the morning and afternoon
+985,2016,2,55,78,Patriots,31,Dolphins,24,6,SSW,Light rain starting in the afternoon
+986,2016,3,36,87,Jaguars,17,Ravens,19,4,NE,Rain starting in the afternoon
+987,2016,4,16,56,Patriots,0,Bills,16,2,N,Overcast throughout the day
+988,2016,5,26,61,Ravens,10,Washington,16,12,NNW,"Light rain in the morning and breezy starting in the afternoon, continuing until evening"
+989,2016,6,79,70,Saints,41,Panthers,38,4,ENE,Drizzle in the morning
+990,2016,7,48,66,Bengals,31,Browns,17,6,SSW,Mostly cloudy in the morning
+991,2016,8,33,80,Texans,20,Lions,13,3,ENE,Mostly cloudy in the morning
+992,2016,9,45,56,Browns,10,Cowboys,35,2,NW,Clear throughout the day
+993,2016,10,37,48,Panthers,17,Chiefs,20,4,N,Light rain until evening
+994,2016,11,28,37,Bengals,12,Bills,16,7,WNW,Mostly cloudy until evening
+995,2016,12,33,49,Ravens,19,Bengals,14,8,NW,Partly cloudy in the afternoon
+996,2016,13,34,31,Packers,21,Texans,13,4,SSE,Snow (2–4 in
+997,2016,14,49,75,Dolphins,26,Cardinals,23,15,E,Rain throughout the day
+998,2016,15,53,58,Ravens,27,Eagles,26,6,WNW,Light rain until afternoon
+999,2016,16,63,35,Packers,38,Vikings,25,4,W,Mostly cloudy throughout the day
+1000,2016,17,49,80,Dolphins,14,Patriots,35,1,ESE,Drizzle overnight
+1001,2015,1,27,71,Washington,10,Dolphins,17,11,W,Partly cloudy until evening
+1002,2015,2,71,69,Bears,23,Cardinals,48,3,E,Partly cloudy throughout the day
+1003,2015,3,68,70,Patriots,51,Jaguars,17,3,SSE,Clear throughout the day
+1004,2015,4,43,59,Washington,23,Eagles,20,13,NNE,Overcast throughout the day
+1005,2015,5,56,67,Eagles,39,Saints,17,4,WSW,Partly cloudy until afternoon
+1006,2015,6,71,70,Lions,37,Bears,34,8,NW,Partly cloudy until evening
+1007,2015,7,47,70,Lions,19,Vikings,28,5,NW,Partly cloudy starting in the evening
+1008,2015,8,101,70,Saints,52,Giants,49,6,E,Heavy rain throughout the day
+1009,2015,9,39,57,Vikings,21,Rams,18,14,SSW,Clear throughout the day
+1010,2015,10,61,62,Washington,47,Saints,14,7,SW,Clear throughout the day
+1011,2015,11,32,29,Bears,15,Broncos,17,6,SSW,Mostly cloudy starting in the afternoon
+1012,2015,12,30,70,Falcons,10,Vikings,20,1,S,Mostly cloudy throughout the day
+1013,2015,13,51,49,Bills,30,Texans,21,4,WSW,Mostly cloudy starting in the afternoon
+1014,2015,14,38,65,Jets,30,Titans,8,4,ENE,Mostly cloudy throughout the day
+1015,2015,15,73,41,Giants,35,Panthers,38,4,W,Partly cloudy in the morning
+1016,2015,16,30,81,Dolphins,12,Colts,18,13,ESE,Partly cloudy throughout the day
+1017,2015,17,36,56,Texans,30,Jaguars,6,4,NNW,Partly cloudy until afternoon
+1018,2014,1,53,89,Dolphins,33,Patriots,20,13,SE,Isolated showers and thunderstorms 
+1019,2014,2,37,65,Vikings,7,Patriots,30,,W,"Partly sunny, with a high near 65 "
+1020,2014,3,65,70,Rams,31,Cowboys,34,,WNW,"Sunny, with a high near 78 "
+1021,2014,4,41,85,Jets,17,Lions,24,,S,"Mostly clear, with a low around 64 "
+1022,2014,5,68,70,Saints,37,Buccaneers,31,,ESE,"Sunny, with a high near 76 "
+1023,2014,6,51,88,Dolphins,24,Packers,27,,E,A 20 percent chance of showers 
+1024,2014,7,27,70,Colts,27,Bengals,0,,SW,"Mostly sunny, with a high near 55 "
+1025,2014,8,41,85,Chiefs,34,Rams,7,,S,"Sunny, with a high near 85 "
+1026,2014,9,37,69,Dolphins,37,Chargers,0,,N,"Sunny, with a high near 73 "
+1027,2014,10,44,66,Buccaneers,17,Falcons,27,,NE,A slight chance of sprinkles before 4pm 
+1028,2014,11,29,70,Rams,22,Broncos,7,,W,Occasional snow 
+1029,2014,12,43,61,Patriots,34,Lions,9,,WSW,"Mostly sunny, with a high near 59 "
+1030,2014,13,52,70,Rams,52,Raiders,0,,WSW,A 20 percent chance of rain 
+1031,2014,14,41,77,Dolphins,13,Ravens,28,12,NNW,Partly cloudy starting in the afternoon
+1032,2014,15,44,60,Chiefs,31,Raiders,13,1,S,Rain starting in the evening
+1033,2014,16,44,70,Saints,14,Falcons,30,2,NE,Mostly cloudy throughout the day
+1034,2014,17,60,51,Giants,26,Eagles,34,6,WNW,Drizzle in the evening
+1035,2013,1,35,82,Jets,18,Buccaneers,17,,WNW,"Mostly clear, with a low around 52 "
+1036,2013,2,44,70,Colts,20,Dolphins,24,,SSW,"Partly sunny, with a high near 75 "
+1037,2013,3,26,72,Patriots,23,Buccaneers,3,,W,"Mostly clear, with a low around 44 "
+1038,2013,4,61,60,Vikings,34,Steelers,27,,,
+1039,2013,5,57,69,Giants,21,Eagles,36,9,ESE,A slight chance of showers 
+1040,2013,6,51,84,Buccaneers,20,Eagles,31,,N,"Sunny, with a high near 87 "
+1041,2013,7,57,65,Jets,30,Patriots,27,,W,"Mostly clear, with a low around 46 "
+1042,2013,8,22,58,Eagles,7,Giants,15,,W,"Mostly clear, with a low around 42 "
+1043,2013,9,49,70,Rams,21,Titans,28,,SE,"Sunny, with a high near 58 "
+1044,2013,10,46,70,Colts,8,Rams,38,,NW,"Sunny, with a high near 51 "
+1045,2013,11,43,68,Bears,23,Ravens,20,,S,Overcast and 
+1046,2013,12,63,70,Rams,42,Bears,21,,N,"Mostly sunny, with a high near 31 "
+1047,2013,13,36,70,Colts,22,Titans,14,,WSW,"Sunny, with a high near 52 "
+1048,2013,14,53,31,Patriots,27,Browns,26,,NNW,"Cloudy, with a high near 33 "
+1049,2013,15,43,70,Rams,27,Saints,16,,SW,"Partly sunny, with a high near 32 "
+1050,2013,16,47,62,Washington,23,Cowboys,24,,S,Occasional showers 
+1051,2013,17,27,79,Dolphins,7,Jets,20,,S,A 50 percent chance of showers 
+1052,2012,1,64,73,Chiefs,24,Falcons,40,,NNE,"Sunny, with a high near 77 "
+1053,2012,2,34,85,Jaguars,7,Texans,27,,E,A 20 percent chance of showers and thunderstorms 
+1054,2012,3,37,70,Vikings,24,49ers,13,,NW,"Sunny, with a high near 58 "
+1055,2012,4,32,70,Rams,19,Seahawks,13,,NE,"Mostly cloudy, with a high near 72 "
+1056,2012,5,41,52,Washington,17,Falcons,24,,NNE,"Showers likely, mainly after 4pm "
+1057,2012,6,49,73,Eagles,23,Lions,26,,SW,"Mostly sunny, with a high near 73 "
+1058,2012,7,33,67,Panthers,14,Cowboys,19,,N,"Sunny, with a high near 68 "
+1059,2012,8,32,57,Titans,13,Colts,19,,N,"Mostly sunny, with a high near 56 "
+1060,2012,9,43,70,Colts,23,Dolphins,20,,NNE,"Partly sunny, with a high near 45 "
+1061,2012,10,58,70,Saints,31,Falcons,27,,SSE,A 20 percent chance of showers 
+1062,2012,11,40,70,Rams,13,Jets,27,,SSE,"Sunny, with a high near 61 "
+1063,2012,12,34,38,Browns,20,Steelers,14,,WSW,"Mostly sunny, with a high near 42 "
+1064,2012,13,34,71,Titans,10,Texans,24,,SW,A 20 percent chance of showers 
+1065,2012,14,59,49,Washington,31,Ravens,28,,ENE,"A chance of rain or drizzle before 5pm, then a chance of drizzle "
+1066,2012,15,27,78,Dolphins,24,Jaguars,3,,SE,A 20 percent chance of showers 
+1067,2012,16,47,44,Eagles,20,Washington,27,,SSW,"Sunny, with a high near 44 "
+1068,2012,17,44,70,Colts,28,Texans,16,,SW,"Mostly sunny, with a high near 27 "
+1069,2011,1,42,70,Ravens,35,Steelers,7,,,
+1070,2011,2,43,64,Washington,22,Cardinals,21,,,
+1071,2011,3,45,79,Eagles,16,Giants,29,,,
+1072,2011,4,63,60,Bears,34,Panthers,29,,,
+1073,2011,5,44,70,Vikings,34,Cardinals,10,,,
+1074,2011,6,27,58,Packers,24,Rams,3,,,
+1075,2011,7,42,67,Buccaneers,18,Bears,24,,,
+1076,2011,8,57,63,Ravens,30,Cardinals,27,,,
+1077,2011,9,43,70,Saints,27,Buccaneers,16,,,
+1078,2011,10,20,70,Colts,3,Jaguars,17,,,
+1079,2011,11,51,67,Washington,24,Cowboys,27,,,
+1080,2011,12,33,79,Jaguars,13,Texans,20,,,
+1081,2011,13,42,60,Steelers,35,Bengals,7,,,
+1082,2011,14,62,70,Lions,34,Vikings,28,,,
+1083,2011,15,33,31,Giants,10,Washington,23,,,
+1084,2011,16,29,47,Chiefs,13,Raiders,16,,,
+1085,2011,17,86,30,Packers,45,Lions,41,,,
+1086,2010,1,31,87,Buccaneers,17,Browns,14,,,
+1087,2010,2,67,70,Lions,32,Eagles,35,,,
+1088,2010,3,41,57,Chiefs,31,49ers,10,,,
+1089,2010,4,31,51,Steelers,14,Ravens,17,,,
+1090,2010,5,62,63,Bills,26,Jaguars,36,,,
+1091,2010,6,66,78,Texans,35,Chiefs,31,,,
+1092,2010,7,45,78,Dolphins,22,Steelers,23,,,
+1093,2010,8,62,70,Lions,37,Washington,25,,,
+1094,2010,9,48,44,Browns,34,Patriots,14,,,
+1095,2010,10,46,45,Browns,20,Jets,26,,,
+1096,2010,11,80,64,Bengals,31,Bills,49,,,
+1097,2010,12,47,37,Browns,24,Panthers,23,,,
+1098,2010,13,52,70,Buccaneers,24,Falcons,28,,,
+1099,2010,14,69,54,Jaguars,38,Raiders,31,,,
+1100,2010,15,58,70,Colts,34,Jaguars,24,,,
+1101,2010,16,61,66,Dolphins,27,Lions,34,,,
+1102,2010,17,33,70,Lions,20,Vikings,13,,,
+1103,2009,1,55,85,Buccaneers,21,Cowboys,34,,,
+1104,2009,2,70,69,Eagles,22,Saints,48,,,
+1105,2009,3,48,68,Eagles,34,Chiefs,14,,,
+1106,2009,4,29,68,Washington,16,Buccaneers,13,,,
+1107,2009,5,48,70,Lions,20,Steelers,28,,,
+1108,2009,6,49,64,Buccaneers,21,Panthers,28,,,
+1109,2009,7,42,61,Buccaneers,7,Patriots,35,,,
+1110,2009,8,32,70,Colts,18,49ers,14,,,
+1111,2009,9,66,81,Buccaneers,38,Packers,28,,,
+1112,2009,10,46,63,Jets,22,Jaguars,24,,,
+1113,2009,11,65,53,Giants,34,Falcons,31,,,
+1114,2009,12,23,58,Bengals,16,Browns,7,,,
+1115,2009,13,57,37,Chiefs,13,Broncos,44,,,
+1116,2009,14,29,75,Buccaneers,3,Jets,26,,,
+1117,2009,15,75,38,Chiefs,34,Browns,41,,,
+1118,2009,16,43,38,Steelers,23,Ravens,20,,,
+1119,2009,17,61,44,Texans,34,Patriots,27,,,
+1120,2019,1,66,93,Jaguars,26,Chiefs,40,3,SW,Humid throughout the day
+1121,2019,2,58,82,Bengals,17,49ers,41,3,SSW,Partly cloudy throughout the day
+1122,2019,3,51,70,Colts,27,Falcons,24,11,SSW,Rain in the morning and overnight
+1123,2019,4,64,70,Lions,30,Chiefs,34,7,NE,Light rain in the afternoon and evening
+1124,2019,5,85,88,Texans,53,Falcons,32,6,E,Humid and partly cloudy throughout the day
+1125,2019,6,40,61,Ravens,23,Bengals,17,3,ESE,Mostly cloudy throughout the day
+1126,2019,7,53,70,Colts,30,Texans,23,2,NW,Mostly cloudy throughout the day
+1127,2019,8,44,52,Bills,13,Eagles,31,11,WSW,Light rain in the morning and afternoon
+1128,2019,9,50,55,Panthers,30,Titans,20,5,NE,Clear throughout the day
+1129,2019,10,67,62,Titans,35,Chiefs,32,9,SW,Clear throughout the day
+1130,2019,11,50,70,Vikings,27,Broncos,23,6,WNW,Drizzle in the morning
+1131,2019,12,65,70,Saints,34,Panthers,31,3,N,Clear throughout the day
+1132,2019,13,37,38,Ravens,20,49ers,17,9,E,Rain throughout the day
+1133,2019,14,62,67,Texans,24,Broncos,38,7,SSE,Partly cloudy throughout the day
+1134,2019,15,47,34,Bengals,13,Patriots,34,3,SSW,Light rain in the evening and overnight
+1135,2019,16,36,70,Falcons,24,Jaguars,12,6,NE,Rain throughout the day
+1136,2019,17,40,70,Vikings,19,Bears,21,6,SE,Light rain in the morning and afternoon
+1137,2018,1,47,88,Dolphins,27,Titans,20,4,SW,"Rain starting in the afternoon, continuing until evening"
+1138,2018,2,32,82,Jets,12,Dolphins,20,3,SE,Mostly cloudy overnight
+1139,2018,3,41,62,Ravens,27,Broncos,14,4,ENE,Rain starting in the afternoon
+1140,2018,4,50,79,Cowboys,26,Lions,24,6,SE,Mostly cloudy until evening
+1141,2018,5,21,70,Browns,12,Ravens,9,2,NNE,Rain in the morning
+1142,2018,6,52,55,Browns,14,Chargers,38,1,SSE,Mostly cloudy starting in the evening
+1143,2018,7,69,43,Bears,31,Patriots,38,6,NW,Clear throughout the day
+1144,2018,8,71,56,Bengals,37,Buccaneers,34,7,S,Mostly cloudy throughout the day and breezy starting in the afternoon
+1145,2018,9,33,70,Vikings,24,Lions,9,6,NE,Light rain until afternoon
+1146,2018,10,40,42,Chiefs,26,Cardinals,14,1,NNW,Snow (< 1 in
+1147,2018,11,44,47,Washington,21,Texans,23,4,SSE,Mostly cloudy throughout the day
+1148,2018,12,51,57,Ravens,34,Raiders,17,5,WSW,Mostly cloudy starting in the evening
+1149,2018,13,46,70,Lions,16,Rams,30,11,S,Mostly cloudy throughout the day
+1150,2018,14,45,45,Texans,21,Colts,24,1,NNW,Mostly cloudy throughout the day
+1151,2018,15,54,70,Falcons,40,Cardinals,14,5,NW,Mostly cloudy throughout the day
+1152,2018,16,44,37,Browns,26,Bengals,18,3,SW,Mostly cloudy throughout the day
+1153,2018,17,66,77,Buccaneers,32,Falcons,34,4,S,Partly cloudy throughout the day
+1154,2017,1,40,66,Bears,17,Falcons,23,5,ESE,Clear throughout the day
+1155,2017,2,53,86,Jaguars,16,Titans,37,7,NNE,Clear throughout the day
+1156,2017,3,47,81,Panthers,13,Saints,34,4,NE,Mostly cloudy starting in the afternoon
+1157,2017,4,40,70,Falcons,17,Bills,23,7,ENE,Partly cloudy starting in the evening
+1158,2017,5,49,74,Giants,22,Chargers,27,4,SW,Humid and 
+1159,2017,6,41,71,Jets,17,Patriots,24,5,SW,Light rain overnight
+1160,2017,7,20,67,Bears,17,Panthers,3,4,SSE,Rain starting in the afternoon
+1161,2017,8,34,61,Patriots,21,Chargers,13,1,SE,Heavy rain and dangerously windy starting in the evening
+1162,2017,9,74,62,Eagles,51,Broncos,23,1,SE,Light rain in the morning
+1163,2017,10,25,76,Buccaneers,15,Jets,10,6,ENE,Partly cloudy throughout the day
+1164,2017,11,51,31,Bears,24,Lions,27,6,WNW,Mostly cloudy until afternoon
+1165,2017,12,54,70,Falcons,34,Buccaneers,20,4,NNW,Clear throughout the day
+1166,2017,13,26,46,Bills,3,Patriots,23,2,SW,Foggy overnight
+1167,2017,14,48,28,Browns,21,Packers,27,9,WSW,Foggy overnight
+1168,2017,15,40,25,Bills,24,Dolphins,16,,NE,Foggy in the morning
+1169,2017,16,41,53,Panthers,22,Buccaneers,19,1,ENE,Mostly cloudy throughout the day
+1170,2017,17,6,15,Eagles,0,Cowboys,6,4,NNW,Mostly cloudy until evening
+1171,2016,1,60,73,Chiefs,33,Chargers,27,7,S,Clear throughout the day
+1172,2016,2,31,89,Texans,19,Chiefs,12,2,WSW,Rain until afternoon
+1173,2016,3,61,72,Packers,34,Lions,27,1,SSE,Rain starting in the afternoon
+1174,2016,4,81,70,Falcons,48,Panthers,33,,NW,Partly cloudy starting in the afternoon
+1175,2016,5,44,70,Vikings,31,Texans,13,4,SSE,Clear throughout the day
+1176,2016,6,33,67,Bears,16,Jaguars,17,3,SSW,Heavy rain in the morning and overnight
+1177,2016,7,37,70,Lions,20,Washington,17,5,SSW,Partly cloudy starting in the evening
+1178,2016,8,59,54,Browns,28,Jets,31,9,N,Rain until afternoon
+1179,2016,9,35,63,Ravens,21,Steelers,14,1,NNW,Partly cloudy in the morning
+1180,2016,10,46,77,Buccaneers,36,Bears,10,2,SE,Mostly cloudy throughout the day
+1181,2016,11,36,43,Chiefs,17,Buccaneers,19,8,SE,Partly cloudy in the morning
+1182,2016,12,57,70,Falcons,38,Cardinals,19,,NE,Mostly cloudy starting in the afternoon
+1183,2016,13,46,41,Bengals,32,Eagles,14,3,ESE,"Rain starting in the afternoon, continuing until evening"
+1184,2016,14,44,42,Panthers,28,Chargers,16,2,SSE,Mostly cloudy throughout the day
+1185,2016,15,36,2,Chiefs,17,Titans,19,2,NW,Clear throughout the day
+1186,2016,16,37,37,Browns,20,Chargers,17,1,W,Light rain in the morning
+1187,2016,17,48,70,Vikings,38,Bears,10,2,WNW,Mostly cloudy starting in the afternoon
+1188,2015,1,29,81,Jaguars,9,Panthers,20,1,WSW,Partly cloudy until evening
+1189,2015,2,72,62,Bills,32,Patriots,40,4,N,Partly cloudy starting in the evening
+1190,2015,3,49,67,Panthers,27,Saints,22,8,NNE,"Light rain until afternoon, starting again in the evening"
+1191,2015,4,42,56,Bears,22,Raiders,20,8,NE,Light rain in the morning
+1192,2015,5,63,68,Ravens,30,Browns,33,,S,Clear throughout the day
+1193,2015,6,49,46,Browns,23,Broncos,26,11,NW,Partly cloudy throughout the day
+1194,2015,7,36,64,Chiefs,23,Steelers,13,6,NE,Clear throughout the day
+1195,2015,8,43,61,Bears,20,Vikings,23,7,WSW,Partly cloudy in the morning
+1196,2015,9,51,57,Jets,28,Jaguars,23,7,WNW,Clear throughout the day
+1197,2015,10,39,59,Eagles,19,Dolphins,20,9,WSW,Clear throughout the day
+1198,2015,11,29,47,Ravens,16,Rams,13,1,NNW,Partly cloudy until evening
+1199,2015,12,34,46,Washington,20,Giants,14,5,N,Light rain in the morning
+1200,2015,13,28,78,Dolphins,15,Ravens,13,14,NE,Light rain until evening
+1201,2015,14,53,65,Bengals,20,Steelers,33,6,SSE,Mostly cloudy throughout the day
+1202,2015,15,49,39,Patriots,33,Titans,16,5,W,Partly cloudy overnight
+1203,2015,16,49,70,Lions,32,49ers,17,13,NNW,Light rain until afternoon
+1204,2015,17,54,70,Colts,30,Titans,24,6,NW,Mostly cloudy throughout the day
+1205,2014,1,33,80,Jets,19,Raiders,14,,N,"Mostly clear, with a low around 60 "
+1206,2014,2,39,71,Giants,14,Cardinals,25,,N,"Clear, with a low around 51 "
+1207,2014,3,25,78,Patriots,16,Raiders,9,7,SSE,Isolated showers 
+1208,2014,4,51,73,Steelers,24,Buccaneers,27,,SSW,"Partly cloudy, with a low around 54 "
+1209,2014,5,50,61,Giants,30,Falcons,20,,WNW,"Mostly clear, with a low around 45 "
+1210,2014,6,20,61,Vikings,3,Lions,17,,SSE,Cloudy and 
+1211,2014,7,54,70,Rams,28,Seahawks,26,,N,"Mostly sunny, with a high near 63 "
+1212,2014,8,74,57,Patriots,51,Bears,23,,WNW,Scattered showers 
+1213,2014,9,55,54,Vikings,29,Washington,26,,SSE,"Mostly sunny, with a high near 55 "
+1214,2014,10,48,53,Jaguars,17,Cowboys,31,,,A 70 percent chance of rain
+1215,2014,11,37,70,Saints,10,Bengals,27,19,SSE,"Showers and thunderstorms, mainly after 3pm "
+1216,2014,12,67,53,Eagles,43,Titans,24,,S,"Mostly sunny, with a high near 57 "
+1217,2014,13,44,15,Vikings,31,Panthers,13,,WNW,"Sunny, with a high near 14 "
+1218,2014,14,54,34,Vikings,30,Jets,24,11,SSE,Light snow (under 1 in
+1219,2014,15,54,43,Patriots,41,Dolphins,13,5,WNW,Partly cloudy in the morning
+1220,2014,16,33,35,Jets,16,Patriots,17,4,NW,Mostly cloudy throughout the day
+1221,2014,17,43,77,Buccaneers,20,Saints,23,7,SSW,Partly cloudy throughout the day
+1222,2013,1,25,74,Steelers,9,Titans,16,,ENE,"Partly cloudy, with a low around 55 "
+1223,2013,2,33,79,Chiefs,17,Cowboys,16,3,N,A slight chance of showers and thunderstorms 
+1224,2013,3,38,70,Saints,31,Cardinals,7,,NE,A 30 percent chance of showers 
+1225,2013,5,31,61,Packers,22,Lions,9,,WSW,"Mostly sunny, with a high near 63 "
+1226,2013,6,36,68,Ravens,17,Packers,19,,N,Areas of drizzle 
+1227,2013,7,20,62,Eagles,3,Cowboys,17,,NW,"Mostly clear, with a low around 45 "
+1228,2013,8,52,73,Jaguars,10,49ers,42,,N,"Sunny, with a high near 74 "
+1229,2013,9,46,53,Jets,26,Saints,20,,N,"Mostly sunny, with a high near 51 "
+1230,2013,10,44,53,Giants,24,Raiders,20,,NW,"Partly sunny, with a high near 62 "
+1231,2013,11,61,64,Bengals,41,Browns,20,,S,"Showers and thunderstorms likely, mainly after 4pm "
+1232,2013,12,36,80,Dolphins,16,Panthers,20,17,NNE,Scattered showers 
+1233,2013,13,63,53,Chiefs,28,Broncos,35,,N,Fair with 
+1234,2013,14,64,34,Jets,37,Raiders,27,,N,"Snow likely, mainly after 5pm "
+1235,2013,15,44,85,Dolphins,24,Patriots,20,12,SW,Scattered showers 
+1236,2013,16,30,70,Panthers,17,Saints,13,,S,"Showers and possibly a thunderstorm before 4pm, then showers and thunderstorms after 4pm "
+1237,2013,17,27,70,Vikings,14,Lions,13,,NW,"Sunny and cold, with a high near 1 "
+1238,2012,1,49,70,Vikings,26,Jaguars,23,,N,"Sunny, with a high near 72 "
+1239,2012,2,38,71,Patriots,18,Cardinals,20,,WNW,"Mostly sunny, with a high near 69 "
+1240,2012,3,51,70,Saints,24,Chiefs,27,,NNE,"Sunny, with a high near 89 "
+1241,2012,4,34,67,Jets,0,49ers,34,,WSW,"Mostly sunny, with a high near 69 "
+1242,2012,5,68,52,Giants,41,Browns,27,,S,"Rain likely, mainly after 5pm "
+1243,2012,6,60,80,Ravens,31,Cowboys,29,,SE,"Partly sunny, with a high near 68 "
+1244,2012,7,56,83,Texans,43,Ravens,13,,SSE,"Partly sunny, with a high near 89 "
+1245,2012,8,52,48,Rams,7,Patriots,45,9,SSW,"Cloudy, with a high near 47 "
+1246,2012,9,34,49,Washington,13,Panthers,21,,WNW,"Partly sunny, with a high near 52 "
+1247,2012,10,58,79,Buccaneers,34,Chargers,24,,N,"Mostly sunny, with a high near 81 "
+1248,2012,11,37,52,Washington,31,Eagles,6,,ENE,"Mostly cloudy, with a high near 54 "
+1249,2012,12,33,70,Colts,20,Bills,13,,WSW,"Partly sunny, with a high near 46 "
+1250,2012,13,48,61,Chiefs,27,Panthers,21,,N,"Sunny, with a high near 67 "
+1251,2012,14,50,62,Panthers,30,Falcons,20,5,SSW,Isolated showers 
+1252,2012,15,41,70,Saints,41,Buccaneers,0,,SSW,A 40 percent chance of showers and thunderstorms 
+1253,2012,16,23,38,Steelers,10,Bengals,13,,SW,"Sunny, with a high near 36 "
+1254,2012,17,82,70,Saints,38,Panthers,44,,NNE,"Mostly sunny, with a high near 53 "
+1255,2011,1,41,92,Texans,34,Colts,7,,,
+1256,2011,2,44,70,Vikings,20,Buccaneers,24,,,
+1257,2011,3,49,70,Vikings,23,Lions,26,,,
+1258,2011,4,27,70,Rams,10,Washington,17,,,
+1259,2011,5,57,75,Panthers,27,Saints,30,,,
+1260,2011,6,48,70,Falcons,31,Panthers,17,,,
+1261,2011,8,55,59,Broncos,10,Lions,45,,,
+1262,2011,9,38,70,Colts,7,Falcons,31,,,
+1263,2011,10,27,69,Chiefs,10,Broncos,17,,,
+1264,2011,11,84,70,Lions,49,Panthers,35,,,
+1265,2011,12,38,70,Falcons,24,Vikings,14,,,
+1266,2011,13,57,78,Buccaneers,19,Panthers,38,,,
+1267,2011,14,54,48,Panthers,23,Falcons,31,,,
+1268,2011,15,52,40,Bears,14,Seahawks,38,,,
+1269,2011,16,43,37,Jets,14,Giants,29,,,
+1270,2011,17,30,70,Vikings,13,Bears,17,,,
+1271,2010,1,62,63,Patriots,38,Bengals,24,,,
+1272,2010,2,48,70,Falcons,41,Cardinals,7,,,
+1273,2010,3,39,70,Giants,10,Titans,29,,,
+1274,2010,4,46,53,Titans,20,Broncos,26,,,
+1275,2010,5,48,70,Ravens,31,Broncos,17,,,
+1276,2010,6,48,63,Giants,28,Lions,20,,,
+1277,2010,7,35,84,Buccaneers,18,Rams,17,,,
+1278,2010,8,23,48,Chiefs,13,Bills,10,,,
+1279,2010,9,52,64,Texans,23,Chargers,29,,,
+1280,2010,10,46,80,Dolphins,29,Titans,17,,,
+1281,2010,11,54,73,Cowboys,35,Lions,19,,,
+1282,2010,12,35,35,Bills,16,Steelers,19,,,
+1283,2010,13,64,32,Bengals,30,Saints,34,,,
+1284,2010,14,33,42,Washington,16,Buccaneers,17,,,
+1285,2010,15,48,35,Titans,31,Texans,17,,,
+1286,2010,16,72,30,Bears,38,Jets,34,,,
+1287,2010,17,50,25,Browns,9,Steelers,41,,,
+1288,2009,1,31,82,Texans,7,Jets,24,,,
+1289,2009,2,55,68,Packers,24,Bengals,31,,,
+1290,2009,3,24,89,Buccaneers,0,Giants,24,,,
+1291,2009,4,54,82,Jaguars,37,Titans,17,,,
+1292,2009,5,37,64,Panthers,20,Washington,17,,,
+1293,2009,6,20,44,Washington,6,Chiefs,14,,,
+1294,2009,7,29,59,Panthers,9,Bills,20,,,
+1295,2009,8,55,54,Jets,25,Dolphins,30,,,
+1296,2009,9,45,79,Jaguars,24,Chiefs,21,,,
+1297,2009,10,30,63,Steelers,12,Bengals,18,,,
+1298,2009,11,45,79,Buccaneers,7,Saints,38,,,
+1299,2009,12,44,70,Rams,17,Seahawks,27,,,
+1300,2009,13,63,34,Washington,30,Saints,33,,,
+1301,2009,14,24,77,Jaguars,10,Dolphins,14,,,
+1302,2009,15,29,70,Rams,13,Texans,16,,,
+1303,2009,16,47,75,Dolphins,20,Texans,27,,,
+1304,2009,17,34,70,Rams,6,49ers,28,,,
+1305,2019,1,56,69,Browns,13,Titans,43,6,NE,Mostly cloudy throughout the day
+1306,2019,2,23,70,Lions,13,Chargers,10,7,SW,Drizzle in the afternoon
+1307,2019,3,43,69,Packers,27,Broncos,16,5,SW,"Light rain until afternoon, starting again overnight"
+1308,2019,4,65,82,Ravens,25,Browns,40,5,NE,Mostly cloudy throughout the day
+1309,2019,5,55,70,Saints,31,Buccaneers,24,7,ESE,Humid and 
+1310,2019,6,27,72,Rams,7,49ers,20,5,SW,Clear throughout the day
+1311,2019,7,9,55,Washington,0,49ers,9,8,NNE,Rain throughout the day
+1312,2019,8,33,51,Bears,16,Chargers,17,6,WSW,Mostly cloudy throughout the day
+1313,2019,9,33,35,Bills,24,Washington,9,1,W,Light snow in the morning
+1314,2019,10,57,75,Buccaneers,30,Cardinals,27,5,ENE,Clear throughout the day
+1315,2019,11,51,41,Washington,17,Jets,34,7,NE,Overcast throughout the day
+1316,2019,12,35,46,Washington,19,Lions,16,1,WNW,Possible drizzle in the morning
+1317,2019,13,39,78,Jaguars,11,Buccaneers,28,14,SSW,Mostly cloudy throughout the day
+1318,2019,14,41,34,Bills,17,Ravens,24,18,S,Windy and 
+1319,2019,15,55,70,Lions,17,Buccaneers,38,11,WNW,Mostly cloudy throughout the day
+1320,2019,16,46,44,Browns,15,Ravens,31,7,SW,Clear throughout the day
+1321,2019,17,51,40,Patriots,24,Dolphins,27,2,N,Light rain in the evening and overnight
+1322,2018,1,57,70,Colts,23,Bengals,34,9,NE,Light rain in the morning
+1323,2018,2,51,79,Bills,20,Chargers,31,7,S,Partly cloudy starting in the evening
+1324,2018,3,52,81,Panthers,31,Bengals,21,1,ESE,Partly cloudy throughout the day
+1325,2018,4,58,64,Bears,48,Buccaneers,10,1,NW,Mostly cloudy throughout the day
+1326,2018,5,64,80,Panthers,33,Giants,31,1,NE,Foggy in the morning
+1327,2018,6,33,87,Texans,20,Bills,13,9,SSW,Humid throughout the day and partly cloudy until afternoon
+1328,2018,7,42,70,Colts,37,Bills,5,3,SE,Clear throughout the day
+1329,2018,8,34,48,Bears,24,Jets,10,11,W,Light rain in the morning
+1330,2018,9,52,53,Washington,14,Falcons,38,4,ESE,Mostly cloudy starting in the evening
+1331,2018,10,44,46,Titans,34,Patriots,10,2,SSE,Partly cloudy in the morning
+1332,2018,11,36,72,Jaguars,16,Steelers,20,6,NNE,Partly cloudy throughout the day
+1333,2018,12,51,70,Colts,27,Dolphins,24,11,ESE,Rain and breezy starting in the evening
+1334,2018,13,37,34,Packers,17,Cardinals,20,18,NNE,Snow (< 1 in
+1335,2018,14,21,29,Bears,15,Rams,6,1,NNW,Partly cloudy in the morning
+1336,2018,15,46,42,Bengals,30,Raiders,16,1,WNW,Mostly cloudy until evening
+1337,2018,16,47,48,Cowboys,27,Buccaneers,20,9,N,Partly cloudy starting in the evening
+1338,2018,17,50,45,Ravens,26,Browns,24,3,SSE,Partly cloudy throughout the day
+1339,2017,1,20,69,Bengals,0,Ravens,20,3,ENE,Clear throughout the day
+1340,2017,2,29,70,Colts,13,Cardinals,16,3,SSW,Light rain starting in the evening
+1341,2017,3,40,87,Bears,23,Steelers,17,3,SSE,Clear throughout the day
+1342,2017,4,35,64,Ravens,9,Steelers,26,1,NNE,Clear throughout the day
+1343,2017,5,39,71,Steelers,9,Jaguars,30,4,WSW,Rain in the morning and afternoon
+1344,2017,6,50,69,Washington,26,49ers,24,3,SSW,Light rain overnight
+1345,2017,7,21,74,Browns,9,Titans,12,4,SSW,Mostly cloudy starting in the evening
+1346,2017,8,48,39,Bills,34,Raiders,14,2,NNE,Rain in the morning and afternoon and windy overnight
+1347,2017,9,43,75,Titans,23,Ravens,20,8,SSW,Rain overnight
+1348,2017,10,68,43,Washington,30,Vikings,38,1,SSW,Mostly cloudy starting in the afternoon
+1349,2017,11,65,70,Saints,34,Washington,31,8,N,Breezy in the evening
+1350,2017,12,52,46,Patriots,35,Dolphins,17,4,WNW,Mostly cloudy throughout the day
+1351,2017,13,29,50,Bears,14,49ers,15,2,SSW,Mostly cloudy starting in the evening and breezy overnight
+1352,2017,14,40,30,Bengals,7,Bears,33,4,SSW,Mostly cloudy until evening
+1353,2017,15,41,70,Vikings,34,Bengals,7,,ESE,Foggy overnight
+1354,2017,16,36,70,Saints,23,Falcons,13,1,WNW,Breezy and mostly cloudy starting in the evening
+1355,2017,17,32,70,Falcons,22,Panthers,10,3,NW,Mostly cloudy until evening
+1356,2016,1,20,82,Ravens,13,Bills,7,7,NW,Drizzle in the morning
+1357,2016,2,31,70,Lions,15,Titans,16,3,SSW,Light rain in the evening
+1358,2016,3,46,82,Bengals,17,Broncos,29,,S,Partly cloudy starting in the afternoon
+1359,2016,4,55,67,Ravens,27,Raiders,28,,ESE,Light rain in the morning and overnight
+1360,2016,5,44,57,Steelers,31,Jets,13,6,NW,"Partly cloudy starting in the afternoon, continuing until evening"
+1361,2016,6,59,70,Lions,31,Rams,28,11,SW,Rain until evening
+1362,2016,7,49,72,Jaguars,16,Raiders,33,5,NNE,Clear throughout the day
+1363,2016,8,66,50,Bills,25,Patriots,41,2,NW,Rain until evening
+1364,2016,9,64,68,49ers,23,Saints,41,1,NW,Mostly cloudy throughout the day
+1365,2016,10,46,55,Washington,26,Vikings,20,4,WSW,Clear throughout the day
+1366,2016,11,38,40,Giants,22,Bears,16,12,W,Light rain in the morning
+1367,2016,12,40,46,Browns,13,Giants,27,1,SSW,Mostly cloudy in the morning
+1368,2016,13,44,45,Ravens,38,Dolphins,6,3,NNW,Rain overnight
+1369,2016,14,33,28,Browns,10,Bengals,23,13,SSE,Snow (3–7 in
+1370,2016,15,23,48,Giants,17,Lions,6,4,SW,Light rain in the morning and afternoon
+1371,2016,16,62,35,Bears,21,Washington,41,1,WNW,Mostly cloudy throughout the day
+1372,2016,17,40,45,Jets,30,Bills,10,8,NW,Mostly cloudy overnight
+1373,2015,1,65,70,Rams,34,Seahawks,31,3,SSW,Clear throughout the day
+1374,2015,2,43,73,Bengals,24,Chargers,19,6,NE,Partly cloudy starting in the afternoon
+1375,2015,3,41,70,Jets,17,Eagles,24,5,ESE,Partly cloudy starting in the afternoon
+1376,2015,4,69,70,Falcons,48,Texans,21,9,NE,Light rain until evening
+1377,2015,5,34,73,Packers,24,Rams,10,15,SW,Clear throughout the day
+1378,2015,6,51,70,Jaguars,20,Texans,31,13,NNE,Partly cloudy until evening
+1379,2015,7,30,70,Rams,24,Browns,6,7,NE,Partly cloudy throughout the day
+1380,2015,8,55,65,Ravens,29,Chargers,26,6,SW,Mostly cloudy throughout the day
+1381,2015,9,73,51,Steelers,38,Raiders,35,,SSE,Clear throughout the day
+1382,2015,10,39,60,Steelers,30,Browns,9,6,SW,Clear throughout the day
+1383,2015,11,38,75,Dolphins,14,Cowboys,24,1,WSW,Rain throughout the day
+1384,2015,12,37,70,Colts,25,Buccaneers,12,8,NE,Mostly cloudy throughout the day
+1385,2015,13,40,46,Browns,3,Bengals,37,5,SW,Mostly cloudy until evening
+1386,2015,14,67,77,Jaguars,51,Colts,16,8,E,Partly cloudy in the morning
+1387,2015,15,60,45,Washington,35,Bills,25,3,S,Partly cloudy starting in the afternoon
+1388,2015,16,22,37,Bills,16,Cowboys,6,5,NW,Rain until afternoon
+1389,2015,17,57,54,Cowboys,23,Washington,34,4,NNW,Clear throughout the day
+1390,2014,1,51,80,Eagles,34,Jaguars,17,,N,"Partly cloudy, with a low around 63 "
+1391,2014,2,51,67,Washington,41,Jaguars,10,,W,"Partly cloudy, with a low around 53 "
+1392,2014,3,29,70,Saints,20,Vikings,9,,NNE,"Sunny, with a high near 89 "
+1393,2014,4,48,79,Ravens,38,Panthers,10,,N,"Partly cloudy, with a low around 60 "
+1394,2014,5,62,60,Eagles,34,Rams,28,,W,"Mostly clear, with a low around 48 "
+1395,2014,6,48,64,Jets,17,Broncos,31,,NW,"Increasing clouds, with a low around 50 "
+1396,2014,7,36,57,Washington,19,Titans,17,,W,"Mostly clear, with a low around 40 "
+1397,2014,8,66,61,Jets,23,Bills,43,,NW,Overcast and 
+1398,2014,9,52,71,Texans,21,Eagles,31,,SSE,"Mostly sunny, with a high near 73 "
+1399,2014,11,26,43,Giants,10,49ers,16,,SSW,"Cloudy, with a high near 44 "
+1400,2014,12,35,76,Texans,13,Bengals,22,,SW,"Sunny, with a high near 81 "
+1401,2014,13,67,61,Steelers,32,Saints,35,,SW,Scattered sprinkles 
+1402,2014,14,51,70,Saints,10,Panthers,41,5,N,Mostly cloudy throughout the day
+1403,2014,15,37,43,Giants,24,Washington,13,7,NW,Mostly cloudy throughout the day
+1404,2014,16,32,34,Steelers,20,Chiefs,12,,NE,Mostly cloudy throughout the day
+1405,2014,17,61,57,Washington,17,Cowboys,44,4,WNW,Light rain starting in the afternoon
+1406,2013,1,58,70,Lions,34,Vikings,24,,ENE,"Mostly sunny, with a high near 74 "
+1407,2013,2,20,78,Ravens,14,Browns,6,,N,"Partly cloudy, with a low around 63 "
+1408,2013,3,47,71,Washington,20,Lions,27,,NW,"Mostly clear, with a low around 52 "
+1409,2013,4,23,84,Buccaneers,10,Cardinals,13,,WSW,A 20 percent chance of showers 
+1410,2013,5,43,63,Titans,17,Chiefs,26,,WNW,A 50 percent chance of showers and thunderstorms 
+1411,2013,6,51,76,Texans,13,Rams,38,5,ENE,Showers and thunderstorms likely 
+1412,2013,7,86,62,Washington,45,Bears,41,,WNW,"Clear, with a low around 43 "
+1413,2013,8,39,59,Raiders,21,Steelers,18,,W,A 20 percent chance of showers after midnight 
+1414,2013,9,51,52,Seahawks,27,Buccaneers,24,,N,"Mostly cloudy, with a low around 39 "
+1415,2013,10,33,45,Steelers,23,Bills,10,,WNW,"Mostly cloudy, with a high near 47 "
+1416,2013,11,69,79,Buccaneers,41,Falcons,28,,W,A 20 percent chance of showers 
+1417,2013,12,22,34,Ravens,19,Jets,3,,N,"Partly sunny, with a high near 32 "
+1418,2013,13,43,70,Vikings,23,Bears,20,,N,"Cloudy, with a high near 34 "
+1419,2013,14,54,27,Eagles,34,Lions,20,,NE,The snow could be heavy at times
+1420,2013,15,78,70,Vikings,48,Eagles,30,,NW,"Mostly cloudy and cold, with a high near 5 "
+1421,2013,16,36,82,Jaguars,16,Titans,20,,SW,"Partly sunny, with a high near 82 "
+1422,2013,17,26,42,Giants,20,Washington,6,,NE,High near 47
+1423,2012,1,72,70,Saints,32,Washington,40,,N,"Sunny, with a high near 84 "
+1424,2012,2,75,75,Giants,41,Buccaneers,34,,W,"Mostly sunny, with a high near 73 "
+1425,2012,3,69,67,Washington,31,Bengals,38,,NW,"Sunny, with a high near 70 "
+1426,2012,4,52,67,Texans,38,Titans,14,,NNW,"Partly sunny, with a high near 78 "
+1427,2012,5,30,47,Steelers,16,Eagles,14,7,NW,A chance of showers 
+1428,2012,6,48,88,Buccaneers,38,Chiefs,10,,E,"Mostly sunny, with a high near 90 "
+1429,2012,7,50,70,Rams,20,Packers,30,,SE,"Mostly sunny, with a high near 77 "
+1430,2012,8,39,59,Jets,9,Dolphins,30,,NNE,"Cloudy, with a high near 60 "
+1431,2012,9,45,81,Jaguars,14,Lions,31,,WSW,"Sunny, with a high near 83 "
+1432,2012,10,50,71,Panthers,14,Broncos,36,,WSW,"Mostly sunny, with a high near 71 "
+1433,2012,11,48,55,Panthers,21,Buccaneers,27,,NE,"Cloudy, with a high near 55 "
+1434,2012,12,26,54,Chiefs,9,Broncos,17,,N,"Sunny, with a high near 55 "
+1435,2012,13,29,70,Rams,16,49ers,13,,W,"Partly sunny, with a high near 74 "
+1436,2012,14,27,69,Jaguars,10,Jets,17,,N,"A 30 percent chance of showers, mainly before 3pm "
+1437,2012,15,51,64,Ravens,17,Broncos,34,,S,A 40 percent chance of showers and thunderstorms 
+1438,2012,16,41,63,Buccaneers,13,Rams,28,,WSW,"Mostly sunny, with a high near 69 "
+1439,2012,17,49,34,Giants,42,Eagles,7,,NW,Snow and 
+1440,2011,1,44,72,Browns,17,Bengals,27,,,
+1441,2011,2,53,67,Panthers,23,Packers,30,,,
+1442,2011,3,21,75,Bengals,8,49ers,13,,,
+1443,2011,4,33,74,Jaguars,10,Saints,23,,,
+1444,2011,5,55,75,Bills,31,Eagles,24,,,
+1445,2011,6,43,68,Ravens,29,Texans,14,,,
+1446,2011,7,9,63,Browns,6,Seahawks,3,,,
+1447,2011,8,23,70,Bills,23,Washington,0,,,
+1448,2011,9,62,62,Raiders,24,Broncos,38,,,
+1449,2011,10,38,61,Eagles,17,Cardinals,21,,,
+1450,2011,11,61,32,Packers,35,Buccaneers,26,,,
+1451,2011,12,43,70,Rams,20,Cardinals,23,,,
+1452,2011,13,27,71,Texans,17,Falcons,10,,,
+1453,2011,14,36,78,Dolphins,10,Eagles,26,,,
+1454,2011,15,62,70,Vikings,20,Saints,42,,,
+1455,2011,16,59,44,Washington,26,Vikings,33,,,
+1456,2011,17,62,70,Saints,45,Panthers,17,,,
+1457,2010,1,41,91,Jaguars,24,Broncos,17,,,
+1458,2010,2,30,63,Browns,14,Chiefs,16,,,
+1459,2010,3,51,86,Buccaneers,13,Steelers,38,,,
+1460,2010,4,30,70,Falcons,16,49ers,14,,,
+1461,2010,5,29,80,Panthers,6,Bears,23,,,
+1462,2010,6,48,66,Eagles,31,Falcons,17,,,
+1463,2010,7,43,70,Panthers,23,49ers,20,,,
+1464,2010,8,58,64,Chargers,33,Titans,25,,,
+1465,2010,9,51,70,Vikings,27,Cardinals,24,,,
+1466,2010,10,40,70,Colts,23,Bengals,17,,,
+1467,2010,11,57,45,Jets,30,Texans,27,,,
+1468,2010,12,30,45,Washington,13,Vikings,17,,,
+1469,2010,13,52,70,Vikings,38,Bills,14,,,
+1470,2010,14,61,54,49ers,40,Seahawks,21,,,
+1471,2010,15,54,23,Ravens,30,Saints,24,,,
+1472,2010,16,37,37,Jaguars,17,Washington,20,,,
+1473,2010,17,45,42,Jets,38,Bills,7,,,
+1474,2009,1,19,71,Bengals,7,Broncos,12,,,
+1475,2009,2,16,68,Washington,9,Rams,7,,,
+1476,2009,3,37,71,Ravens,34,Browns,3,,,
+1477,2009,4,35,78,Texans,29,Raiders,6,,,
+1478,2009,5,31,66,Ravens,14,Bengals,17,,,
+1479,2009,6,43,59,Jaguars,23,Rams,20,,,
+1480,2009,7,38,67,Raiders,0,Jets,38,,,
+1481,2009,8,37,50,Ravens,30,Broncos,7,,,
+1482,2009,9,52,50,Seahawks,32,Lions,20,,,
+1483,2009,10,44,67,Washington,27,Broncos,17,,,
+1484,2009,11,33,72,Jaguars,18,Bills,15,,,
+1485,2009,12,23,52,Jets,17,Panthers,6,,,
+1486,2009,13,22,39,Panthers,16,Buccaneers,6,,,
+1487,2009,14,51,32,Ravens,48,Lions,3,,,
+1488,2009,15,17,29,Jets,7,Falcons,10,,,
+1489,2009,16,42,55,Patriots,35,Jaguars,7,,,
+1490,2009,17,54,60,Dolphins,24,Steelers,30,,,
+1491,2019,1,54,73,Chargers,30,Colts,24,6,SSW,Partly cloudy throughout the day
+1492,2019,2,37,72,Packers,21,Vikings,16,3,S,Mostly cloudy throughout the day
+1493,2019,3,37,86,Cowboys,31,Dolphins,6,1,S,Humid and partly cloudy throughout the day
+1494,2019,4,26,57,Bills,10,Patriots,16,1,ENE,Mostly cloudy throughout the day
+1495,2019,5,38,67,Giants,10,Vikings,28,5,S,Overcast throughout the day
+1496,2019,6,67,70,Cardinals,34,Falcons,33,2,E,Clear throughout the day
+1497,2019,7,48,57,Giants,21,Cardinals,27,2,NE,Light rain starting in the afternoon
+1498,2019,8,57,70,Lions,31,Giants,26,14,WNW,Light rain in the morning
+1499,2019,9,74,51,Seahawks,40,Buccaneers,34,4,NNW,Clear throughout the day
+1500,2019,10,28,70,Colts,12,Dolphins,16,6,WSW,Clear throughout the day
+1501,2019,11,51,53,Buccaneers,17,Saints,34,2,N,Overcast throughout the day
+1502,2019,12,37,41,Jets,34,Raiders,3,9,NW,Rain in the morning and afternoon
+1503,2019,13,44,30,Giants,13,Packers,31,7,NE,Light rain starting in the afternoon
+1504,2019,14,46,43,Browns,27,Bengals,19,14,SSW,Partly cloudy throughout the day
+1505,2019,15,34,13,Packers,21,Bears,13,7,SW,Clear throughout the day
+1506,2019,16,44,70,Colts,38,Panthers,6,4,S,Clear throughout the day
+1507,2019,17,38,46,Ravens,28,Steelers,10,7,ESE,Light rain throughout the day
+1508,2018,1,42,59,Browns,21,Steelers,21,4,ENE,Heavy rain throughout the day and breezy starting in the evening
+1509,2018,2,58,78,Packers,29,Vikings,29,5,SSE,Partly cloudy until afternoon
+1510,2018,3,49,79,Texans,22,Giants,27,7,WSW,Mostly cloudy throughout the day
+1511,2018,4,73,70,Falcons,36,Bengals,37,4,E,Mostly cloudy throughout the day
+1512,2018,5,44,86,Bengals,27,Dolphins,17,2,SSW,Foggy in the morning
+1513,2018,6,59,88,Dolphins,31,Bears,28,7,ESE,Humid and 
+1514,2018,7,27,70,Jaguars,7,Texans,20,13,ENE,Partly cloudy starting in the afternoon
+1515,2018,8,57,61,Panthers,36,Ravens,21,6,WSW,Partly cloudy overnight
+1516,2018,9,36,53,Broncos,17,Texans,19,2,SSW,Mostly cloudy throughout the day
+1517,2018,10,19,80,Buccaneers,3,Washington,16,6,E,Partly cloudy starting in the afternoon
+1518,2018,11,45,70,Chargers,22,Broncos,23,3,SW,Partly cloudy starting in the evening
+1519,2018,12,36,75,Buccaneers,27,49ers,9,5,WNW,Mostly cloudy throughout the day
+1520,2018,13,42,70,Texans,29,Browns,13,7,N,Clear throughout the day
+1521,2018,14,46,31,Browns,26,Panthers,20,,ESE,Partly cloudy overnight
+1522,2018,15,17,39,Giants,0,Titans,17,1,NE,Rain until evening
+1523,2018,16,36,70,Lions,9,Vikings,27,9,W,Mostly cloudy throughout the day
+1524,2018,17,24,45,Washington,0,Eagles,24,3,SSE,Mostly cloudy until afternoon
+1525,2017,1,39,65,Browns,18,Steelers,21,5,ENE,Foggy in the morning
+1526,2017,2,12,81,Panthers,9,Bills,3,3,NE,Partly cloudy until afternoon
+1527,2017,3,56,70,Lions,26,Falcons,30,4,SE,Clear throughout the day
+1528,2017,4,38,64,Browns,7,Bengals,31,2,SE,Clear throughout the day
+1529,2017,5,41,77,Eagles,34,Cardinals,7,3,SW,Light rain overnight
+1530,2017,6,71,70,Cardinals,38,Buccaneers,33,1,NE,Clear throughout the day
+1531,2017,7,43,51,Packers,17,Saints,26,5,WNW,Mostly cloudy throughout the day
+1532,2017,8,47,39,Bengals,24,Colts,23,1,WNW,Mostly cloudy throughout the day
+1533,2017,9,30,57,49ers,10,Cardinals,20,1,NW,Mostly cloudy in the morning
+1534,2017,10,44,52,Titans,24,Bengals,20,2,S,Mostly cloudy throughout the day
+1535,2017,11,21,49,Giants,12,Chiefs,9,8,WNW,Light rain in the morning
+1536,2017,12,34,48,Eagles,31,Bears,3,5,NW,Clear throughout the day
+1537,2017,13,46,41,Packers,26,Buccaneers,20,1,S,Mostly cloudy starting in the afternoon and breezy overnight
+1538,2017,14,55,39,Panthers,31,Vikings,24,2,W,Clear throughout the day
+1539,2017,15,35,47,Washington,20,Cardinals,15,,SSW,Mostly cloudy starting in the afternoon
+1540,2017,16,38,41,Washington,27,Broncos,11,2,NE,Mostly cloudy starting in the afternoon
+1541,2017,17,58,18,Ravens,27,Bengals,31,5,NNW,Mostly cloudy until afternoon
+1542,2016,1,37,87,Texans,23,Bears,14,2,NNE,"Partly cloudy starting in the afternoon, continuing until evening"
+1543,2016,2,45,75,Browns,20,Ravens,25,5,NW,Drizzle in the evening
+1544,2016,3,32,84,Panthers,10,Vikings,22,2,NE,Rain starting in the evening
+1545,2016,4,31,64,Bears,17,Lions,14,2,W,Mostly cloudy throughout the day
+1546,2016,5,39,73,Broncos,16,Falcons,23,1,ENE,Partly cloudy throughout the day
+1547,2016,6,45,82,Dolphins,30,Steelers,15,11,ENE,Rain throughout the day
+1548,2016,7,53,80,Dolphins,28,Bills,25,1,NE,Partly cloudy in the afternoon
+1549,2016,8,46,75,Broncos,27,Chargers,19,3,ESE,Mostly cloudy throughout the day
+1550,2016,9,23,72,Rams,10,Panthers,13,3,SSW,Partly cloudy starting in the evening
+1551,2016,10,72,55,Titans,47,Packers,25,,NNW,Clear throughout the day
+1552,2016,11,54,70,Vikings,30,Cardinals,24,2,ESE,Partly cloudy until evening
+1553,2016,12,70,70,Saints,49,Rams,21,2,E,Partly cloudy throughout the day
+1554,2016,13,32,35,Bears,26,49ers,6,5,ESE,Mixed precipitation until evening
+1555,2016,14,37,70,Lions,20,Bears,17,12,S,Snow (6–10 in
+1556,2016,15,40,70,Vikings,6,Colts,34,3,SSW,Partly cloudy in the evening
+1557,2016,16,49,52,Panthers,16,Falcons,33,4,SSW,Mostly cloudy throughout the day
+1558,2016,17,40,48,Eagles,27,Cowboys,13,6,NW,Mostly cloudy overnight
+1559,2015,1,50,70,Cardinals,31,Saints,19,4,WSW,Light rain starting in the evening
+1560,2015,2,42,66,Browns,28,Titans,14,11,NNE,Partly cloudy throughout the day
+1561,2015,3,28,75,Texans,19,Buccaneers,9,8,NE,Rain starting in the afternoon
+1562,2015,4,57,73,Bengals,36,Chiefs,21,8,ENE,Partly cloudy starting in the evening
+1563,2015,5,27,72,Titans,13,Bills,14,2,SSW,Partly cloudy until evening
+1564,2015,6,48,60,Titans,10,Dolphins,38,6,NE,Clear throughout the day
+1565,2015,7,70,82,Dolphins,44,Texans,26,11,E,Light rain in the morning and afternoon
+1566,2015,8,26,63,Steelers,10,Bengals,16,9,SW,Light rain in the morning
+1567,2015,9,50,77,Buccaneers,18,Giants,32,1,SE,Light rain throughout the day
+1568,2015,10,42,63,Ravens,20,Jaguars,22,5,WSW,Clear throughout the day
+1569,2015,11,60,52,Panthers,44,Washington,16,8,N,Partly cloudy until afternoon
+1570,2015,12,52,34,Chiefs,30,Bills,22,5,NE,Rain until evening
+1571,2015,13,81,56,Titans,42,Jaguars,39,4,SSW,Mostly cloudy throughout the day
+1572,2015,14,13,60,Chiefs,10,Chargers,3,11,SSE,Heavy rain throughout the day
+1573,2015,15,48,43,Ravens,14,Chiefs,34,3,SSW,Partly cloudy starting in the afternoon
+1574,2015,16,47,83,Buccaneers,21,Bears,26,11,SE,Partly cloudy starting in the afternoon
+1575,2015,17,65,44,Giants,30,Eagles,35,1,W,Clear throughout the day
+1576,2014,1,57,72,Steelers,30,Browns,27,,N,"Mostly cloudy, then gradually becoming clear, with a low around 52 "
+1577,2014,2,31,68,Panthers,24,Lions,7,,N,"A chance of showers, mainly after 5pm "
+1578,2014,3,47,76,Giants,30,Texans,17,,N,"A chance of showers, mainly before midnight "
+1579,2014,4,40,86,Texans,23,Bills,17,,ESE,"Partly sunny, with a high near 86 "
+1580,2014,5,55,63,Panthers,31,Bears,24,,S,"Mostly clear, with a low around 45 "
+1581,2014,6,65,87,Buccaneers,17,Ravens,48,,ESE,"Sunny, with a high near 89 "
+1582,2014,7,30,74,Jaguars,24,Browns,6,,NE,"Sunny, with a high near 76 "
+1583,2014,8,32,78,Buccaneers,13,Vikings,19,,WSW,"Sunny, with a high near 81 "
+1584,2014,9,23,64,49ers,10,Rams,13,,NW,"Mostly clear, with a low around 49 "
+1585,2014,10,28,57,Ravens,21,Titans,7,,N,"Sunny, with a high near 59 "
+1586,2014,11,34,46,Washington,7,Buccaneers,27,,S,"Cloudy, with a high near 49 "
+1587,2014,12,51,72,Chargers,27,Rams,24,,S,"Mostly clear, with a low around 51 "
+1588,2014,13,27,76,Buccaneers,13,Bengals,14,,E,"Mostly sunny, with a high near 78 "
+1589,2014,14,24,46,Washington,0,Rams,24,1,N,Partly cloudy overnight
+1590,2014,15,36,58,Panthers,19,Buccaneers,17,2,NNW,Clear throughout the day
+1591,2014,16,23,76,Buccaneers,3,Packers,20,4,S,Rain starting in the evening
+1592,2014,17,30,56,Ravens,20,Browns,10,3,WNW,Light rain starting in the afternoon
+1593,2013,1,38,70,Colts,21,Raiders,17,,SSW,A 20 percent chance of showers and thunderstorms 
+1594,2013,2,54,91,Texans,30,Titans,24,,E,A 30 percent chance of showers and thunderstorms 
+1595,2013,3,38,77,Panthers,38,Giants,0,,NNE,"Partly cloudy, with a low around 61 "
+1596,2013,4,40,80,Jaguars,3,Colts,37,,NE,"Partly sunny, with a high near 81 "
+1597,2013,5,62,70,Colts,34,Seahawks,28,,SW,A 20 percent chance of showers before 5pm 
+1598,2013,6,25,65,Jets,6,Steelers,19,,E,"Partly cloudy, with a low around 50 "
+1599,2013,7,45,64,Panthers,30,Rams,15,,N,"Clear, with a low around 39 "
+1600,2013,8,58,48,Bengals,49,Jets,9,,N,"Mostly clear, with a low around 35 "
+1601,2013,9,69,62,Raiders,20,Eagles,49,,W,"Partly cloudy, with a low around 44 "
+1602,2013,10,37,62,Ravens,20,Bengals,17,,N,"Mostly sunny, with a high near 63 "
+1603,2013,11,41,79,Jaguars,14,Cardinals,27,,SSE,"A 30 percent chance of showers, mainly after 5pm "
+1604,2013,12,19,50,Texans,6,Jaguars,13,,N,A 30 percent chance of rain 
+1605,2013,13,26,49,Jets,3,Dolphins,23,,WNW,"Mostly cloudy, with a high near 47 "
+1606,2013,14,62,26,Steelers,28,Dolphins,34,,ENE,"Snow before 5pm, then snow and sleet "
+1607,2013,15,23,40,Giants,0,Seahawks,23,,WNW,"Partly sunny, with a high near 38 "
+1608,2013,16,50,59,Texans,13,Broncos,37,,NNW,"Mostly sunny, with a high near 64 "
+1609,2013,17,61,24,Bears,28,Packers,33,,NW,"Cloudy, then gradually becoming partly cloudy, with a low around 6 "
+1610,2012,1,76,77,Jets,48,Bills,28,,W,"Mostly sunny, with a high near 78 "
+1611,2012,2,47,74,Eagles,24,Ravens,23,,W,"Sunny, with a high near 76 "
+1612,2012,3,85,68,Titans,44,Lions,41,,NNW,"Sunny, with a high near 71 "
+1613,2012,4,45,70,Cardinals,24,Dolphins,21,,SSE,"Clear, with a low around 72 "
+1614,2012,5,28,56,Panthers,12,Seahawks,16,,NNE,A chance of drizzle 
+1615,2012,6,47,63,Seahawks,24,Patriots,23,3,ESE,High near 60
+1616,2012,7,35,70,Vikings,21,Cardinals,14,,SSE,"Mostly sunny, with a high near 68 "
+1617,2012,8,47,58,Eagles,17,Falcons,30,,NE,"Rain likely, mainly after 5pm "
+1618,2012,9,30,78,Texans,21,Bills,9,,NE,A 30 percent chance of showers and thunderstorms 
+1619,2012,10,75,69,Ravens,55,Raiders,20,,N,"Sunny, with a high near 66 "
+1620,2012,11,80,70,Texans,43,Jaguars,37,,SE,"Mostly sunny, with a high near 72 "
+1621,2012,12,45,74,Dolphins,24,Seahawks,21,,N,"Sunny, with a high near 73 "
+1622,2012,13,39,78,Dolphins,16,Patriots,23,,E,A 50 percent chance of showers 
+1623,2012,14,50,70,Colts,27,Titans,23,,SE,Periods of showers 
+1624,2012,15,46,64,Texans,29,Colts,17,,S,A 40 percent chance of showers and thunderstorms 
+1625,2012,16,23,53,Panthers,17,Raiders,6,,SW,"Partly sunny, with a high near 57 "
+1626,2012,17,34,27,Steelers,24,Browns,10,,WSW,"Mostly cloudy, with a high near 28"
+1627,2011,1,44,70,Rams,13,Eagles,31,,,
+1628,2011,2,43,70,Saints,30,Bears,13,,,
+1629,2011,3,58,69,Raiders,34,Jets,24,,,
+1630,2011,4,39,70,Chiefs,22,Vikings,17,,,
+1631,2011,5,51,66,49ers,48,Buccaneers,3,,,
+1632,2011,6,41,74,Raiders,24,Browns,17,,,
+1633,2011,7,52,70,Cardinals,20,Steelers,32,,,
+1634,2011,8,42,40,Steelers,25,Patriots,17,,,
+1635,2011,9,41,64,Titans,17,Bengals,24,,,
+1636,2011,10,49,70,Falcons,23,Saints,26,,,
+1637,2011,11,30,55,49ers,23,Cardinals,7,,,
+1638,2011,12,46,70,Colts,19,Panthers,27,,,
+1639,2011,13,67,70,Vikings,32,Broncos,35,,,
+1640,2011,14,55,60,Jaguars,41,Buccaneers,14,,,
+1641,2011,15,41,61,Texans,13,Panthers,28,,,
+1642,2011,16,64,51,Panthers,48,Buccaneers,16,,,
+1643,2011,17,61,70,Rams,27,49ers,34,,,
+1644,2010,1,51,76,Titans,38,Raiders,13,,,
+1645,2010,2,30,84,Titans,11,Steelers,19,,,
+1646,2010,3,27,65,Panthers,7,Bengals,20,,,
+1647,2010,4,59,81,Jaguars,31,Colts,28,,,
+1648,2010,5,50,70,Lions,44,Rams,6,,,
+1649,2010,6,43,61,Bears,20,Seahawks,23,,,
+1650,2010,7,31,63,Bears,14,Washington,17,,,
+1651,2010,8,46,52,Patriots,28,Vikings,18,,,
+1652,2010,9,48,56,Seahawks,7,Giants,41,,,
+1653,2010,10,78,39,Broncos,49,Chiefs,29,,,
+1654,2010,11,38,53,Steelers,35,Raiders,3,,,
+1655,2010,12,37,70,Falcons,20,Packers,17,,,
+1656,2010,13,23,76,Dolphins,10,Browns,13,,,
+1657,2010,14,44,70,Saints,31,Rams,13,,,
+1658,2010,15,40,70,Rams,13,Chiefs,27,,,
+1659,2010,16,48,19,Chiefs,34,Titans,14,,,
+1660,2010,17,27,48,Eagles,13,Cowboys,14,,,
+1661,2009,1,54,70,Browns,20,Vikings,34,,,
+1662,2009,2,25,68,Jets,16,Patriots,9,,,
+1663,2009,3,55,84,Texans,24,Jaguars,31,,,
+1664,2009,4,34,70,Saints,24,Jets,10,,,
+1665,2009,5,55,58,49ers,10,Falcons,45,,,
+1666,2009,6,30,60,Seahawks,3,Cardinals,27,,,
+1667,2009,7,55,55,Bengals,45,Bears,10,,,
+1668,2009,8,40,79,Chargers,24,Raiders,16,,,
+1669,2009,9,50,70,Saints,30,Panthers,20,,,
+1670,2009,10,47,71,Panthers,28,Falcons,19,,,
+1671,2009,11,32,55,Ravens,15,Colts,17,,,
+1672,2009,12,51,56,Eagles,27,Washington,24,,,
+1673,2009,13,41,54,Jaguars,23,Texans,18,,,
+1674,2009,14,41,50,Texans,34,Seahawks,7,,,
+1675,2009,15,51,70,Chargers,27,Bengals,24,,,
+1676,2009,16,37,70,Saints,17,Buccaneers,20,,,
+1677,2009,17,51,70,Vikings,44,Giants,7,,,
+1678,2019,1,41,66,Seahawks,21,Bengals,20,4,S,Possible light rain throughout the day
+1679,2019,2,25,90,Texans,13,Jaguars,12,11,ENE,Humid and partly cloudy throughout the day
+1680,2019,3,63,89,Buccaneers,31,Giants,32,8,ENE,Partly cloudy throughout the day
+1681,2019,4,95,70,Rams,40,Buccaneers,55,6,SSW,Partly cloudy throughout the day
+1682,2019,5,45,60,Raiders,24,Bears,21,16,NW,Light rain in the morning and afternoon
+1683,2019,6,46,65,Jets,24,Cowboys,22,3,SSE,Partly cloudy throughout the day
+1684,2019,7,43,75,Titans,23,Chargers,20,2,SSE,Foggy in the morning
+1685,2019,8,51,72,Texans,27,Raiders,24,6,SSE,Clear throughout the day
+1686,2019,9,55,70,Raiders,31,Lions,24,4,NNW,Clear throughout the day
+1687,2019,10,40,33,Packers,24,Panthers,16,4,NNE,Overcast throughout the day
+1688,2019,11,62,68,49ers,36,Cardinals,26,4,NW,Clear throughout the day
+1689,2019,12,26,38,Eagles,9,Seahawks,17,11,WNW,Light rain in the morning and afternoon
+1690,2019,13,68,80,Dolphins,37,Eagles,31,1,S,Partly cloudy throughout the day
+1691,2019,14,35,38,Packers,20,Washington,15,1,SW,Mostly cloudy throughout the day
+1692,2019,15,36,55,Raiders,16,Jaguars,20,6,WNW,Clear throughout the day
+1693,2019,16,73,76,Dolphins,38,Bengals,35,14,ESE,Rain throughout the day
+1694,2019,17,51,40,Giants,17,Eagles,34,4,E,Rain starting in the afternoon
+1695,2018,1,66,85,Chargers,28,Chiefs,38,5,SSW,Mostly cloudy in the morning
+1696,2018,2,39,70,Saints,21,Browns,18,1,NW,Humid throughout the day
+1697,2018,3,15,87,Jaguars,6,Titans,9,5,ESE,Humid throughout the day and partly cloudy until afternoon
+1698,2018,4,37,70,Cardinals,17,Seahawks,20,4,SW,Rain overnight
+1699,2018,5,36,74,Chargers,26,Raiders,10,5,SSW,Partly cloudy until afternoon
+1700,2018,6,30,50,Raiders,3,Seahawks,27,12,NNE,Light rain in the afternoon and evening
+1701,2018,7,47,52,Ravens,23,Saints,24,12,S,Partly cloudy until evening
+1702,2018,8,70,69,Raiders,28,Colts,42,5,W,Partly cloudy until evening
+1703,2018,9,42,57,Seahawks,17,Chargers,25,4,S,Mostly cloudy throughout the day
+1704,2018,10,51,44,Jets,10,Bills,41,7,NW,Clear throughout the day
+1705,2018,11,44,70,Cardinals,21,Raiders,23,1,SSE,Partly cloudy in the morning
+1706,2018,12,47,55,Eagles,25,Giants,22,6,WNW,Mostly cloudy starting in the evening
+1707,2018,13,6,78,Jaguars,6,Colts,0,1,SSW,Humid and partly cloudy throughout the day
+1708,2018,14,54,24,Packers,34,Falcons,20,12,W,Mostly cloudy until afternoon
+1709,2018,15,58,70,Vikings,41,Dolphins,17,7,WNW,Partly cloudy in the evening
+1710,2018,16,36,37,Patriots,24,Bills,12,8,WNW,Mostly cloudy starting in the evening
+1711,2018,17,38,40,Chiefs,35,Raiders,3,11,S,Mostly cloudy starting in the evening
+1712,2017,1,55,85,Rams,46,Colts,9,4,SW,Partly cloudy starting in the evening
+1713,2017,2,65,70,Raiders,45,Jets,20,3,WSW,Partly cloudy in the morning
+1714,2017,3,51,70,Vikings,34,Buccaneers,17,7,S,Rain starting in the evening
+1715,2017,4,65,80,Cowboys,30,Rams,35,3,SSE,Clear throughout the day
+1716,2017,5,26,75,Rams,10,Seahawks,16,4,S,Mostly cloudy in the morning
+1717,2017,6,44,84,Jaguars,17,Rams,27,7,ENE,"Light rain until afternoon, starting again overnight"
+1718,2017,7,27,70,Colts,0,Jaguars,27,5,S,Partly cloudy in the afternoon
+1719,2017,8,79,50,Seahawks,41,Texans,38,,NE,Mostly cloudy throughout the day
+1720,2017,9,31,35,Seahawks,14,Washington,17,4,NNW,Rain in the morning
+1721,2017,10,40,66,Rams,33,Texans,7,,SW,Mostly cloudy starting in the afternoon
+1722,2017,11,78,72,Chargers,54,Bills,24,1,WSW,Partly cloudy starting in the evening
+1723,2017,12,62,46,Jets,27,Panthers,35,6,WNW,Partly cloudy in the morning
+1724,2017,13,40,67,Jaguars,30,Colts,10,2,NNE,Foggy in the morning
+1725,2017,14,43,79,Chargers,30,Washington,13,2,NNE,Mostly cloudy starting in the afternoon
+1726,2017,15,63,34,Giants,29,Eagles,34,,N,Mostly cloudy throughout the day
+1727,2017,16,50,41,Titans,23,Rams,27,2,WSW,Mostly cloudy throughout the day
+1728,2017,17,25,22,Titans,15,Jaguars,10,7,NNW,Mostly cloudy until afternoon
+1729,2016,1,50,91,Jaguars,23,Packers,27,1,ESE,Partly cloudy starting in the evening
+1730,2016,2,12,85,Rams,9,Seahawks,3,4,WSW,Clear throughout the day
+1731,2016,3,69,89,Buccaneers,32,Rams,37,3,W,Light rain starting in the evening
+1732,2016,4,34,89,Buccaneers,7,Broncos,27,4,N,"Rain starting in the afternoon, continuing until evening"
+1733,2016,5,42,74,Cowboys,28,Bengals,14,3,NE,Partly cloudy starting in the evening
+1734,2016,6,52,66,Patriots,35,Bengals,17,7,SSW,Mostly cloudy starting in the evening
+1735,2016,7,40,58,Jets,24,Ravens,16,11,W,Drizzle overnight
+1736,2016,8,65,70,Falcons,33,Packers,32,3,WNW,Clear throughout the day
+1737,2016,9,57,67,Packers,26,Colts,31,5,SSW,Clear throughout the day
+1738,2016,10,55,84,Chargers,24,Dolphins,31,3,WNW,Clear throughout the day
+1739,2016,11,24,63,Rams,10,Dolphins,14,4,SW,Rain starting in the evening
+1740,2016,12,55,79,Dolphins,31,49ers,24,1,NNE,Light rain overnight
+1741,2016,13,62,55,Raiders,38,Bills,24,2,WNW,Mostly cloudy starting in the afternoon
+1742,2016,14,39,70,Colts,17,Texans,22,8,S,Light rain throughout the day
+1743,2016,15,44,26,Bengals,20,Steelers,24,7,WNW,Snow (under 1 in
+1744,2016,16,58,48,Raiders,33,Colts,25,5,NW,Partly cloudy in the afternoon
+1745,2016,17,50,56,Rams,6,Cardinals,44,1,SSW,Mostly cloudy starting in the evening
+1746,2015,1,61,82,Chargers,33,Lions,28,8,W,Partly cloudy overnight
+1747,2015,2,44,77,Giants,20,Falcons,24,7,N,Mostly cloudy until afternoon
+1748,2015,3,45,80,Vikings,31,Chargers,14,13,SSW,Mostly cloudy overnight
+1749,2015,4,57,68,Chargers,30,Browns,27,7,WSW,"Light rain until afternoon, starting again in the evening"
+1750,2015,5,59,70,Lions,17,Cardinals,42,15,SSW,Clear throughout the day
+1751,2015,6,50,59,Seahawks,23,Panthers,27,4,S,Overcast throughout the day
+1752,2015,7,53,58,Patriots,30,Jets,23,6,WSW,Mostly cloudy until evening
+1753,2015,8,26,68,Texans,20,Titans,6,4,N,Rain throughout the day
+1754,2015,9,33,58,49ers,17,Falcons,16,2,W,Light rain until afternoon
+1755,2015,10,44,57,Raiders,14,Vikings,30,15,WNW,Rain in the morning and breezy starting in the afternoon
+1756,2015,11,36,78,Chargers,3,Chiefs,33,4,WNW,Clear throughout the day
+1757,2015,12,45,57,Titans,21,Raiders,24,2,NNE,Rain in the morning and afternoon
+1758,2015,13,46,46,Bears,20,49ers,26,4,SSW,Mostly cloudy in the morning
+1759,2015,14,45,58,Bears,21,Washington,24,11,S,Rain in the morning and afternoon
+1760,2015,15,43,44,Seahawks,30,Browns,13,8,SSW,"Light rain until afternoon, starting again overnight"
+1761,2015,16,33,70,Falcons,20,Panthers,13,5,S,Drizzle in the afternoon
+1762,2015,17,44,30,Bears,20,Lions,24,1,NW,Mostly cloudy throughout the day
+1763,2014,1,39,78,Ravens,16,Bengals,23,,N,"Mostly cloudy, with a low around 62 "
+1764,2014,2,51,85,Chargers,30,Seahawks,21,,SW,"Mostly clear, with a low around 72 "
+1765,2014,3,71,76,Eagles,37,Washington,34,4,ESE,"A slight chance of showers and thunderstorms before 8pm, then a slight chance of showers between 8pm and 1am "
+1766,2014,4,47,72,Chargers,33,Jaguars,14,,W,"Increasing clouds, with a low around 64 "
+1767,2014,5,26,73,Jaguars,9,Steelers,17,,NNE,"Sunny, with a high near 74 "
+1768,2014,6,59,86,Raiders,28,Chargers,31,,NW,"Clear, with a low around 59 "
+1769,2014,7,36,57,Ravens,29,Falcons,7,,N,"Mostly clear, with a low around 41 "
+1770,2014,8,22,81,Panthers,9,Seahawks,13,,W,"Clear, with a low around 46 "
+1771,2014,9,64,41,Patriots,43,Broncos,21,,NW,Fair and 
+1772,2014,10,58,69,Raiders,17,Broncos,41,,WNW,"Clear, with a low around 52 "
+1773,2014,11,36,52,Panthers,17,Falcons,19,3,ESE,A slight chance of showers 
+1774,2014,12,22,57,Seahawks,19,Cardinals,3,,S,A 30 percent chance of showers 
+1775,2014,13,49,72,Jaguars,25,Giants,24,,SSE,"Sunny, with a high near 72 "
+1776,2014,14,40,58,Jaguars,13,Texans,27,9,N,Mostly cloudy throughout the day
+1777,2014,15,32,49,Ravens,20,Jaguars,12,7,NW,Mostly cloudy throughout the day
+1778,2014,16,30,50,Panthers,17,Browns,13,4,NE,Rain overnight
+1779,2014,17,40,43,Texans,23,Jaguars,17,8,NW,Rain until evening
+1780,2013,1,19,87,Panthers,7,Seahawks,12,,NNE,"Partly cloudy, with a low around 66 "
+1781,2013,2,63,72,Eagles,30,Chargers,33,,SW,"Partly cloudy, with a low around 58 "
+1782,2013,3,39,72,Ravens,30,Texans,9,,N,"Mostly clear, with a low around 57 "
+1783,2013,4,43,82,Texans,20,Seahawks,23,9,N,Showers and thunderstorms likely 
+1784,2013,5,28,70,Cardinals,22,Panthers,6,,N,"Mostly clear, with a low around 62 "
+1785,2013,6,54,59,Broncos,35,Jaguars,19,4,NNW,Cloudy with 
+1786,2013,7,30,77,Jaguars,6,Chargers,24,,NNE,"Mostly cloudy, with a high near 76 "
+1787,2013,8,66,68,Broncos,45,Washington,21,,NW,"Partly cloudy, with a low around 38 "
+1788,2013,9,86,42,Patriots,55,Steelers,31,,NNW,"Mostly clear, with a low around 24 "
+1789,2013,10,19,61,49ers,9,Panthers,10,,N,"Partly cloudy, with a low around 49 "
+1790,2013,11,36,80,Dolphins,20,Chargers,16,,ESE,"Mostly cloudy, with a low around 72 "
+1791,2013,12,51,70,Cardinals,40,Colts,11,,N,A 10 percent chance of showers 
+1792,2013,13,45,47,Eagles,24,Cardinals,21,,SW,"Mostly cloudy, with a high near 47 "
+1793,2013,14,43,10,Packers,22,Falcons,21,9,NE,High near 18
+1794,2013,15,47,66,Jaguars,20,Bills,27,,NW,"Partly sunny, with a high near 63 "
+1795,2013,16,27,50,Seahawks,10,Cardinals,17,,N,A 50 percent chance of rain 
+1796,2013,17,54,41,Patriots,34,Bills,20,,ENE,"Rain, mainly before midnight "
+1797,2012,1,50,70,Lions,27,Rams,23,5,NNW,A slight chance of showers 
+1798,2012,2,59,70,Rams,31,Washington,28,,SSW,"Mostly cloudy, with a low around 64 "
+1799,2012,3,39,70,Colts,17,Jaguars,22,,W,"Mostly sunny, with a steady temperature around 60 "
+1800,2012,4,37,83,Jaguars,10,Bengals,27,8,SE,"Showers and thunderstorms likely, mainly before 1am "
+1801,2012,5,44,83,Jaguars,3,Bears,41,6,ESE,"Isolated showers and thunderstorms before 11pm, then isolated showers between 11pm and 2am "
+1802,2012,6,35,70,Cardinals,16,Bills,19,,SE,"Clear, with a low around 65 "
+1803,2012,7,55,60,Patriots,29,Jets,26,,WNW,"Partly cloudy, with a low around 44 "
+1804,2012,8,39,45,Steelers,27,Washington,12,,NNW,Rain likely 
+1805,2012,9,74,73,Raiders,32,Buccaneers,42,,WNW,"Sunny, with a high near 75 "
+1806,2012,10,35,48,Seahawks,28,Jets,7,,N,The rain could be heavy at times
+1807,2012,11,55,62,Raiders,17,Saints,38,,S,"Mostly sunny early, then becoming cloudy, with a high near 61 "
+1808,2012,12,47,64,Buccaneers,23,Falcons,24,,WSW,"Sunny, with a high near 70 "
+1809,2012,13,13,46,Jets,7,Cardinals,6,4,S,A slight chance of showers after 3pm 
+1810,2012,14,35,70,Vikings,21,Bears,14,,E,The snow could be heavy at times
+1811,2012,15,48,70,Cardinals,38,Lions,10,,N,"Partly cloudy, with a low around 39 "
+1812,2012,16,39,60,Jaguars,16,Patriots,23,,N,"Mostly sunny, with a high near 63 "
+1813,2012,17,33,42,Seahawks,20,Rams,13,,NE,"Mostly cloudy, with a low around 33 "
+1814,2011,1,42,82,Washington,28,Giants,14,,,
+1815,2011,2,24,63,Steelers,24,Seahawks,0,,,
+1816,2011,3,37,71,Chargers,20,Chiefs,17,,,
+1817,2011,4,58,70,Cardinals,27,Giants,31,,,
+1818,2011,5,51,84,Patriots,30,Jets,21,,,
+1819,2011,6,46,86,Buccaneers,26,Saints,20,,,
+1820,2011,7,28,77,Raiders,0,Chiefs,28,,,
+1821,2011,8,30,63,49ers,20,Browns,10,,,
+1822,2011,9,44,50,Patriots,20,Giants,24,,,
+1823,2011,10,29,78,Dolphins,20,Washington,9,,,
+1824,2011,11,31,70,Rams,7,Seahawks,24,,,
+1825,2011,12,40,46,Titans,23,Buccaneers,17,,,
+1826,2011,13,55,54,Patriots,31,Colts,24,,,
+1827,2011,14,39,46,Titans,17,Saints,22,,,
+1828,2011,15,33,57,Chiefs,19,Packers,14,,,
+1829,2011,16,39,41,Bengals,23,Cardinals,16,,,
+1830,2011,17,40,43,Bengals,16,Ravens,24,,,
+1831,2010,1,49,65,Giants,31,Panthers,18,,,
+1832,2010,2,45,90,Broncos,31,Seahawks,14,,,
+1833,2010,3,31,90,Jaguars,3,Eagles,28,,,
+1834,2010,4,55,67,Raiders,24,Texans,31,,,
+1835,2010,5,50,70,Cardinals,30,Saints,20,,,
+1836,2010,6,26,59,49ers,17,Raiders,9,,,
+1837,2010,7,32,52,Seahawks,22,Cardinals,10,,,
+1838,2010,8,36,64,Raiders,33,Seahawks,3,,,
+1839,2010,9,43,63,Raiders,23,Chiefs,20,,,
+1840,2010,10,53,63,Giants,20,Cowboys,33,,,
+1841,2010,11,44,75,Jaguars,24,Browns,20,,,
+1842,2010,12,66,43,Seahawks,24,Chiefs,42,,,
+1843,2010,13,50,26,Packers,34,49ers,16,,,
+1844,2010,14,43,27,Bears,7,Patriots,36,,,
+1845,2010,15,31,42,Panthers,19,Cardinals,12,,,
+1846,2010,16,47,48,Broncos,24,Texans,23,,,
+1847,2010,17,43,70,Colts,23,Titans,20,,,
+1848,2009,1,40,80,Giants,23,Washington,17,,,
+1849,2009,2,53,75,Bills,33,Buccaneers,20,,,
+1850,2009,3,34,66,Bills,7,Saints,27,,,
+1851,2009,4,48,89,Dolphins,38,Bills,10,,,
+1852,2009,5,41,54,Seahawks,41,Jaguars,0,,,
+1853,2009,6,22,62,Raiders,13,Eagles,9,,,
+1854,2009,7,80,86,Dolphins,34,Saints,46,,,
+1855,2009,8,43,60,Titans,30,Jaguars,13,,,
+1856,2009,9,41,71,Giants,20,Chargers,21,,,
+1857,2009,10,26,57,Raiders,10,Chiefs,16,,,
+1858,2009,11,44,70,Vikings,35,Seahawks,9,,,
+1859,2009,12,62,77,Texans,27,Colts,35,,,
+1860,2009,13,51,26,Steelers,24,Raiders,27,,,
+1861,2009,14,40,70,Vikings,30,Bengals,10,,,
+1862,2009,15,39,55,Broncos,19,Raiders,20,,,
+1863,2009,16,50,49,Giants,9,Panthers,41,,,
+1864,2009,17,24,48,Cowboys,24,Eagles,0,,,
+1865,2019,1,48,91,Buccaneers,17,49ers,31,5,SW,Humid and 
+1866,2019,2,43,90,Dolphins,0,Patriots,43,9,W,Humid and 
+1867,2019,3,58,70,Cardinals,20,Panthers,38,2,ESE,Clear throughout the day
+1868,2019,4,37,70,Cardinals,10,Seahawks,27,5,SSW,Partly cloudy throughout the day
+1869,2019,5,37,70,Eagles,31,Jets,6,7,S,Overcast throughout the day
+1870,2019,6,16,71,Broncos,16,Titans,0,4,ENE,Clear throughout the day
+1871,2019,7,61,53,Bears,25,Saints,36,5,ENE,Mostly cloudy throughout the day
+1872,2019,8,64,63,49ers,51,Panthers,13,12,N,Clear throughout the day
+1873,2019,9,37,73,Chargers,26,Packers,11,4,S,Clear throughout the day
+1874,2019,10,29,55,Steelers,17,Rams,12,7,WSW,Clear throughout the day
+1875,2019,11,27,68,Raiders,17,Bengals,10,5,N,Clear throughout the day
+1876,2019,12,62,53,Titans,42,Jaguars,20,7,WSW,Clear throughout the day
+1877,2019,13,33,45,Steelers,20,Browns,13,3,ESE,Light rain throughout the day
+1878,2019,14,55,63,Jaguars,10,Chargers,45,4,E,Mostly cloudy throughout the day
+1879,2019,15,62,70,Cardinals,38,Browns,24,1,WNW,Clear throughout the day
+1880,2019,16,44,62,Broncos,27,Lions,17,3,SSE,Mostly cloudy throughout the day
+1881,2019,17,63,50,Cowboys,47,Washington,16,12,WNW,Partly cloudy throughout the day
+1882,2018,1,51,85,Broncos,27,Seahawks,24,3,NE,Partly cloudy in the morning
+1883,2018,2,57,72,49ers,30,Lions,27,5,NW,Partly cloudy overnight
+1884,2018,3,65,72,Chiefs,38,49ers,27,4,ESE,Partly cloudy overnight
+1885,2018,4,87,71,Raiders,45,Browns,42,2,WNW,Mostly cloudy in the morning
+1886,2018,5,46,76,49ers,18,Cardinals,28,9,NNW,Clear throughout the day
+1887,2018,6,43,24,Broncos,20,Rams,23,2,NNE,Foggy until afternoon
+1888,2018,7,37,51,Washington,20,Cowboys,17,11,S,Partly cloudy until evening
+1889,2018,8,33,70,Cardinals,18,49ers,15,1,SW,Partly cloudy throughout the day
+1890,2018,9,80,70,Saints,45,Rams,35,7,SE,Mostly cloudy throughout the day
+1891,2018,10,26,66,Raiders,6,Chargers,20,8,NE,Partly cloudy in the morning
+1892,2018,11,55,70,Saints,48,Eagles,7,2,N,Partly cloudy starting in the evening
+1893,2018,12,40,53,Jets,13,Patriots,27,8,NNW,Mostly cloudy until afternoon
+1894,2018,13,48,68,Titans,26,Jets,22,13,SW,Partly cloudy overnight
+1895,2018,14,34,54,49ers,20,Broncos,14,1,NW,Partly cloudy throughout the day
+1896,2018,15,29,62,Jaguars,13,Washington,16,9,W,Partly cloudy until evening
+1897,2018,16,34,49,Panthers,10,Falcons,24,1,E,Partly cloudy starting in the afternoon
+1898,2018,17,34,70,Vikings,10,Bears,24,7,SSE,Mostly cloudy throughout the day
+1899,2017,1,26,70,Packers,17,Seahawks,9,6,SSE,Clear throughout the day
+1900,2017,2,36,71,Chargers,17,Dolphins,19,3,WSW,Mostly cloudy until evening
+1901,2017,3,69,84,Patriots,36,Texans,33,,NE,Partly cloudy in the morning
+1902,2017,4,50,74,Chargers,24,Eagles,26,4,SSW,Drizzle overnight
+1903,2017,5,47,75,Raiders,17,Ravens,30,3,NNW,Dry throughout the day
+1904,2017,6,32,60,Chiefs,13,Steelers,19,6,NW,Mostly cloudy in the morning
+1905,2017,7,50,69,49ers,10,Cowboys,40,2,NW,Clear throughout the day
+1906,2017,8,52,60,Washington,19,Cowboys,33,,NNE,Light rain in the morning and evening and windy overnight
+1907,2017,9,45,90,Cowboys,28,Chiefs,17,4,SW,Mostly cloudy in the morning
+1908,2017,10,34,70,Falcons,27,Cowboys,7,1,NE,Mostly cloudy throughout the day
+1909,2017,11,37,59,Broncos,17,Bengals,20,,WSW,Partly cloudy starting in the afternoon
+1910,2017,12,37,63,49ers,13,Seahawks,24,4,SSE,Rain overnight
+1911,2017,13,29,66,Chargers,19,Browns,10,2,SSW,Partly cloudy in the evening
+1912,2017,14,23,58,Broncos,23,Jets,0,,SSW,Clear throughout the day
+1913,2017,15,50,70,Saints,31,Jets,19,1,WSW,Heavy rain until evening
+1914,2017,16,21,38,Jets,7,Chargers,14,3,NE,Rain overnight
+1915,2017,17,55,69,Buccaneers,31,Saints,24,1,SSE,Partly cloudy overnight
+1916,2016,1,22,64,Seahawks,12,Dolphins,10,2,W,Drizzle in the morning
+1917,2016,2,47,70,Cardinals,40,Buccaneers,7,1,SE,Clear throughout the day
+1918,2016,3,55,69,Seahawks,37,49ers,18,2,NW,Mostly cloudy throughout the day
+1919,2016,4,30,70,Cardinals,13,Rams,17,4,E,Rain until evening
+1920,2016,5,49,87,Rams,19,Bills,30,5,WSW,Dry throughout the day and partly cloudy starting in the evening
+1921,2016,6,36,61,Raiders,10,Chiefs,26,5,WSW,Rain throughout the day
+1922,2016,7,51,69,49ers,17,Buccaneers,34,2,W,Mostly cloudy starting in the evening
+1923,2016,8,50,80,Panthers,30,Cardinals,20,4,WSW,Partly cloudy starting in the evening
+1924,2016,9,78,74,Chargers,43,Titans,35,3,W,Partly cloudy starting in the evening
+1925,2016,10,43,70,Cardinals,23,49ers,20,1,SSE,Partly cloudy in the morning
+1926,2016,11,47,61,49ers,17,Patriots,30,1,SSW,Light rain in the morning and afternoon
+1927,2016,12,34,67,Texans,13,Chargers,21,9,SE,Mostly cloudy starting in the afternoon
+1928,2016,13,38,40,Steelers,24,Giants,14,2,E,Rain starting in the evening
+1929,2016,14,41,66,Jaguars,16,Vikings,25,1,ENE,Light rain overnight
+1930,2016,15,89,70,Cardinals,41,Saints,48,2,N,Clear throughout the day
+1931,2016,16,65,39,Seahawks,31,Cardinals,34,2,NNW,Mostly cloudy throughout the day
+1932,2016,17,30,48,Broncos,24,Raiders,6,3,NE,Partly cloudy throughout the day
+1933,2015,1,56,81,Buccaneers,14,Titans,42,6,NNW,Rain until afternoon
+1934,2015,2,34,75,Washington,24,Rams,10,6,N,Partly cloudy throughout the day
+1935,2015,3,18,70,Rams,6,Steelers,12,4,SE,Mostly cloudy throughout the day
+1936,2015,4,20,76,49ers,3,Packers,17,6,NW,Clear throughout the day
+1937,2015,5,36,92,Cowboys,6,Patriots,30,11,S,Clear throughout the day
+1938,2015,6,47,49,Packers,27,Chargers,20,8,SSE,Clear throughout the day
+1939,2015,7,66,77,Chargers,29,Raiders,37,5,SW,Partly cloudy throughout the day
+1940,2015,8,54,68,Raiders,34,Jets,20,8,W,Mostly cloudy throughout the day
+1941,2015,9,51,70,Colts,27,Broncos,24,4,ESE,Clear throughout the day
+1942,2015,10,53,54,Giants,26,Patriots,27,5,WSW,Clear throughout the day
+1943,2015,11,43,32,Vikings,13,Packers,30,7,S,Mostly cloudy starting in the afternoon
+1944,2015,12,56,75,Jaguars,25,Chargers,31,6,NE,Partly cloudy starting in the evening
+1945,2015,13,20,71,Chargers,3,Broncos,17,7,NW,"Partly cloudy starting in the afternoon, continuing until evening"
+1946,2015,14,38,70,Panthers,38,Falcons,0,6,S,Mostly cloudy throughout the day
+1947,2015,15,50,51,Raiders,20,Packers,30,1,S,Rain in the morning and afternoon
+1948,2015,16,37,63,Ravens,20,Steelers,17,6,SW,Light rain starting in the evening
+1949,2015,17,48,48,Panthers,38,Buccaneers,10,5,SSW,Partly cloudy starting in the evening
+1950,2014,1,23,82,Texans,17,Washington,6,12,SSE,Scattered showers and thunderstorms 
+1951,2014,2,36,78,Buccaneers,17,Rams,19,,N,"Scattered showers and thunderstorms, mainly before midnight "
+1952,2014,3,61,85,Jaguars,17,Colts,44,,E,"Sunny, with a high near 86 "
+1953,2014,4,69,80,Vikings,41,Falcons,28,,SSW,"Partly cloudy, with a low around 57 "
+1954,2014,5,61,72,Broncos,41,Cardinals,20,,ENE,"Mostly clear, with a low around 49 "
+1955,2014,6,40,70,Falcons,13,Bears,27,,NE,"A 30 percent chance of showers and thunderstorms, mainly between 11pm and 1am "
+1956,2014,7,43,71,Chargers,20,Chiefs,23,,WNW,"Mostly cloudy, with a low around 65 "
+1957,2014,8,40,81,Jaguars,13,Dolphins,27,,N,"Sunny, with a high near 80 "
+1958,2014,9,54,56,Seahawks,30,Raiders,24,,SSE,High near 54
+1959,2014,10,45,70,Cardinals,31,Rams,14,,E,"Clear, with a low around 58 "
+1960,2014,11,19,71,Chargers,13,Raiders,6,,WNW,"Mostly clear, with a low around 49 "
+1961,2014,12,75,36,Broncos,39,Dolphins,36,,NNE,Showers in 
+1962,2014,13,67,58,Ravens,33,Chargers,34,,N,"Mostly sunny, with a high near 55 "
+1963,2014,14,41,55,Broncos,24,Bills,17,3,NW,Partly cloudy until afternoon
+1964,2014,15,27,49,Titans,11,Jets,16,1,E,Mostly cloudy throughout the day
+1965,2014,16,38,58,Texans,25,Ravens,13,2,E,Mostly cloudy throughout the day
+1966,2014,17,37,70,Falcons,3,Panthers,34,2,W,"Rain until afternoon, starting again overnight"
+1967,2013,1,30,87,Jaguars,2,Chiefs,28,,NNE,"Sunny, with a high near 88 "
+1968,2013,2,46,70,Cardinals,25,Lions,21,,N,"Mostly clear, with a low around 78 "
+1969,2013,3,50,85,Dolphins,27,Falcons,23,,SE,A 20 percent chance of showers after 11pm 
+1970,2013,4,51,68,Titans,38,Jets,13,,SSW,"A 50 percent chance of showers, mainly before 8pm "
+1971,2013,5,99,75,Cowboys,48,Broncos,51,,NW,"Clear, with a low around 50 "
+1972,2013,6,33,57,Seahawks,20,Titans,13,,N,"Mostly clear, with a low around 43 "
+1973,2013,7,48,58,Titans,17,49ers,31,,E,Patchy frost after midnight 
+1974,2013,8,40,70,Cardinals,27,Falcons,13,,S,"Mostly clear, with a low around 58 "
+1975,2013,9,42,0,Browns,24,Ravens,18,,NE,"Mostly clear, with a low around 29 "
+1976,2013,10,48,77,Chargers,20,Broncos,28,,SW,"Mostly clear, with a low around 52 "
+1977,2013,11,61,47,Seahawks,41,Vikings,20,5,SSW,"Showers likely, mainly before 5pm "
+1978,2013,12,42,59,Raiders,19,Titans,23,,W,"Clear, with a low around 43 "
+1979,2013,13,65,70,Bills,31,Falcons,34,,,A chance of snow showers after 8am 
+1980,2013,14,79,19,Broncos,51,Titans,28,,E,Clouds with 
+1981,2013,15,47,69,Buccaneers,14,49ers,33,,NNW,"Mostly cloudy, with a high near 73 "
+1982,2013,16,43,70,Lions,20,Giants,23,8,WSW,"A chance of rain and snow showers before 11pm, then a chance of snow showers "
+1983,2013,17,59,70,Saints,42,Buccaneers,17,,N,"Partly cloudy, with a low around 45 "
+1984,2012,1,52,71,Packers,22,49ers,30,,NW,"Mostly clear, with a low around 48 "
+1985,2012,2,34,71,Seahawks,27,Cowboys,7,,WNW,"Mostly clear, with a low around 48 "
+1986,2012,3,33,70,Cardinals,27,Eagles,6,,N,"Partly cloudy, with a low around 75 "
+1987,2012,4,43,73,Broncos,37,Raiders,6,1,SW,Isolated showers 
+1988,2012,5,52,53,Patriots,31,Broncos,21,,N,"Rain, mainly before 1am "
+1989,2012,6,29,77,49ers,3,Giants,26,,WSW,"Mostly cloudy, with a low around 52 "
+1990,2012,7,49,63,Raiders,26,Jaguars,23,,W,"Partly sunny, with a high near 66 "
+1991,2012,8,42,51,Chiefs,16,Raiders,26,,N,"Mostly clear, with a low around 34 "
+1992,2012,9,50,61,Seahawks,30,Vikings,20,3,SSE,"Rain likely, mainly after 4pm "
+1993,2012,10,61,62,Eagles,23,Cowboys,38,,SSE,Areas of fog after 1am 
+1994,2012,11,83,40,Patriots,59,Colts,24,,N,"Mostly clear, with a low around 26 "
+1995,2012,12,43,63,Jaguars,24,Titans,19,,N,"Sunny, with a high near 63 "
+1996,2012,13,54,63,Broncos,31,Buccaneers,23,,N,"Mostly cloudy, with a low around 38 "
+1997,2012,14,58,51,Steelers,24,Chargers,34,,ESE,"Showers likely, mainly after 4pm "
+1998,2012,15,38,59,Chargers,7,Panthers,31,,SSE,A 30 percent chance of showers 
+1999,2012,16,29,75,Texans,6,Vikings,23,,SSW,A 20 percent chance of showers and thunderstorms 
+2000,2012,17,71,70,Vikings,37,Packers,34,,SSE,"Mostly cloudy, with a low around 4 "
+2001,2011,1,49,70,Cardinals,28,Panthers,21,,,
+2002,2011,2,51,72,49ers,24,Cowboys,27,,,
+2003,2011,3,44,70,Rams,7,Ravens,37,,,
+2004,2011,4,58,63,Seahawks,28,Falcons,30,,,
+2005,2011,5,53,54,Broncos,24,Chargers,29,,,
+2006,2011,6,36,63,Patriots,20,Cowboys,16,,,
+2007,2011,7,60,70,Vikings,27,Packers,33,,,
+2008,2011,8,46,59,Seahawks,12,Bengals,34,,,
+2009,2011,9,83,54,Chargers,38,Packers,45,,,
+2010,2011,10,25,63,Browns,12,Rams,13,,,
+2011,2011,11,40,70,Falcons,23,Titans,17,,,
+2012,2011,12,40,49,Seahawks,17,Washington,23,,,
+2013,2011,13,34,51,Browns,10,Ravens,24,,,
+2014,2011,14,40,70,Cardinals,21,49ers,19,,,
+2015,2011,15,55,51,Raiders,27,Lions,28,,,
+2016,2011,16,27,37,Steelers,27,Rams,0,,,
+2017,2011,17,22,40,Browns,9,Steelers,13,,,
+2018,2010,1,37,64,Seahawks,31,49ers,6,,,
+2019,2010,2,30,71,Raiders,16,Rams,14,,,
+2020,2010,3,46,70,Rams,30,Washington,16,,,
+2021,2010,4,29,62,Eagles,12,Washington,17,,,
+2022,2010,5,62,71,Raiders,35,Chargers,27,,,
+2023,2010,6,44,73,Broncos,20,Jets,24,,,
+2024,2010,7,73,59,Broncos,14,Raiders,59,,,
+2025,2010,8,73,70,Cardinals,35,Buccaneers,38,,,
+2026,2010,9,50,51,Eagles,26,Colts,24,,,
+2027,2010,10,54,70,Cardinals,18,Seahawks,36,,,
+2028,2010,11,53,70,Saints,34,Seahawks,19,,,
+2029,2010,12,50,52,Raiders,17,Dolphins,33,,,
+2030,2010,13,41,66,Chargers,13,Raiders,28,,,
+2031,2010,14,16,54,Jets,6,Dolphins,10,,,
+2032,2010,15,43,54,Buccaneers,20,Lions,23,,,
+2033,2010,16,57,57,Raiders,26,Colts,31,,,
+2034,2010,17,51,57,Texans,34,Jaguars,17,,,
+2035,2009,1,36,70,Cardinals,16,49ers,20,,,
+2036,2009,2,33,68,49ers,23,Seahawks,10,,,
+2037,2009,3,44,61,Seahawks,19,Bears,25,,,
+2038,2009,4,35,60,49ers,35,Rams,0,,,
+2039,2009,5,49,70,Cardinals,28,Texans,21,,,
+2040,2009,6,59,40,Patriots,59,Titans,0,,,
+2041,2009,7,58,73,Cowboys,37,Falcons,21,,,
+2042,2009,8,57,54,Eagles,40,Giants,17,,,
+2043,2009,9,61,62,49ers,27,Titans,34,,,
+2044,2009,10,24,47,Packers,17,Cowboys,7,,,
+2045,2009,11,34,70,Rams,13,Cardinals,21,,,
+2046,2009,12,37,57,Titans,20,Cardinals,17,,,
+2047,2009,13,43,70,Dolphins,22,Patriots,21,,,
+2048,2009,14,30,40,Patriots,20,Panthers,10,,,
+2049,2009,15,40,34,Eagles,27,49ers,13,,,
+2050,2009,16,57,49,Eagles,30,Broncos,27,,,
+2051,2009,17,40,70,Cardinals,7,Packers,33,,,
+2052,2019,1,52,97,Cowboys,35,Giants,17,9,SSE,Partly cloudy throughout the day
+2053,2019,2,38,66,Raiders,10,Chiefs,28,9,SW,Partly cloudy throughout the day
+2054,2019,3,44,82,49ers,24,Steelers,20,6,WNW,Partly cloudy throughout the day
+2055,2019,4,22,66,Bears,16,Vikings,6,6,E,Rain in the morning
+2056,2019,5,33,80,Chargers,13,Broncos,20,5,SW,Clear throughout the day
+2057,2019,6,41,67,Chargers,17,Steelers,24,7,SW,Clear throughout the day
+2058,2019,7,46,49,Seahawks,16,Ravens,30,6,SE,Possible drizzle in the morning and afternoon
+2059,2019,8,40,50,Patriots,27,Browns,13,8,E,Rain until evening
+2060,2019,9,43,57,Broncos,24,Browns,19,5,ENE,Partly cloudy throughout the day
+2061,2019,10,52,68,Cowboys,24,Vikings,28,9,SSE,Clear throughout the day
+2062,2019,11,27,42,Eagles,10,Patriots,17,8,NE,Overcast throughout the day
+2063,2019,12,22,40,Patriots,13,Cowboys,9,11,NNW,Rain throughout the day
+2064,2019,13,41,70,Cardinals,7,Rams,34,3,E,Clear throughout the day
+2065,2019,14,40,70,Cardinals,17,Steelers,23,4,S,Possible light rain in the morning and afternoon
+2066,2019,15,49,63,Chargers,10,Vikings,39,12,NW,Clear throughout the day
+2067,2019,16,41,65,Chargers,17,Raiders,24,9,SE,Rain in the evening and overnight
+2068,2019,17,49,64,Texans,14,Titans,35,12,NW,Heavy rain in the morning
+2069,2018,1,24,83,Panthers,16,Cowboys,8,6,NE,Light rain in the evening and overnight
+2070,2018,2,34,85,Rams,34,Cardinals,0,4,SSW,Clear throughout the day
+2071,2018,3,58,79,Rams,35,Chargers,23,4,SW,Partly cloudy in the morning
+2072,2018,4,51,69,Giants,18,Saints,33,4,S,Partly cloudy starting in the afternoon
+2073,2018,5,44,78,Eagles,21,Vikings,23,3,SW,Mostly cloudy until evening
+2074,2018,6,21,66,Titans,0,Ravens,21,3,S,Heavy rain in the morning and afternoon
+2075,2018,7,49,71,49ers,10,Rams,39,2,ESE,Mostly cloudy until afternoon
+2076,2018,8,56,81,Rams,29,Packers,27,3,SSW,Partly cloudy throughout the day
+2077,2018,9,48,42,Patriots,31,Packers,17,2,NE,Mostly cloudy overnight
+2078,2018,10,67,73,Rams,36,Seahawks,31,1,NNE,Clear throughout the day
+2079,2018,11,45,31,Bears,25,Vikings,20,3,WSW,Light snow until afternoon
+2080,2018,12,55,72,Chargers,45,Cardinals,10,1,NNW,Partly cloudy in the morning
+2081,2018,13,73,53,Raiders,33,Chiefs,40,1,NNE,Partly cloudy starting in the evening
+2082,2018,14,47,70,Chargers,26,Bengals,21,1,E,Mostly cloudy starting in the afternoon
+2083,2018,15,23,70,Colts,23,Cowboys,0,5,WNW,Overcast in the morning
+2084,2018,16,23,59,49ers,9,Bears,14,1,NNW,Partly cloudy throughout the day
+2085,2018,17,29,41,Steelers,16,Bengals,13,8,SW,Mostly cloudy throughout the day
+2086,2017,1,26,86,49ers,3,Panthers,23,2,NW,Partly cloudy overnight
+2087,2017,2,21,63,Seahawks,12,49ers,9,5,SSW,Light rain in the evening
+2088,2017,3,60,88,Titans,33,Seahawks,27,2,S,Partly cloudy overnight
+2089,2017,4,48,89,Buccaneers,25,Giants,23,4,E,Partly cloudy throughout the day
+2090,2017,5,66,88,Cowboys,31,Packers,35,2,SSW,Clear throughout the day
+2091,2017,6,33,75,Raiders,16,Chargers,17,1,NE,Dry throughout the day
+2092,2017,7,31,72,Giants,7,Seahawks,24,2,SSE,Mostly cloudy starting in the evening
+2093,2017,8,35,70,Lions,15,Steelers,20,2,NW,Mostly cloudy throughout the day
+2094,2017,9,51,76,Dolphins,24,Raiders,27,,NE,Partly cloudy in the morning
+2095,2017,10,52,63,49ers,31,Giants,21,,N,Partly cloudy overnight
+2096,2017,11,41,64,Raiders,8,Patriots,33,3,NNW,Partly cloudy throughout the day
+2097,2017,12,46,67,Rams,26,Saints,20,2,SW,Mostly cloudy throughout the day
+2098,2017,13,52,70,Saints,31,Panthers,21,3,NE,Foggy in the morning
+2099,2017,14,19,70,Cardinals,12,Titans,7,4,ENE,Mostly cloudy starting in the afternoon
+2100,2017,15,49,46,Seahawks,7,Rams,42,5,S,Mostly cloudy throughout the day
+2101,2017,16,77,52,49ers,44,Jaguars,33,,SSE,Mostly cloudy throughout the day
+2102,2017,17,38,71,Dolphins,16,Bills,22,4,NE,Partly cloudy overnight
+2103,2016,1,39,87,Cowboys,19,Giants,20,2,N,Clear throughout the day
+2104,2016,2,52,78,Chargers,38,Jaguars,14,5,WSW,Clear throughout the day
+2105,2016,3,27,65,Chiefs,24,Jets,3,6,NW,Light rain in the morning
+2106,2016,4,69,73,Chargers,34,Saints,35,6,WSW,Partly cloudy starting in the evening
+2107,2016,5,65,78,Raiders,34,Chargers,31,4,WNW,Partly cloudy overnight
+2108,2016,6,50,54,Seahawks,26,Falcons,24,5,S,"Light rain until afternoon, starting again in the evening"
+2109,2016,7,63,70,Falcons,30,Chargers,33,2,WNW,Clear throughout the day
+2110,2016,8,52,78,Cowboys,29,Eagles,23,3,SSE,Clear throughout the day
+2111,2016,9,50,67,Raiders,30,Broncos,20,3,WNW,Mostly cloudy throughout the day
+2112,2016,10,65,54,Steelers,30,Cowboys,35,2,SW,Clear throughout the day
+2113,2016,11,41,51,Seahawks,26,Eagles,15,4,S,Light rain until evening
+2114,2016,12,19,78,Buccaneers,14,Seahawks,5,7,E,"Partly cloudy starting in the afternoon, continuing until evening"
+2115,2016,13,54,70,Cardinals,31,Washington,23,1,SSW,Clear throughout the day
+2116,2016,14,40,53,49ers,17,Jets,23,3,NNW,Mostly cloudy throughout the day
+2117,2016,15,54,70,Falcons,41,49ers,13,6,NW,"Light rain until afternoon, starting again in the evening"
+2118,2016,16,43,55,Rams,21,49ers,22,7,WNW,Light rain in the morning
+2119,2016,17,64,56,Chargers,27,Chiefs,37,4,SW,Partly cloudy in the morning
+2120,2015,1,46,75,Raiders,13,Bengals,33,9,W,Partly cloudy throughout the day
+2121,2015,2,43,83,Jaguars,23,Dolphins,20,5,E,Partly cloudy overnight
+2122,2015,3,54,70,Cardinals,47,49ers,7,3,WSW,Partly cloudy in the morning
+2123,2015,4,46,70,Cardinals,22,Rams,24,14,S,Light rain in the morning and evening
+2124,2015,5,26,76,Raiders,10,Broncos,16,8,WNW,Partly cloudy in the morning
+2125,2015,6,45,68,49ers,25,Ravens,20,1,WNW,Partly cloudy throughout the day
+2126,2015,7,47,59,Giants,27,Cowboys,20,1,NNW,Light rain in the morning
+2127,2015,8,25,63,Cowboys,12,Seahawks,13,,NNE,Light rain until afternoon
+2128,2015,9,60,53,Cowboys,27,Eagles,33,2,ENE,Partly cloudy overnight
+2129,2015,10,42,59,Broncos,13,Chiefs,29,1,NE,"Partly cloudy starting in the afternoon, continuing until evening"
+2130,2015,11,42,48,Seahawks,29,49ers,13,3,NNW,Partly cloudy in the afternoon
+2131,2015,12,58,48,Jets,38,Dolphins,20,5,NNW,Mostly cloudy in the morning
+2132,2015,13,54,60,Raiders,20,Chiefs,34,3,WSW,Drizzle in the morning
+2133,2015,14,41,66,Ravens,6,Seahawks,35,3,SE,Partly cloudy in the morning
+2134,2015,15,61,36,Steelers,34,Broncos,27,3,SE,Partly cloudy starting in the evening
+2135,2015,16,65,70,Saints,38,Jaguars,27,11,SE,"Rain until afternoon, starting again overnight"
+2136,2015,17,40,32,Chiefs,23,Raiders,17,7,N,Mostly cloudy starting in the evening
+2137,2014,1,34,79,Buccaneers,14,Panthers,20,,SE,"Scattered showers and thunderstorms, mainly before 10pm "
+2138,2014,2,41,82,Broncos,24,Chiefs,17,,WNW,Showers in 
+2139,2014,3,37,70,Cardinals,23,49ers,14,,NNW,"Mostly clear, with a low around 76 "
+2140,2014,4,47,75,49ers,26,Eagles,21,,WNW,"Increasing clouds, with a low around 59 "
+2141,2014,5,31,83,Chargers,31,Jets,0,,WSW,Areas of fog after 11pm 
+2142,2014,6,50,70,Cardinals,30,Washington,20,,S,"Clear, with a low around 66 "
+2143,2014,7,52,75,Cowboys,31,Giants,21,,N,"Mostly cloudy, with a low around 59 "
+2144,2014,8,44,70,Cardinals,24,Eagles,20,,WSW,"Partly cloudy, with a low around 63 "
+2145,2014,9,66,37,Steelers,43,Ravens,23,,WNW,"Mostly clear, with a low around 27 "
+2146,2014,10,55,56,Seahawks,38,Giants,17,,N,A 50 percent chance of showers 
+2147,2014,11,20,70,Cardinals,14,Lions,6,,N,"Clear, with a low around 42 "
+2148,2014,12,30,63,49ers,17,Washington,13,,WNW,"Clear, with a low around 47 "
+2149,2014,13,66,78,Texans,45,Titans,21,,S,"Partly sunny, with a high near 78 "
+2150,2014,14,31,70,Cardinals,17,Chiefs,14,1,NW,Partly cloudy throughout the day
+2151,2014,15,32,62,Chargers,10,Broncos,22,5,WNW,Partly cloudy throughout the day
+2152,2014,16,64,70,Rams,27,Giants,37,7,SE,Mostly cloudy throughout the day
+2153,2014,17,50,25,Packers,30,Lions,20,6,NW,Mostly cloudy starting in the afternoon
+2154,2013,1,51,70,Rams,27,Cardinals,24,7,SE,A slight chance of thunderstorms 
+2155,2013,2,30,75,Buccaneers,14,Saints,16,7,SE,Isolated showers and thunderstorms 
+2156,2013,3,47,64,Jets,27,Bills,20,,WNW,"Mostly clear, with a low around 48 "
+2157,2013,4,72,73,Broncos,52,Eagles,20,,NW,"Partly cloudy, with a low around 47 "
+2158,2013,5,37,73,49ers,34,Texans,3,,N,"Mostly clear, with a low around 55 "
+2159,2013,6,57,47,Patriots,30,Saints,27,,N,Patchy fog after 5am 
+2160,2013,7,35,52,Steelers,19,Ravens,16,,SSW,"Mostly clear, with a low around 39 "
+2161,2013,8,75,70,Vikings,31,Packers,44,,N,"Partly cloudy, with a low around 32 "
+2162,2013,9,51,59,Texans,24,Colts,27,,E,"Mostly cloudy, with a low around 56 "
+2163,2013,10,51,70,Cardinals,27,Texans,24,,N,"Mostly clear, with a low around 54 "
+2164,2013,11,43,70,Saints,23,49ers,20,,S,A 30 percent chance of showers and thunderstorms 
+2165,2013,12,45,26,Giants,21,Cowboys,24,,WNW,"Clear, with a low around 19 "
+2166,2013,14,51,53,Chargers,37,Giants,14,,WSW,"Partly cloudy, with a low around 42 "
+2167,2013,15,50,44,Panthers,30,Jets,20,,NW,"Clear, with a low around 32 "
+2168,2013,16,69,22,Packers,31,Steelers,38,5,NNE,Low around 18
+2169,2013,17,43,70,Cardinals,20,49ers,23,,N,"Clear, with a low around 40 "
+2170,2012,1,36,70,Cardinals,20,Seahawks,16,,E,A 30 percent chance of showers and thunderstorms 
+2171,2012,2,48,83,Dolphins,35,Raiders,13,7,E,Scattered showers and thunderstorms 
+2172,2012,3,30,83,Chargers,3,Falcons,27,,NW,Patchy dense fog after 11pm 
+2173,2012,4,55,65,Packers,28,Saints,27,,ENE,Patchy fog after 4am 
+2174,2012,5,48,70,49ers,45,Bills,3,,SW,"Partly cloudy, with a low around 50 "
+2175,2012,6,64,71,Washington,38,Vikings,26,,SSW,Scattered showers after 5am 
+2176,2012,7,41,53,Bengals,17,Steelers,24,,N,"Partly cloudy, with a low around 52 "
+2177,2012,8,53,63,Cowboys,24,Giants,29,,NE,"Mostly clear, with a low around 40 "
+2178,2012,9,44,45,Giants,20,Steelers,24,,WNW,"Mostly clear, with a low around 34 "
+2179,2012,10,48,60,49ers,24,Rams,24,,WSW,"Sunny, with a high near 60 "
+2180,2012,11,53,63,Broncos,30,Chargers,23,,W,"Partly cloudy, with a low around 33 "
+2181,2012,12,29,62,Chargers,13,Ravens,16,,WSW,Areas of fog after 4pm 
+2182,2012,13,33,66,Chargers,13,Bengals,20,4,WNW,Isolated showers 
+2183,2012,14,40,64,49ers,27,Dolphins,13,,N,"Sunny, with a high near 62 "
+2184,2012,15,67,70,Bills,17,Seahawks,50,,,
+2185,2012,16,44,41,Jets,17,Chargers,27,,SW,"Mostly sunny, with a high near 43 "
+2186,2012,17,28,28,Patriots,28,Dolphins,0,,WNW,"Mostly clear, with a low around 14 "
+2187,2011,1,50,71,49ers,33,Seahawks,17,,,
+2188,2011,2,56,63,Patriots,35,Chargers,21,,,
+2189,2011,3,44,63,Bears,17,Packers,27,,,
+2190,2011,4,72,68,Packers,49,Broncos,23,,,
+2191,2011,5,39,70,Falcons,14,Packers,25,,,
+2192,2011,6,49,53,Bears,39,Vikings,10,,,
+2193,2011,7,41,73,Cowboys,34,Rams,7,,,
+2194,2011,8,41,34,Eagles,34,Cowboys,7,,,
+2195,2011,9,32,70,Cardinals,19,Rams,13,,,
+2196,2011,10,39,50,Seahawks,22,Ravens,17,,,
+2197,2011,11,51,41,Bears,31,Chargers,20,,,
+2198,2011,12,45,60,Raiders,25,Bears,20,,,
+2199,2011,13,73,52,Giants,35,Packers,38,,,
+2200,2011,14,23,46,Broncos,13,Bears,10,,,
+2201,2011,15,64,33,Eagles,45,Jets,19,,,
+2202,2011,16,48,70,Lions,38,Chargers,10,,,
+2203,2011,17,69,70,Falcons,45,Buccaneers,24,,,
+2204,2010,1,30,70,Rams,13,Cardinals,17,,,
+2205,2010,2,42,82,Jets,28,Patriots,14,,,
+2206,2010,3,47,70,Cardinals,24,Raiders,23,,,
+2207,2010,4,51,70,Chargers,41,Cardinals,10,,,
+2208,2010,5,61,84,Cowboys,27,Titans,34,,,
+2209,2010,6,45,70,Vikings,24,Cowboys,21,,,
+2210,2010,7,43,68,Chargers,20,Patriots,23,,,
+2211,2010,8,30,70,Saints,20,Steelers,10,,,
+2212,2010,9,52,40,Packers,45,Cowboys,7,,,
+2213,2010,10,43,69,49ers,23,Rams,20,,,
+2214,2010,11,51,70,Rams,17,Falcons,34,,,
+2215,2010,12,27,52,Ravens,17,Buccaneers,10,,,
+2216,2010,13,25,70,Cardinals,6,Rams,19,,,
+2217,2010,14,31,85,Chargers,31,Chiefs,0,,,
+2218,2010,15,52,45,Seahawks,18,Falcons,34,,,
+2219,2010,16,54,30,Bengals,34,Chargers,20,,,
+2220,2010,17,13,19,Packers,10,Bears,3,,,
+2221,2009,1,28,74,Seahawks,28,Rams,0,,,
+2222,2009,2,57,81,Chargers,26,Ravens,31,,,
+2223,2009,3,36,78,Chargers,23,Dolphins,13,,,
+2224,2009,4,27,54,Broncos,17,Cowboys,10,,,
+2225,2009,5,37,28,Broncos,20,Patriots,17,,,
+2226,2009,6,29,44,Jets,13,Bills,16,,,
+2227,2009,7,41,58,Giants,17,Cardinals,24,,,
+2228,2009,8,55,70,Cardinals,21,Panthers,34,,,
+2229,2009,9,36,58,Eagles,16,Cowboys,20,,,
+2230,2009,10,51,70,Cardinals,31,Seahawks,20,,,
+2231,2009,11,45,47,Patriots,31,Jets,14,,,
+2232,2009,12,46,70,Vikings,36,Bears,10,,,
+2233,2009,13,53,39,Browns,23,Chargers,30,,,
+2234,2009,14,54,51,Titans,47,Rams,7,,,
+2235,2009,15,73,27,Steelers,37,Packers,36,,,
+2236,2009,16,41,70,Cardinals,31,Rams,10,,,
+2237,2009,17,43,78,Chargers,23,Washington,20,,,
+2238,2019,1,54,70,Cardinals,27,Lions,27,6,WSW,Partly cloudy throughout the day
+2239,2019,2,36,84,Rams,27,Saints,9,5,SSW,Foggy in the morning
+2240,2019,3,60,62,Seahawks,27,Saints,33,7,S,Light rain until evening
+2241,2019,4,50,86,Broncos,24,Jaguars,26,12,SSW,Foggy in the morning
+2242,2019,5,58,96,Cowboys,24,Packers,34,5,S,Partly cloudy throughout the day
+2243,2019,6,63,51,Buccaneers,26,Panthers,37,4,S,Light rain throughout the day
+2244,2019,7,47,82,Cowboys,37,Eagles,10,8,SSE,Rain and windy overnight
+2245,2019,8,28,70,Colts,15,Broncos,13,6,SW,Overcast throughout the day
+2246,2019,9,57,45,Ravens,37,Patriots,20,,WSW,Clear throughout the day
+2247,2019,10,51,75,49ers,24,Seahawks,27,3,NNW,Partly cloudy throughout the day
+2248,2019,11,24,85,Rams,17,Bears,7,4,W,Clear throughout the day
+2249,2019,12,45,66,49ers,37,Packers,8,2,WNW,Clear throughout the day
+2250,2019,13,49,35,Chiefs,40,Raiders,9,12,NW,Overcast throughout the day
+2251,2019,14,63,58,Raiders,21,Titans,42,3,W,Light rain in the morning
+2252,2019,15,51,55,49ers,22,Falcons,29,6,NW,Clear throughout the day
+2253,2019,16,40,45,Seahawks,13,Cardinals,27,7,N,Light rain in the evening and overnight
+2254,2019,17,58,73,Jaguars,38,Colts,20,4,SSE,Possible light rain in the morning and afternoon
+2255,2018,1,30,70,Cardinals,6,Washington,24,3,WSW,Clear throughout the day
+2256,2018,2,51,93,Jaguars,31,Patriots,20,7,SW,Humid throughout the day and mostly cloudy starting in the afternoon
+2257,2018,3,37,62,Seahawks,24,Cowboys,13,1,S,Mostly cloudy until evening
+2258,2018,4,56,82,Chargers,29,49ers,27,4,SW,"Partly cloudy starting in the afternoon, continuing until evening"
+2259,2018,5,64,54,Seahawks,31,Rams,33,3,SSE,Mostly cloudy throughout the day
+2260,2018,6,47,78,Cowboys,40,Jaguars,7,4,S,Rain starting in the evening and breezy overnight
+2261,2018,7,55,58,Chiefs,45,Bengals,10,6,E,Clear throughout the day
+2262,2018,8,50,70,Vikings,20,Saints,30,8,NW,Mostly cloudy throughout the day
+2263,2018,9,42,73,Cowboys,14,Titans,28,2,NW,Mostly cloudy until afternoon
+2264,2018,10,47,37,Eagles,20,Cowboys,27,1,WSW,Clear throughout the day
+2265,2018,11,105,69,Rams,54,Chiefs,51,1,W,Mostly cloudy starting in the evening
+2266,2018,12,41,41,Broncos,24,Steelers,17,4,NNW,Partly cloudy in the morning
+2267,2018,13,34,51,Patriots,24,Vikings,10,2,SW,Rain until afternoon
+2268,2018,14,52,49,Cowboys,29,Eagles,23,6,NNW,Mostly cloudy until afternoon
+2269,2018,15,49,59,49ers,26,Seahawks,23,7,S,Rain in the evening
+2270,2018,16,40,70,Cardinals,9,Rams,31,1,SE,Partly cloudy starting in the evening
+2271,2018,17,32,51,Broncos,9,Chargers,23,5,N,"Partly cloudy starting in the afternoon, continuing until evening"
+2272,2017,1,22,78,Cowboys,19,Giants,3,3,ENE,Clear throughout the day
+2273,2017,2,47,71,Rams,20,Washington,27,4,SW,Mostly cloudy until afternoon
+2274,2017,3,51,88,Packers,27,Bengals,24,7,S,Clear throughout the day
+2275,2017,4,33,70,Cardinals,18,49ers,15,2,SSE,Clear throughout the day
+2276,2017,5,76,83,Texans,34,Chiefs,42,2,S,"Partly cloudy starting in the afternoon, continuing until evening"
+2277,2017,6,33,53,Broncos,10,Giants,23,,N,Clear throughout the day
+2278,2017,7,21,89,Chargers,21,Broncos,0,2,W,Clear throughout the day
+2279,2017,8,48,41,Chiefs,29,Broncos,19,3,NNW,Partly cloudy until afternoon
+2280,2017,9,47,34,Packers,17,Lions,30,1,W,Mostly cloudy starting in the evening
+2281,2017,10,57,48,Broncos,16,Patriots,41,,WNW,Mostly cloudy starting in the evening
+2282,2017,11,46,52,Cowboys,9,Eagles,37,,ESE,Partly cloudy overnight
+2283,2017,12,51,70,Cardinals,27,Jaguars,24,,SSW,Clear throughout the day
+2284,2017,13,41,55,Raiders,24,Giants,17,3,NW,Clear throughout the day
+2285,2017,14,40,37,Giants,10,Cowboys,30,5,WSW,"Partly cloudy starting in the afternoon, continuing until evening"
+2286,2017,15,48,60,49ers,25,Titans,23,2,N,Clear throughout the day
+2287,2017,16,33,43,Cowboys,12,Seahawks,21,6,N,Mostly cloudy until afternoon
+2288,2017,17,40,62,Chargers,30,Raiders,10,,SSW,Foggy in the morning
+2289,2016,1,74,70,Colts,35,Lions,39,,E,"Partly cloudy starting in the afternoon, continuing until evening"
+2290,2016,2,63,83,Raiders,28,Falcons,35,3,WNW,Clear throughout the day
+2291,2016,3,48,70,Colts,26,Chargers,22,4,S,Light rain starting in the evening
+2292,2016,4,41,68,49ers,17,Cowboys,24,8,WNW,Partly cloudy starting in the evening
+2293,2016,5,39,48,Packers,23,Giants,16,2,E,Partly cloudy until afternoon
+2294,2016,6,46,67,Packers,16,Cowboys,30,4,NE,Mostly cloudy starting in the evening
+2295,2016,7,43,63,Steelers,16,Patriots,27,6,SW,Mostly cloudy in the morning
+2296,2016,8,30,57,Bears,20,Vikings,10,3,SSE,Partly cloudy throughout the day
+2297,2016,9,56,60,Seahawks,31,Bills,25,,WNW,Drizzle in the morning
+2298,2016,10,55,45,Patriots,24,Seahawks,31,2,SW,Clear throughout the day
+2299,2016,11,66,38,Washington,42,Packers,24,15,W,Partly cloudy until evening and breezy until afternoon
+2300,2016,12,67,56,Raiders,35,Panthers,32,6,NW,Light rain in the morning and overnight
+2301,2016,13,49,71,Chargers,21,Buccaneers,28,3,WNW,Partly cloudy starting in the evening
+2302,2016,14,56,64,Rams,14,Falcons,42,2,SW,Mostly cloudy throughout the day
+2303,2016,15,19,27,Broncos,3,Patriots,16,3,N,Partly cloudy starting in the evening
+2304,2016,16,22,72,Texans,12,Bengals,10,8,SE,Foggy in the morning
+2305,2016,17,48,52,49ers,23,Seahawks,25,6,WNW,Mostly cloudy throughout the day
+2306,2015,1,32,86,Broncos,19,Ravens,13,5,NNW,Partly cloudy starting in the afternoon
+2307,2015,2,70,89,Raiders,37,Ravens,33,7,NW,Dry and 
+2308,2015,3,55,80,Dolphins,14,Bills,41,,SW,"Drizzle starting in the afternoon, continuing until evening"
+2309,2015,4,43,60,Broncos,23,Vikings,20,5,NE,"Light rain starting in the afternoon, continuing until evening"
+2310,2015,5,57,57,Giants,30,49ers,27,3,SW,Clear throughout the day
+2311,2015,6,61,70,Colts,27,Patriots,34,2,SSE,Clear throughout the day
+2312,2015,7,43,64,Panthers,27,Eagles,16,,N,Mostly cloudy throughout the day
+2313,2015,8,39,52,Broncos,29,Packers,10,4,WSW,Partly cloudy throughout the day
+2314,2015,9,41,61,Chargers,19,Bears,22,7,WNW,Drizzle overnight
+2315,2015,10,71,42,Seahawks,32,Cardinals,39,1,SSE,Rain in the morning
+2316,2015,11,65,70,Cardinals,34,Bengals,31,2,N,Clear throughout the day
+2317,2015,12,32,57,49ers,13,Cardinals,19,2,NNW,Clear throughout the day
+2318,2015,13,79,70,Saints,38,Panthers,41,3,NNE,Partly cloudy starting in the evening
+2319,2015,14,27,39,Broncos,12,Raiders,15,2,N,Partly cloudy throughout the day
+2320,2015,15,44,60,Chargers,30,Dolphins,14,6,W,Partly cloudy throughout the day
+2321,2015,16,40,37,Seahawks,17,Rams,23,2,SSE,Rain throughout the day
+2322,2015,17,47,44,Broncos,27,Chargers,20,,NE,Partly cloudy starting in the evening
+2323,2014,1,45,84,Cowboys,17,49ers,28,,N,"Mostly cloudy, with a low around 72 "
+2324,2014,2,55,63,Packers,31,Jets,24,,SSW,"A 40 percent chance of showers, mainly after midnight "
+2325,2014,3,49,84,Dolphins,15,Chiefs,34,,SSE,A 30 percent chance of showers and thunderstorms before 11pm 
+2326,2014,4,55,79,Cowboys,38,Saints,17,,ENE,"Partly cloudy, with a low around 68 "
+2327,2014,5,39,88,49ers,22,Chiefs,17,,WNW,"Clear, with a low around 61 "
+2328,2014,6,53,66,Seahawks,23,Cowboys,30,,SSW,"Cloudy, with a low around 53 "
+2329,2014,7,37,70,Raiders,13,Cardinals,24,,W,"Mostly cloudy, with a low around 59 "
+2330,2014,8,36,54,Browns,23,Raiders,13,,W,"Clear, with a low around 43 "
+2331,2014,9,64,53,Giants,24,Colts,40,,SW,"Partly cloudy, with a low around 45 "
+2332,2014,10,69,32,Packers,55,Bears,14,,NNW,A 20 percent chance of snow after 5am 
+2333,2014,11,62,70,Colts,20,Patriots,42,,WNW,Low around 24
+2334,2014,12,59,48,Giants,28,Cowboys,31,,N,"Rain, with thunderstorms also possible after 4am "
+2335,2014,13,47,70,Falcons,29,Cardinals,18,,SSE,"Partly cloudy, with a low around 45 "
+2336,2014,14,37,61,Raiders,24,49ers,13,2,SSW,Mostly cloudy throughout the day
+2337,2014,15,24,49,Seahawks,17,49ers,7,2,ENE,Partly cloudy until afternoon
+2338,2014,16,49,51,Cowboys,42,Colts,7,9,S,Mostly cloudy throughout the day
+2339,2014,17,61,33,Broncos,47,Raiders,14,,NW,Partly cloudy throughout the day
+2340,2013,1,62,66,49ers,34,Packers,28,,N,Patchy fog after midnight 
+2341,2013,2,28,72,Raiders,19,Jaguars,9,,WSW,"Increasing clouds, with a low around 58 "
+2342,2013,3,34,64,49ers,7,Colts,27,,N,"Mostly clear, with a low around 57 "
+2343,2013,4,51,80,Chargers,30,Cowboys,21,,WNW,"Clear, with a low around 58 "
+2344,2013,5,44,63,Raiders,27,Chargers,17,,N,"Mostly clear, with a low around 54 "
+2345,2013,6,52,67,49ers,32,Cardinals,20,,N,"Clear, with a low around 52 "
+2346,2013,7,44,43,Packers,31,Browns,13,,SE,"Rain likely, mainly before midnight "
+2347,2013,8,23,70,Rams,9,Seahawks,14,,ESE,"Partly cloudy, with a low around 46 "
+2348,2013,9,47,48,Packers,20,Bears,27,,S,"Cloudy, then gradually becoming partly cloudy, with a low around 42 "
+2349,2013,10,66,70,Saints,49,Cowboys,17,,N,"Mostly clear, with a low around 57 "
+2350,2013,11,40,61,Giants,27,Packers,13,,N,A slight chance of showers 
+2351,2013,12,65,23,Patriots,34,Broncos,31,,WNW,"Clear, with a low around 12 "
+2352,2013,13,36,66,49ers,23,Rams,13,,N,"Mostly clear, with a low around 52 "
+2353,2013,14,36,45,49ers,19,Seahawks,17,,N,"Clear, with a low around 37 "
+2354,2013,15,87,55,Raiders,31,Chiefs,56,,SW,"Clear, with a low around 40 "
+2355,2013,16,39,69,Chargers,26,Raiders,13,,W,"Clear, with a low around 45 "
+2356,2013,17,51,71,Chargers,27,Chiefs,24,,WSW,"Sunny, with a high near 74 "
+2357,2012,1,26,80,Buccaneers,16,Panthers,10,,NW,Scattered showers and thunderstorms 
+2358,2012,2,37,71,Steelers,27,Jets,10,,ESE,"Mostly clear, with a low around 49 "
+2359,2012,3,56,86,Broncos,25,Texans,31,,W,"Mostly cloudy, with a low around 54 "
+2360,2012,4,46,84,Buccaneers,22,Washington,24,,SW,A 20 percent chance of showers and thunderstorms before midnight 
+2361,2012,5,55,70,Saints,31,Chargers,24,,N,"Partly cloudy, with a low around 58 "
+2362,2012,6,66,77,Texans,24,Packers,42,,SSW,"A 40 percent chance of showers and thunderstorms, mainly before 1am "
+2363,2012,7,20,66,Bears,13,Lions,7,,SW,"A chance of showers, then showers and thunderstorms likely after 1am "
+2364,2012,8,48,54,Broncos,34,Saints,14,,WSW,"Partly cloudy, with a low around 37 "
+2365,2012,9,32,70,Falcons,19,Cowboys,13,,WNW,"Partly cloudy, with a low around 42 "
+2366,2012,10,19,54,Bears,6,Texans,13,,S,"Rain before 5am, then a chance of rain and snow "
+2367,2012,11,23,44,Steelers,10,Ravens,13,,ESE,"Mostly clear, with a low around 30 "
+2368,2012,12,48,70,Cardinals,17,Rams,31,,N,"Mostly clear, with a low around 51 "
+2369,2012,13,37,62,Raiders,17,Browns,20,11,W,"Showers, mainly before 4pm "
+2370,2012,14,58,42,Seahawks,58,Cardinals,0,6,SSE,"Rain, "
+2371,2012,15,51,72,Cowboys,27,Steelers,24,,WSW,"Partly cloudy, with a low around 46 "
+2372,2012,16,46,48,Broncos,34,Browns,12,,WNW,"Partly cloudy, with a low around 23 "
+2373,2012,17,45,54,Chargers,24,Raiders,21,,W,A 30 percent chance of showers and thunderstorms 
+2374,2011,1,41,74,Chargers,24,Vikings,17,,,
+2375,2011,2,46,73,Broncos,24,Bengals,22,,,
+2376,2011,3,23,66,Seahawks,13,Cardinals,10,,,
+2377,2011,4,50,71,Raiders,19,Patriots,31,,,
+2378,2011,5,37,70,Lions,24,Bears,13,,,
+2379,2011,6,30,69,Jets,24,Dolphins,6,,,
+2380,2011,7,69,70,Saints,62,Colts,7,,,
+2381,2011,8,43,61,Chiefs,23,Chargers,20,,,
+2382,2011,9,43,48,Steelers,20,Ravens,23,,,
+2383,2011,10,50,71,Bears,37,Lions,13,,,
+2384,2011,11,27,56,Giants,10,Eagles,17,,,
+2385,2011,12,58,57,Eagles,20,Patriots,38,,,
+2386,2011,13,32,70,Cardinals,19,Cowboys,13,,,
+2387,2011,14,62,41,Packers,46,Raiders,16,,,
+2388,2011,15,37,70,Cardinals,20,Browns,17,,,
+2389,2011,16,27,43,Cowboys,7,Eagles,20,,,
+2390,2011,17,10,32,Broncos,3,Chiefs,7,,,
+2391,2010,1,47,67,Eagles,20,Packers,27,,,
+2392,2010,2,57,82,Washington,27,Texans,30,,,
+2393,2010,3,47,66,Seahawks,27,Chargers,20,,,
+2394,2010,4,20,59,Giants,17,Bears,3,,,
+2395,2010,5,51,75,49ers,24,Eagles,27,,,
+2396,2010,6,51,65,Washington,24,Colts,27,,,
+2397,2010,7,52,59,Packers,28,Vikings,24,,,
+2398,2010,8,47,70,Colts,30,Texans,17,,,
+2399,2010,9,48,46,Bengals,21,Steelers,27,,,
+2400,2010,10,65,50,Steelers,26,Patriots,39,,,
+2401,2010,11,21,54,49ers,0,Buccaneers,21,,,
+2402,2010,12,57,40,Bears,31,Eagles,26,,,
+2403,2010,13,73,70,Colts,35,Cowboys,38,,,
+2404,2010,14,56,70,Cardinals,43,Broncos,13,,,
+2405,2010,15,62,55,Raiders,39,Broncos,23,,,
+2406,2010,16,53,51,Buccaneers,38,Seahawks,15,,,
+2407,2010,17,31,44,Washington,14,Giants,17,,,
+2408,2009,1,36,80,Packers,21,Bears,15,,,
+2409,2009,2,31,70,Bears,17,Steelers,14,,,
+2410,2009,3,43,63,Bengals,23,Steelers,20,,,
+2411,2009,4,66,54,Steelers,38,Chargers,28,,,
+2412,2009,5,40,60,Titans,9,Colts,31,,,
+2413,2009,6,35,70,Falcons,21,Bears,14,,,
+2414,2009,7,44,55,Washington,17,Eagles,27,,,
+2415,2009,8,62,70,Saints,35,Falcons,27,,,
+2416,2009,9,38,50,Broncos,10,Steelers,28,,,
+2417,2009,10,54,70,Chargers,31,Eagles,23,,,
+2418,2009,11,37,52,Raiders,20,Bengals,17,,,
+2419,2009,12,57,63,Chargers,43,Chiefs,14,,,
+2420,2009,13,37,35,Seahawks,20,49ers,17,,,
+2421,2009,14,47,52,Raiders,13,Washington,34,,,
+2422,2009,15,38,30,Ravens,31,Bears,7,,,
+2423,2009,16,26,54,49ers,20,Lions,6,,,
+2424,2009,17,30,47,Seahawks,13,Titans,17,,,
+2425,2019,1,36,64,Patriots,33,Steelers,3,3,NW,Partly cloudy throughout the day
+2426,2019,2,30,88,Broncos,14,Bears,16,4,NE,Partly cloudy throughout the day
+2427,2019,3,47,84,Chargers,20,Texans,27,4,S,Partly cloudy throughout the day
+2428,2019,4,22,70,Saints,12,Cowboys,10,4,ESE,Humid and partly cloudy throughout the day
+2429,2019,5,32,58,Chiefs,13,Colts,19,,SW,Partly cloudy throughout the day
+2430,2019,6,45,42,Packers,23,Lions,22,,SSE,Partly cloudy throughout the day
+2431,2019,7,33,56,Jets,0,Patriots,33,1,WSW,Clear throughout the day
+2432,2019,8,55,52,Chiefs,24,Packers,31,6,NNW,Partly cloudy throughout the day
+2433,2019,9,55,51,Giants,18,Cowboys,37,6,S,Clear throughout the day
+2434,2019,11,41,63,Chargers,17,Chiefs,24,7,NNW,Rain in the evening and overnight
+2435,2019,12,51,64,Rams,6,Ravens,45,3,SSW,Clear throughout the day
+2436,2019,13,43,35,Broncos,23,Chargers,20,4,NNE,Clear throughout the day
+2437,2019,14,39,32,Patriots,16,Chiefs,23,6,SSW,Clear throughout the day
+2438,2019,15,65,72,Cowboys,44,Rams,21,4,WNW,Clear throughout the day
+2439,2019,16,26,44,Eagles,17,Cowboys,9,4,WSW,Clear throughout the day
+2440,2019,17,31,32,Broncos,16,Raiders,15,2,ENE,Clear throughout the day
+2441,2018,1,47,60,Packers,24,Bears,23,4,NE,Partly cloudy until afternoon
+2442,2018,2,39,90,Broncos,20,Raiders,19,3,ESE,Partly cloudy starting in the evening
+2443,2018,3,30,70,Cardinals,14,Bears,16,4,SE,Clear throughout the day
+2444,2018,4,40,66,Steelers,14,Ravens,26,,N,Partly cloudy until afternoon
+2445,2018,5,35,81,Texans,19,Cowboys,16,6,SE,Humid and 
+2446,2018,6,83,45,Patriots,43,Chiefs,40,2,SW,Partly cloudy in the afternoon
+2447,2018,7,43,70,Falcons,23,Giants,20,1,NW,Partly cloudy starting in the evening
+2448,2018,8,31,37,Bills,6,Patriots,25,9,WSW,Mostly cloudy throughout the day
+2449,2018,10,50,68,49ers,23,Giants,27,1,NNW,Mostly cloudy overnight
+2450,2018,12,41,70,Vikings,24,Packers,17,8,NNW,Partly cloudy throughout the day
+2451,2018,13,59,45,Seahawks,43,49ers,16,,WSW,Mostly cloudy until evening
+2452,2018,14,20,70,Cardinals,3,Lions,17,,SW,Partly cloudy overnight
+2453,2018,15,27,41,Steelers,17,Patriots,10,3,NW,Light rain in the morning
+2454,2018,16,59,70,Saints,31,Steelers,28,2,W,Mostly cloudy throughout the day
+2455,2018,17,80,62,Rams,48,49ers,32,3,S,Partly cloudy overnight
+2456,2017,1,48,70,Vikings,29,Saints,19,1,W,Clear throughout the day
+2457,2017,2,59,69,Broncos,42,Cowboys,17,1,NW,Partly cloudy starting in the evening
+2458,2017,3,34,81,Chargers,10,Chiefs,24,4,SW,Clear throughout the day
+2459,2017,4,26,70,Broncos,16,Raiders,10,2,NNW,Light rain in the evening
+2460,2017,5,37,64,Bears,17,Vikings,20,3,NE,"Partly cloudy starting in the afternoon, continuing until evening"
+2461,2017,6,58,53,Titans,36,Colts,22,1,NNE,Mostly cloudy in the morning
+2462,2017,7,30,56,Patriots,23,Falcons,7,,E,Mostly cloudy starting in the evening
+2463,2017,10,66,52,Panthers,45,Dolphins,21,9,NNE,Foggy in the morning
+2464,2017,11,65,46,Seahawks,31,Falcons,34,1,ENE,Rain in the morning
+2465,2017,12,35,61,Raiders,21,Broncos,14,6,S,Rain in the afternoon and overnight
+2466,2017,13,48,70,Cardinals,16,Rams,32,3,SSE,Clear throughout the day
+2467,2017,14,78,79,Rams,35,Eagles,43,1,NNE,Mostly cloudy starting in the afternoon
+2468,2017,15,51,40,Steelers,24,Patriots,27,,S,Foggy starting in the evening
+2469,2017,16,23,70,Cardinals,23,Giants,0,,S,"Partly cloudy starting in the afternoon, continuing until evening"
+2470,2017,17,51,16,Broncos,24,Chiefs,27,3,NNE,Mostly cloudy until evening
+2471,2016,1,44,70,Cardinals,21,Patriots,23,6,WSW,Clear throughout the day
+2472,2016,2,54,86,Broncos,34,Colts,20,1,N,Partly cloudy starting in the evening
+2473,2016,3,37,71,Eagles,34,Steelers,3,1,NW,Clear throughout the day
+2474,2016,4,57,60,Steelers,43,Chiefs,14,,SSW,Light rain until evening
+2475,2016,5,31,57,Panthers,14,Buccaneers,17,2,ENE,Clear throughout the day
+2476,2016,6,49,80,Texans,26,Colts,23,6,SE,Partly cloudy until afternoon
+2477,2016,7,12,70,Cardinals,6,Seahawks,6,1,WNW,Partly cloudy starting in the evening
+2478,2016,10,41,54,Giants,21,Bengals,20,1,SSW,Light rain overnight
+2479,2016,11,47,62,Raiders,27,Texans,20,,SW,Light rain in the afternoon
+2480,2016,12,39,48,Jets,17,Patriots,22,8,WNW,Partly cloudy starting in the afternoon
+2481,2016,13,47,41,Seahawks,40,Panthers,7,1,S,Light rain in the morning and evening
+2482,2016,14,48,27,Packers,38,Seahawks,10,2,SW,Snow (3–6 in
+2483,2016,15,35,60,Chargers,16,Raiders,19,2,NNW,Clear throughout the day
+2484,2016,16,58,39,Steelers,31,Ravens,27,4,NNE,Mostly cloudy throughout the day
+2485,2016,17,70,70,Falcons,38,Saints,32,2,ENE,Rain in the morning and afternoon
+2486,2015,1,53,78,Cowboys,27,Giants,26,9,SSE,Clear throughout the day
+2487,2015,2,30,74,Eagles,10,Cowboys,20,7,N,Partly cloudy until afternoon
+2488,2015,3,26,62,Seahawks,26,Bears,0,7,NNW,Partly cloudy in the morning
+2489,2015,4,46,70,Saints,26,Cowboys,20,1,N,Mostly cloudy until evening
+2490,2015,5,44,76,Chargers,20,Steelers,24,5,S,Partly cloudy throughout the day
+2491,2015,6,34,44,Eagles,27,Giants,7,6,SSW,Clear throughout the day
+2492,2015,7,44,70,Cardinals,26,Ravens,18,2,WNW,Clear throughout the day
+2493,2015,8,55,62,Panthers,29,Colts,26,5,NE,Rain throughout the day
+2494,2015,10,16,49,Bengals,6,Texans,10,2,S,Light rain in the evening
+2495,2015,11,33,28,Patriots,20,Bills,13,5,WNW,Mostly cloudy in the morning
+2496,2015,12,69,37,Seahawks,39,Steelers,30,2,SSW,Partly cloudy until evening
+2497,2015,13,63,44,Patriots,28,Eagles,35,5,SSW,Partly cloudy in the morning
+2498,2015,14,35,52,Packers,28,Cowboys,7,9,S,Heavy rain throughout the day
+2499,2015,15,38,52,49ers,14,Bengals,24,5,S,Light rain starting in the afternoon
+2500,2015,16,46,70,Cardinals,38,Packers,8,2,WSW,Clear throughout the day
+2501,2015,17,42,70,Cardinals,6,Seahawks,36,6,ESE,Mostly cloudy starting in the afternoon
+2502,2014,1,55,70,Broncos,31,Colts,24,,SSW,"Mostly clear, with a low around 56 "
+2503,2014,2,44,73,Raiders,14,Texans,30,,WNW,Patchy fog after 11pm 
+2504,2014,3,46,83,Seahawks,26,Broncos,20,,N,"Increasing clouds, with a low around 58 "
+2505,2014,4,55,72,Chiefs,41,Patriots,14,,E,"Mostly clear, with a low around 63 "
+2506,2014,5,60,35,Patriots,43,Bengals,17,,N,"Clear, with a low around 40 "
+2507,2014,6,27,57,Eagles,27,Giants,0,,SSE,"Mostly cloudy, with a low around 52 "
+2508,2014,7,59,63,Broncos,42,49ers,17,,N,"Clear, with a low around 45 "
+2509,2014,8,85,56,Steelers,51,Colts,34,,W,"Clear, with a low around 35 "
+2510,2014,10,66,49,Eagles,45,Panthers,21,,N,Patchy fog after 4am 
+2511,2014,11,51,25,Titans,24,Steelers,27,,N,A chance of flurries 
+2512,2014,12,41,70,Bills,38,Jets,3,21,WSW,A slight chance of snow showers 
+2513,2014,13,47,23,Packers,26,Patriots,21,,NW,"Partly cloudy, with a low around 5 "
+2514,2014,14,38,39,Eagles,14,Seahawks,24,6,N,Mostly cloudy until afternoon
+2515,2014,15,30,70,Lions,16,Vikings,14,1,W,Mostly cloudy throughout the day
+2516,2014,16,50,62,Raiders,26,Bills,24,6,WNW,Mostly cloudy throughout the day
+2517,2014,17,37,56,49ers,20,Cardinals,17,5,NW,Partly cloudy in the morning
+2518,2013,1,67,86,Cowboys,36,Giants,31,,SE,"Mostly clear, with a low around 74 "
+2519,2013,2,64,67,Giants,23,Broncos,41,,W,"Mostly cloudy, with a low around 59 "
+2520,2013,3,62,61,Seahawks,45,Jaguars,17,15,S,Showers likely 
+2521,2013,4,38,72,Raiders,14,Washington,24,,SW,A 20 percent chance of rain 
+2522,2013,5,58,70,Falcons,28,Jets,30,,N,"Increasing clouds, with a low around 57 "
+2523,2013,6,47,72,Cowboys,31,Washington,16,6,E,"A chance of showers and thunderstorms, then showers likely and possibly a thunderstorm after 1am "
+2524,2013,7,72,70,Colts,39,Broncos,33,,S,"Partly cloudy, with a low around 44 "
+2525,2013,10,41,72,Buccaneers,22,Dolphins,19,,N,"Partly cloudy, with a low around 66 "
+2526,2013,11,44,51,Broncos,27,Chiefs,17,,,"Mostly sunny, with a high near 51 "
+2527,2013,12,33,32,Washington,6,49ers,27,,S,"Cloudy, with a low around 32 "
+2528,2013,13,65,67,Texans,31,Patriots,34,,SSE,"Mostly cloudy, with a low around 59 "
+2529,2013,14,40,70,Cardinals,30,Rams,10,,SSW,"Partly cloudy, with a low around 35 "
+2530,2013,15,73,59,Cowboys,36,Packers,37,,N,"Clear, with a low around 36 "
+2531,2013,16,48,63,Ravens,7,Patriots,41,,N,Low around 57
+2532,2013,17,36,44,Seahawks,27,Rams,9,,N,A chance of sprinkles before 5pm 
+2533,2012,1,50,82,Broncos,31,Steelers,19,,SE,"Mostly clear, with a low around 56 "
+2534,2012,2,48,80,Chargers,38,Titans,10,,SW,Patchy fog after 11pm 
+2535,2012,3,65,68,Raiders,34,Steelers,31,,WNW,"Partly cloudy, with a low around 53 "
+2536,2012,4,36,58,Eagles,19,Giants,17,8,WNW,Isolated showers before midnight 
+2537,2012,5,40,51,Jets,17,Texans,23,3,NNE,A chance of light rain 
+2538,2012,6,59,70,Chargers,24,Broncos,35,,W,"Mostly clear, with a low around 61 "
+2539,2012,8,27,70,Cardinals,3,49ers,24,,SSW,"Clear, with a low around 59 "
+2540,2012,9,41,70,Saints,28,Eagles,13,11,SW,"Showers likely and possibly a thunderstorm before 11pm, then scattered showers and thunderstorms between 11pm and midnight, then isolated showers after midnight "
+2541,2012,10,29,42,Steelers,16,Chiefs,13,,SW,"Showers likely, mainly before 11pm "
+2542,2012,11,39,56,49ers,32,Bears,7,,SE,"Mostly cloudy, with a low around 49 "
+2543,2012,12,52,70,Saints,21,49ers,31,,ENE,"Partly cloudy, with a low around 54 "
+2544,2012,13,43,56,Ravens,20,Steelers,23,,N,"Showers likely, mainly before 10pm "
+2545,2012,14,79,43,Giants,52,Saints,27,,N,Patchy fog
+2546,2012,15,15,56,Raiders,15,Chiefs,0,,ESE,A 30 percent chance of rain 
+2547,2012,16,47,48,Ravens,33,Giants,14,,S,A 20 percent chance of showers and thunderstorms after midnight 
+2548,2012,17,40,53,49ers,27,Cardinals,13,,N,"Mostly clear, with a low around 39 "
+2549,2011,1,51,71,Jets,27,Cowboys,24,,,
+2550,2011,2,36,87,Dolphins,13,Texans,23,,,
+2551,2011,3,29,79,Buccaneers,16,Falcons,13,,,
+2552,2011,4,42,83,Chargers,26,Dolphins,16,,,
+2553,2011,7,19,69,Jaguars,12,Ravens,7,,,
+2554,2011,9,54,39,Eagles,24,Bears,30,,,
+2555,2011,10,47,60,49ers,27,Giants,20,,,
+2556,2011,11,37,30,Patriots,34,Chiefs,3,,,
+2557,2011,12,29,82,Chargers,13,Broncos,16,,,
+2558,2011,13,26,56,49ers,26,Rams,0,,,
+2559,2011,14,47,57,Chargers,37,Bills,10,,,
+2560,2011,15,64,59,Broncos,23,Patriots,41,,,
+2561,2011,16,36,53,Seahawks,17,49ers,19,,,
+2562,2011,17,64,56,Raiders,26,Chargers,38,,,
+2563,2010,1,20,65,Washington,13,Cowboys,7,,,
+2564,2010,2,51,74,Chargers,38,Jaguars,13,,,
+2565,2010,3,40,82,Broncos,13,Colts,27,,,
+2566,2010,4,55,81,Dolphins,14,Patriots,41,,,
+2567,2010,5,49,70,Jets,29,Vikings,20,,,
+2568,2010,6,33,75,Jaguars,3,Titans,30,,,
+2569,2010,7,76,86,Cowboys,35,Giants,41,,,
+2570,2010,10,87,48,Washington,28,Eagles,59,,,
+2571,2010,11,59,37,Patriots,31,Colts,28,,,
+2572,2010,12,69,43,Broncos,33,Rams,36,,,
+2573,2010,13,45,48,Seahawks,31,Panthers,14,,,
+2574,2010,14,57,45,Cowboys,27,Eagles,30,,,
+2575,2010,15,39,25,Steelers,17,Jets,22,,,
+2576,2010,16,62,26,Packers,45,Giants,17,,,
+2577,2010,17,61,45,Broncos,28,Chargers,33,,,
+2578,2009,1,49,73,Patriots,25,Bills,24,,,
+2579,2009,2,33,82,Broncos,27,Browns,6,,,
+2580,2009,3,26,77,Raiders,3,Broncos,23,,,
+2581,2009,4,53,70,Vikings,30,Packers,23,,,
+2582,2009,5,58,84,Dolphins,31,Jets,27,,,
+2583,2009,6,57,70,Chargers,23,Broncos,34,,,
+2584,2009,10,69,70,Colts,35,Patriots,34,,,
+2585,2009,11,35,46,Broncos,3,Chargers,32,,,
+2586,2009,12,23,66,49ers,20,Jaguars,3,,,
+2587,2009,13,55,39,Giants,31,Cowboys,24,,,
+2588,2009,14,37,64,Cowboys,17,Chargers,20,,,
+2589,2009,15,31,54,Seahawks,7,Buccaneers,24,,,
+2590,2009,16,44,70,Colts,15,Jets,29,,,
+2591,2009,17,34,52,Raiders,13,Ravens,21,,,
+2592,2019,1,58,70,Saints,30,Texans,28,5,SSE,Humid and 
+2593,2019,2,44,70,Falcons,24,Eagles,20,2,E,Foggy in the afternoon
+2594,2019,3,33,82,Browns,13,Rams,20,5,SSW,Partly cloudy throughout the day
+2595,2019,4,30,75,Steelers,27,Bengals,3,1,SE,Heavy rain in the morning
+2596,2019,5,34,87,49ers,31,Browns,3,6,NW,Partly cloudy throughout the day
+2597,2019,8,41,61,Steelers,27,Dolphins,14,1,E,Foggy in the morning
+2598,2019,13,50,59,Texans,28,Patriots,22,6,NW,Clear throughout the day
+2599,2019,14,40,64,Rams,28,Seahawks,12,5,WSW,Possible light rain in the morning and afternoon
+2600,2019,15,27,31,Steelers,10,Bills,17,,N,Foggy overnight
+2601,2019,16,29,42,Bears,3,Chiefs,26,1,SSW,Clear throughout the day
+2602,2019,17,55,61,Rams,31,Cardinals,24,2,SSE,Clear throughout the day
+2603,2018,1,65,70,Lions,17,Jets,48,7,N,Foggy in the morning
+2604,2018,2,33,87,Cowboys,20,Giants,13,2,E,"Humid throughout the day and partly cloudy starting in the afternoon, continuing until evening"
+2605,2018,3,36,70,Lions,26,Patriots,10,5,ENE,Clear throughout the day
+2606,2018,4,50,65,Broncos,23,Chiefs,27,2,N,Foggy in the morning
+2607,2018,5,62,70,Saints,43,Washington,19,5,E,Rain in the afternoon and evening
+2608,2018,6,63,35,Packers,33,49ers,30,4,WSW,Mostly cloudy until evening
+2609,2018,12,51,51,Texans,34,Titans,17,7,NNW,Partly cloudy overnight
+2610,2018,13,63,58,Steelers,30,Chargers,33,9,S,Mostly cloudy throughout the day
+2611,2018,14,45,51,Raiders,24,Steelers,21,2,NE,Mostly cloudy throughout the day
+2612,2018,15,53,65,Rams,23,Eagles,30,3,SW,Mostly cloudy starting in the evening
+2613,2018,16,69,45,Seahawks,38,Chiefs,31,4,SSE,Rain in the morning
+2614,2018,17,51,45,Seahawks,27,Cardinals,24,3,SSE,Partly cloudy throughout the day
+2615,2017,1,45,73,Broncos,24,Chargers,21,3,SSE,Partly cloudy in the morning
+2616,2017,2,57,70,Falcons,34,Packers,23,1,NNW,Partly cloudy until afternoon
+2617,2017,3,37,73,Washington,27,Raiders,10,,SE,Clear throughout the day
+2618,2017,4,64,57,Seahawks,46,Colts,18,3,NNW,Partly cloudy throughout the day
+2619,2017,7,58,69,Eagles,34,Washington,24,3,SE,Partly cloudy throughout the day and breezy overnight
+2620,2017,12,59,36,Steelers,31,Packers,28,1,SW,Partly cloudy until afternoon
+2621,2017,13,34,42,Seahawks,24,Eagles,10,,N,Partly cloudy throughout the day
+2622,2017,14,77,30,Steelers,39,Ravens,38,3,SW,Mostly cloudy throughout the day
+2623,2017,15,37,59,Raiders,17,Cowboys,20,,N,Partly cloudy in the morning
+2624,2017,16,40,51,Texans,6,Steelers,34,4,ESE,Mostly cloudy starting in the afternoon
+2625,2017,17,47,63,Rams,13,49ers,34,,SSW,Foggy in the morning
+2626,2016,1,54,76,Washington,16,Steelers,38,3,E,Clear throughout the day
+2627,2016,2,31,70,Vikings,17,Packers,14,4,S,Partly cloudy throughout the day
+2628,2016,3,48,75,Cowboys,31,Bears,17,4,N,Humid and 
+2629,2016,4,34,70,Vikings,24,Giants,10,6,ESE,Partly cloudy until evening
+2630,2016,6,31,70,Cardinals,28,Jets,3,4,SW,Partly cloudy in the morning
+2631,2016,7,36,66,Broncos,27,Texans,9,2,NE,Mostly cloudy throughout the day
+2632,2016,12,57,44,Broncos,27,Chiefs,30,6,WNW,Mostly cloudy throughout the day
+2633,2016,13,51,43,Jets,10,Colts,41,2,WNW,Light rain in the morning
+2634,2016,14,17,30,Giants,10,Cowboys,7,2,SSW,Mixed precipitation starting in the afternoon
+2635,2016,15,46,26,Cowboys,26,Buccaneers,20,7,N,Partly cloudy in the morning
+2636,2016,16,43,60,Chiefs,33,Broncos,10,11,S,Rain throughout the day
+2637,2016,17,29,52,Washington,10,Giants,19,1,WNW,Mostly cloudy throughout the day
+2638,2015,1,50,70,Falcons,26,Eagles,24,2,E,Clear throughout the day
+2639,2015,2,44,54,Packers,27,Seahawks,17,6,SSE,Partly cloudy until afternoon
+2640,2015,3,36,70,Lions,12,Broncos,24,7,S,Partly cloudy throughout the day
+2641,2015,4,23,61,Seahawks,13,Lions,10,2,NNE,Partly cloudy throughout the day
+2642,2015,12,54,21,Broncos,30,Patriots,24,,NNW,Snow (1–3 in
+2643,2015,13,55,35,Steelers,45,Colts,10,2,S,Partly cloudy throughout the day
+2644,2015,14,33,52,Texans,6,Patriots,27,3,S,Rain until evening
+2645,2015,15,57,34,Eagles,17,Cardinals,40,3,S,Partly cloudy until evening
+2646,2015,16,66,12,Vikings,49,Giants,17,5,N,Mostly cloudy overnight
+2647,2015,17,35,57,49ers,19,Rams,16,,NW,Light rain starting in the evening
+2648,2014,1,49,70,Lions,35,Giants,14,,E,"Partly cloudy, with a low around 62 "
+2649,2014,2,48,73,49ers,20,Bears,28,,WNW,"Clear, with a low around 61 "
+2650,2014,3,56,74,Panthers,19,Steelers,37,,WSW,"Mostly cloudy, with a low around 61 "
+2651,2014,5,44,63,Washington,17,Seahawks,27,11,S,Scattered showers after 2am 
+2652,2014,6,48,70,Rams,17,49ers,31,11,S,Scattered rain 
+2653,2014,7,53,51,Steelers,30,Texans,23,,SSW,Low around 47
+2654,2014,8,67,70,Saints,44,Packers,23,,S,"Clear, with a low around 66 "
+2655,2014,12,61,70,Saints,27,Ravens,34,,N,"Partly cloudy, with a low around 50 "
+2656,2014,13,45,25,Chiefs,16,Broncos,29,,N,"Partly cloudy, with a low around 15 "
+2657,2014,14,37,64,Chargers,14,Patriots,23,2,N,Partly cloudy throughout the day
+2658,2014,15,65,42,Eagles,27,Cowboys,38,6,NNW,Mostly cloudy throughout the day
+2659,2014,16,41,70,Cardinals,6,Seahawks,35,1,W,Partly cloudy throughout the day
+2660,2014,17,26,43,Seahawks,20,Rams,6,1,SSW,Mostly cloudy throughout the day
+2661,2013,1,60,72,Washington,27,Eagles,33,,SSE,"Cloudy, with a low around 69 "
+2662,2013,2,32,64,Seahawks,29,49ers,3,6,SE,"Thunder, "
+2663,2013,3,63,52,Steelers,23,Bears,40,,N,"Mostly cloudy, with a low around 45 "
+2664,2013,4,53,70,Falcons,23,Patriots,30,,N,"Mostly cloudy, with a low around 57 "
+2665,2013,6,28,65,Chargers,19,Colts,9,,WSW,"Clear, with a low around 57 "
+2666,2013,7,30,57,Giants,23,Vikings,7,,S,"Partly cloudy, with a low around 51 "
+2667,2013,13,27,76,Chargers,10,Bengals,17,,W,"Mostly clear, with a low around 53 "
+2668,2013,14,44,70,Saints,31,Panthers,13,4,N,Showers likely and possibly a thunderstorm 
+2669,2013,15,50,27,Steelers,30,Bengals,20,,W,Overcast and 
+2670,2013,16,65,60,Eagles,54,Bears,11,,WSW,"Periods of rain, mainly after 2am "
+2671,2013,17,48,71,Raiders,14,Broncos,34,,NE,"Mostly clear, with a low around 38 "
+2672,2012,1,57,60,Ravens,44,Bengals,13,,N,"Clear, with a low around 40 "
+2673,2012,2,46,62,49ers,27,Lions,19,,SW,"Clear, with a low around 51 "
+2674,2012,3,61,54,Ravens,31,Patriots,30,,N,Isolated showers after 2am 
+2675,2012,4,52,79,Cowboys,18,Bears,34,6,WNW,A slight chance of showers and thunderstorms 
+2676,2012,12,48,37,Giants,38,Packers,10,,WSW,"Mostly clear, with a low around 31 "
+2677,2012,13,71,77,Cowboys,38,Eagles,33,,SSE,"Mostly cloudy, with a low around 63 "
+2678,2012,14,47,32,Packers,27,Lions,20,,NE,"Snow, mainly before 3am "
+2679,2012,15,75,37,Patriots,34,49ers,41,,ENE,"Rain and snow showers, becoming all rain after midnight "
+2680,2012,16,41,70,Cardinals,13,Bears,28,,WNW,"Mostly cloudy, with a low around 44 "
+2681,2012,17,41,30,Broncos,38,Chiefs,3,,NNW,A 30 percent chance of snow after 11pm 
+2682,2011,1,62,82,Dolphins,24,Patriots,38,,,
+2683,2011,2,66,70,Falcons,35,Eagles,31,,,
+2684,2011,3,43,70,Colts,20,Steelers,23,,,
+2685,2011,4,51,50,Ravens,34,Jets,17,,,
+2686,2011,10,53,56,Jets,16,Patriots,37,,,
+2687,2011,12,22,34,Chiefs,9,Steelers,13,,,
+2688,2011,13,48,70,Saints,31,Lions,17,,,
+2689,2011,14,71,52,Cowboys,34,Giants,37,,,
+2690,2011,15,48,55,Chargers,34,Ravens,14,,,
+2691,2011,16,56,35,Packers,35,Bears,21,,,
+2692,2011,17,43,70,Cardinals,23,Seahawks,20,,,
+2693,2010,1,19,73,Jets,9,Ravens,10,,,
+2694,2010,2,52,70,Colts,38,Giants,14,,,
+2695,2010,3,54,84,Dolphins,23,Jets,31,,,
+2696,2010,11,44,45,Eagles,27,Giants,17,,,
+2697,2010,12,50,70,Colts,14,Chargers,36,,,
+2698,2010,13,23,28,Ravens,10,Steelers,13,,,
+2699,2010,14,24,70,Vikings,3,Giants,21,,,
+2700,2010,15,58,32,Patriots,31,Packers,27,,,
+2701,2010,16,31,70,Falcons,14,Saints,17,,,
+2702,2010,17,45,50,49ers,38,Cardinals,7,,,
+2703,2009,1,44,67,Raiders,20,Chargers,24,,,
+2704,2009,2,64,88,Cowboys,31,Giants,33,,,
+2705,2009,3,41,70,Cardinals,10,Colts,31,,,
+2706,2009,10,16,46,Browns,0,Ravens,16,,,
+2707,2009,11,44,49,Bears,20,Eagles,24,,,
+2708,2009,12,37,52,Ravens,20,Steelers,17,,,
+2709,2009,13,47,70,Cardinals,30,Vikings,17,,,
+2710,2009,14,83,42,Giants,38,Eagles,45,,,
+2711,2009,15,33,38,Panthers,26,Vikings,7,,,
+2712,2009,16,17,38,Washington,0,Cowboys,17,,,
+2713,2009,17,68,36,Broncos,24,Chiefs,44,,,
+2714,2019,1,40,64,Raiders,24,Broncos,16,1,WSW,Partly cloudy throughout the day
+2715,2019,2,26,71,Jets,3,Browns,23,1,ESE,Mostly cloudy throughout the day
+2716,2019,3,46,82,Washington,15,Bears,31,3,WSW,Partly cloudy throughout the day
+2717,2019,13,67,47,Seahawks,37,Vikings,30,1,S,Mostly cloudy throughout the day
+2718,2019,14,40,50,Eagles,23,Giants,17,8,SSW,Rain throughout the day
+2719,2019,15,41,70,Saints,34,Colts,7,11,S,Light rain overnight
+2720,2019,16,33,70,Vikings,10,Packers,23,5,E,Overcast throughout the day
+2721,2019,17,47,47,Seahawks,21,49ers,26,1,S,Partly cloudy throughout the day
+2722,2018,1,46,71,Raiders,13,Rams,33,5,WSW,Clear throughout the day
+2723,2018,2,41,80,Bears,24,Seahawks,17,2,E,"Partly cloudy starting in the afternoon, continuing until evening"
+2724,2018,3,57,77,Buccaneers,27,Steelers,30,3,N,Humid and 
+2725,2018,13,41,48,Eagles,28,Washington,13,4,WNW,Mostly cloudy starting in the afternoon
+2726,2018,14,28,47,Seahawks,21,Vikings,7,5,S,Light rain overnight
+2727,2018,15,21,48,Panthers,9,Saints,12,,NNW,Clear throughout the day
+2728,2018,16,41,56,Raiders,27,Broncos,14,9,WSW,Rain starting in the afternoon and breezy in the evening
+2729,2018,17,50,53,Titans,17,Colts,33,1,SSE,Rain overnight
+2730,2017,2,34,70,Giants,10,Lions,24,2,ENE,Mostly cloudy throughout the day
+2731,2017,3,45,70,Cardinals,17,Cowboys,28,2,SW,Clear throughout the day
+2732,2017,4,49,78,Chiefs,29,Washington,20,5,SSE,Partly cloudy in the afternoon
+2733,2017,12,39,44,Ravens,23,Texans,16,,SE,Clear throughout the day
+2734,2017,13,43,60,Bengals,20,Steelers,23,3,SSE,Mostly cloudy starting in the evening and windy overnight
+2735,2017,14,47,56,Dolphins,27,Patriots,20,3,NW,Clear throughout the day
+2736,2017,15,45,70,Buccaneers,21,Falcons,24,1,NNW,Mostly cloudy overnight
+2737,2017,16,29,28,Eagles,19,Raiders,10,5,W,Partly cloudy until evening
+2738,2017,17,50,39,Seahawks,24,Cardinals,26,3,N,Mostly cloudy throughout the day
+2739,2016,1,28,60,49ers,28,Rams,0,6,WNW,Partly cloudy in the morning
+2740,2016,2,43,80,Bears,14,Eagles,29,2,S,Partly cloudy overnight
+2741,2016,3,77,70,Saints,32,Falcons,45,,NE,"Light rain until evening, starting again overnight"
+2742,2016,12,40,47,Eagles,13,Packers,27,4,S,Partly cloudy throughout the day
+2743,2016,14,53,33,Patriots,30,Ravens,23,1,SW,Mixed precipitation (1–2 in
+2744,2016,15,41,30,Washington,15,Panthers,26,3,NNE,Mostly cloudy starting in the evening
+2745,2016,16,63,65,Cowboys,42,Lions,21,,NNE,Light rain in the morning and afternoon
+2746,2016,17,55,70,Lions,24,Packers,31,4,SSE,Partly cloudy overnight
+2747,2015,1,23,64,49ers,20,Vikings,3,4,SW,Partly cloudy throughout the day
+2748,2015,2,27,70,Colts,7,Jets,20,3,ENE,Clear throughout the day
+2749,2015,3,66,62,Packers,38,Chiefs,28,3,N,Light rain starting in the afternoon
+2750,2015,12,60,42,Browns,27,Ravens,33,8,E,Mostly cloudy starting in the evening
+2751,2015,13,35,44,Washington,16,Cowboys,19,2,SW,Clear throughout the day
+2752,2015,14,55,75,Dolphins,24,Giants,31,5,SE,Drizzle in the afternoon
+2753,2015,15,62,70,Saints,27,Lions,35,2,SSW,Rain throughout the day
+2754,2015,16,37,16,Broncos,20,Bengals,17,,NW,Partly cloudy starting in the afternoon
+2755,2015,17,33,23,Packers,13,Vikings,20,5,W,Light snow overnight
+2756,2014,1,35,70,Cardinals,18,Chargers,17,,ENE,A 20 percent chance of showers and thunderstorms 
+2757,2014,2,57,70,Colts,27,Eagles,30,,N,A 20 percent chance of rain before 2am 
+2758,2014,3,46,56,Jets,19,Bears,27,,NNW,"Mostly clear, with a low around 47 "
+2759,2014,8,37,76,Cowboys,17,Washington,20,,SSE,"Mostly cloudy, with a low around 67 "
+2760,2014,13,29,43,Jets,13,Dolphins,16,,NNW,"Mostly cloudy, with a low around 31 "
+2761,2014,14,80,32,Packers,43,Falcons,37,4,NW,Snow (1–3 in
+2762,2014,15,46,42,Bears,15,Saints,31,6,SSE,Light rain starting in the afternoon
+2763,2014,16,65,46,Bengals,37,Broncos,28,7,ESE,Light rain overnight
+2764,2014,17,44,35,Pittsburg,27,Bengals,17,1,WNW,Light rain in the morning
+2765,2013,1,59,66,Chargers,28,Texans,31,,WNW,Patchy fog after midnight 
+2766,2013,2,30,58,Bengals,20,Steelers,10,,NNE,Patchy fog after 2am 
+2767,2013,3,58,57,Broncos,37,Raiders,21,,W,"Mostly clear, with a low around 42 "
+2768,2013,4,55,70,Saints,38,Dolphins,17,,E,A 30 percent chance of showers and thunderstorms 
+2769,2013,11,44,56,Panthers,24,Patriots,20,,N,Fair and 
+2770,2013,13,41,37,Washington,17,Giants,24,,S,"Mostly cloudy, with a low around 31 "
+2771,2013,14,73,7,Bears,45,Cowboys,28,,W,"Partly cloudy, with a low around 7 "
+2772,2013,15,34,70,Lions,16,Ravens,18,,N,"Snow, mainly before 4am "
+2773,2013,16,58,57,49ers,34,Falcons,24,,N,"Clear, with a low around 49 "
+2774,2013,17,46,32,Cowboys,22,Eagles,24,,NNW,Areas of drizzle or freezing drizzle before midnight 
+2775,2012,1,36,60,Raiders,14,Chargers,22,,NW,Patchy fog after 11pm 
+2776,2012,2,48,70,Falcons,27,Broncos,21,,S,Showers and possibly a thunderstorm 
+2777,2012,3,26,69,Seahawks,14,Packers,12,,NW,A chance of drizzle after 11pm 
+2778,2012,12,52,37,Eagles,22,Panthers,30,,N,"A chance of rain and snow, mainly after 4am "
+2779,2012,13,33,60,Washington,17,Giants,16,,N,Patchy fog after 4am 
+2780,2012,14,56,59,Patriots,42,Texans,14,,WSW,"A chance of showers, mainly after midnight "
+2781,2012,15,24,51,Titans,14,Jets,10,,WNW,A 20 percent chance of showers before midnight 
+2782,2012,16,55,43,Seahawks,42,49ers,13,3,N,"Showers, mainly before 4am "
+2783,2012,17,46,32,Washington,28,Cowboys,18,,W,"Partly cloudy, with a low around 23 "
+2784,2011,1,43,73,Broncos,20,Raiders,23,,,
+2785,2011,2,44,68,Giants,28,Rams,16,,,
+2786,2011,3,34,86,Cowboys,18,Washington,16,,,
+2787,2011,4,41,73,Buccaneers,24,Colts,17,,,
+2788,2011,10,52,46,Packers,45,Vikings,7,,,
+2789,2011,12,73,70,Saints,49,Giants,24,,,
+2790,2011,13,52,68,Jaguars,14,Chargers,38,,,
+2791,2011,14,43,36,Seahawks,30,Rams,13,,,
+2792,2011,15,23,52,49ers,20,Steelers,3,,,
+2793,2011,16,61,70,Saints,45,Falcons,16,,,
+2794,2011,17,45,50,Giants,31,Cowboys,14,,,
+2795,2010,1,35,81,Chiefs,21,Chargers,14,,,
+2796,2010,2,47,72,49ers,22,Saints,25,,,
+2797,2010,3,37,55,Bears,20,Packers,17,,,
+2798,2010,11,49,57,Chargers,35,Broncos,14,,,
+2799,2010,12,33,70,Cardinals,6,49ers,27,,,
+2800,2010,13,48,28,Patriots,45,Jets,3,,,
+2801,2010,14,62,50,Texans,28,Ravens,34,,,
+2802,2010,15,54,22,Vikings,14,Bears,40,,,
+2803,2010,16,38,37,Eagles,14,Vikings,24,,,
+2804,2010,17,22,42,Seahawks,16,Rams,6,,,
+2805,2009,2,50,85,Dolphins,23,Colts,27,,,
+2806,2009,3,28,81,Cowboys,21,Panthers,7,,,
+2807,2009,11,37,66,Texans,17,Titans,20,,,
+2808,2009,12,55,70,Saints,38,Patriots,17,,,
+2809,2009,13,41,24,Packers,27,Ravens,14,,,
+2810,2009,14,33,53,49ers,24,Cardinals,9,,,
+2811,2009,15,57,35,Washington,12,Giants,45,,,
+2812,2009,17,37,20,Jets,37,Bengals,0,,,
